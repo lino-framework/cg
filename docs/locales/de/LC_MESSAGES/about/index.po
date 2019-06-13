@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019 Rumma & Ko Ltd
+# This file is distributed under the same license as the Lino Software
+# Foundation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Lino Software Foundation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 22:29+0300\n"
+"PO-Revision-Date: 2019-06-04 23:36+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: Luc Saffre <luc.saffre@gmail.com>\n"
+"Language-Team: de\n"
+"Language: de_BE\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: ../../about/index.rst:3
+msgid "About this website"
+msgstr "Über diese Website"
+
+#: ../../about/index.rst:5
+msgid ""
+"This website defines and describes general concepts regarding the "
+"collaboration between different business partners on one or several "
+"projects that use Lino software."
+msgstr ""
+"Diese Website definiert und beschreibt allgemeine Konzepte für die "
+"Zusammenarbeit verschiedener Geschäftspartner im Rahmen eines oder "
+"mehrere Projekte, bei denen Lino verwendet wird."
+
+#: ../../about/index.rst:9
+msgid ""
+"This website is published and maintained by Rumma & Ko Ltd. who can "
+"change it at any moment."
+msgstr ""
+"Diese Website  wird veröffentlicht und gewartet durch Rumma & Ko GmbH "
+"und kann jederzeit angepasst werden."
+
+#: ../../about/index.rst:12
+msgid ""
+"For agreements which refer to this website, the version that was "
+"published at the moment of the agreement is binding unless the partners "
+"agree on a more recent version."
+msgstr ""
+"Für Vereinbarungen, die auf diese Website verweisen, gilt die Version "
+"zum Zeitpunkt der Vereinbarung, außer wenn die Partner sich auf eine "
+"aktuellere Version einigen."
+
+#: ../../about/index.rst:16
+msgid ""
+"This website was last edited on xxx at yyy. A more recent version might "
+"be available under URL."
+msgstr ""
+"Diese Website wurde zuletzt bearbeitet am xxx um yyy. Eine neuere "
+"Version ist möglicherweise verfügbar unter URL."

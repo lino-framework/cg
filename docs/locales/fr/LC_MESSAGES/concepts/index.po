@@ -1,0 +1,152 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019 Rumma & Ko Ltd
+# This file is distributed under the same license as the Lino Community
+# Guide package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lino Community Guide \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-07 12:19+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../concepts/index.rst:3
+msgid "Concepts"
+msgstr ""
+
+#: ../../concepts/index.rst:6
+msgid "The components of a Lino project"
+msgstr ""
+
+#: ../../concepts/index.rst:9
+msgid ""
+"A **Lino application** is a software product with a given set of "
+"functions, designed to be run on one or several *Lino sites*. A *Lino "
+"application* consists of a set of source code and documentation files "
+"which are grouped and published in one or several code repositories."
+msgstr ""
+
+#: ../../concepts/index.rst:14
+msgid ""
+"The **Lino framework** consists of the *source code* and *documentation* "
+"that are used and shared by several *Lino applications*. It consists of "
+"the *Lino Core* and the *Lino Extensions Library*."
+msgstr ""
+
+#: ../../concepts/index.rst:18
+msgid ""
+"A **Lino site** is an instance of a *Lino application* which runs on a "
+"server operated by a *site operator* and used by its *end users*.  Every "
+"*Lino site* has its own domain or subdomain name, its own database, a set"
+" of local settings and configuration files."
+msgstr ""
+
+#: ../../concepts/index.rst:23
+msgid ""
+"A **Lino server** is a virtual or physical machine with a Linux operating"
+" system used to run one or several *Lino sites*."
+msgstr ""
+
+#: ../../concepts/index.rst:26
+msgid ""
+"A **Lino client** is a device used by an *end user* to access a *Lino "
+"site*."
+msgstr ""
+
+#: ../../concepts/index.rst:29
+msgid "Actors and their roles"
+msgstr ""
+
+#: ../../concepts/index.rst:31
+msgid ""
+"An **actor** is a physical or legal person who assumes one or several "
+"roles."
+msgstr ""
+
+#: ../../concepts/index.rst:33
+msgid "A **site operator** is a person who operates a given *Lino site*."
+msgstr ""
+
+#: ../../concepts/index.rst:35
+msgid ""
+"An **application developer** is a person who writes, maintains and "
+"publishes the source code and documentation of a *Lino application*."
+msgstr ""
+
+#: ../../concepts/index.rst:38
+msgid ""
+"A **core developer** is a person who writes, maintains and publishes the "
+"source code and documentation of the *Lino framework*"
+msgstr ""
+
+#: ../../concepts/index.rst:42
+msgid ""
+"A **maintainer** is a person who maintains and increases the quality of a"
+" Lino application"
+msgstr ""
+
+#: ../../concepts/index.rst:45
+msgid "A **coder** is a person who modifies source code"
+msgstr ""
+
+#: ../../concepts/index.rst:48
+msgid ""
+"A **system manager** is a person who manages the IT system of his/her "
+"employer or customer, who installs virgin Linux servers, cares about "
+"their availability in a public or local network, who protects them "
+"against attacks from the outside."
+msgstr ""
+
+#: ../../concepts/index.rst:53
+msgid "A **server manager** is a person who"
+msgstr ""
+
+#: ../../concepts/index.rst:55
+msgid "A **site administrator** is a person who installs and maintains a given"
+msgstr ""
+
+#: ../../concepts/index.rst:57
+msgid ""
+"A **site manager** is a person who has full access to all functions "
+"provided via the web interface"
+msgstr ""
+
+#: ../../concepts/index.rst:60
+msgid ""
+"A **site coordinator** is a physical person who coordinates the "
+"requirements of the *site operator* with the activities of developers and"
+" key users."
+msgstr ""
+
+#: ../../concepts/index.rst:64
+msgid "An **end user** is"
+msgstr ""
+
+#: ../../concepts/index.rst:66
+msgid "A **key user** is"
+msgstr ""
+
+#: ../../concepts/index.rst:69
+msgid "Contracts"
+msgstr ""
+
+#: ../../concepts/index.rst:71
+msgid ""
+"A **development contract** is an agreement between a customer acting as "
+"*site operator* and a provider acting as *developer*."
+msgstr ""
+
+#: ../../concepts/index.rst:74
+msgid ""
+"The customer designates and provides a *system administrator*, a *server "
+"administrator* and a *site coordinator*."
+msgstr ""
+
