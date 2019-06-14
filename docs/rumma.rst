@@ -1,8 +1,8 @@
 .. _rumma_ko:
 
-==========
-Rumma & Ko
-==========
+==============
+Rumma & Ko Ltd
+==============
 
 The work of powering the Lino community is currently being done by
 `Rumma & Ko <http://www.saffre-rumma.net>`_.
@@ -15,4 +15,3 @@ Here is their statement about this:
    independent organization which does not have any private motivation on its own.
    We work on creating this organization: :ref:`lsf`.
 
-See also :doc:`money`.

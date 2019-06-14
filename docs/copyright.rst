@@ -1,6 +1,29 @@
-===========================
-Copyright and contributions
-===========================
+========================
+Copyright considerations
+========================
+
+
+Application ownership and copyright
+===================================
+
+All parts of the Lino framework are published using the BSD license with
+:doc:`rumma` as copyright holder.
+
+The **copyright holder** of source code or documentation is the *developer* who
+wrote and published it.  This is not the same as the *application owner*
+because all source code and documentation is published as Free Software using
+the BSD license.
+
+The BSD license allows to write and publish extensions, applications,
+documentation or otherwise derivative work under a proprietary (non-free)
+license. Such work is not considered part of the *Lino framework*. The Lino
+Community does neither prohibit nor support such work.
+
+Any other actor may decide at any moment to start a fork of application or to
+use your application for their own purpose without even asking your permission.
+
+Source contributions
+====================
 
 If you contribute some code to some repository of the Lino project, we ask you
 to assign your copyright to *Rumma & Ko Ltd* because we want to avoid legal

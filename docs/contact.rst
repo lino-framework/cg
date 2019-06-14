@@ -2,14 +2,15 @@
 Contact
 =======
 
-How to contact us:
+
+How to contact the Lino Community:
 
 - For technical help or questions send an email to
   ``team`` at ``lino-framework.org``
   (your mail will be forwarded to the members of the `Lino team at Rumma & Ko <https://saffre-rumma.net/team/>`__)
 
 - For non-technical and commercial information about Lino
-  please contact `Rumma & Ko <http://www.saffre-rumma.net>`__
+  please contact :doc:`rumma`.
 
 - Subscribe to one of our mailing lists:
   `news <http://lino-framework.org/cgi-bin/mailman/listinfo/news>`__
@@ -25,5 +26,15 @@ How to contact us:
   repositories, and book is the main one. We have an `organization on GitHub
   <https://github.com/lino-framework>`__ which owns the different repositories
   that make up the Lino framework.
+
+
+
+.. toctree::
+   :maxdepth: 1
+
+   humans
+   organizations
+   lsf
+   rumma
 
 

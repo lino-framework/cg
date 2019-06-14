@@ -11,11 +11,13 @@ Sitemap
    :maxdepth: 1
 
    about
-   concepts
-   humans
-   organizations
-   lsf
-   rumma
-   money
+   components
+   actors
+   lifetime
+   development
+   hosting
+   documents
    contact
    copyright
+
+
