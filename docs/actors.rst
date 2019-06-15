@@ -2,73 +2,93 @@
 Actors and their roles
 ======================
 
-A **consultant** is somebody who knows the possibilities and limitations of the
-Lino framework and give you neutral advice about whether or not to choose Lino
-as a solution. They help you with analyzing and formulating your needs and
-finding the right business partners who will implement a solution.
-
-A **site operator** operates (runs) a given *Lino site*.  They are the owner of
-the data stored on that site.  They are responsible for granting or revoking
-access permissions to individual *end users* and for protecting that data
-against leaking or other privacy issues.
-
-An **application owner** decides about the destiny of a given *Lino application*.
-They bring the idea into life,
-they decide how to promote the application,
-they decide which features to add or to remove.
-They do strategic decisions like delegating responsibilities to actors.
-
-Application ownership is not a legally defined term unless you use it in a
-legal document, e.g. a maintenance contract.  Such documents should clearly
-state who is the application owner and who is the copyright holder.
-See also :doc:`copyright`.
-
-A **site administrator** manages a site via its web interface. They create
-accounts for end users and can change configuration settings.
-
-An **application developer** writes, maintains, optimizes and publishes the
-source code and documentation of a particular *Lino application*. A **core
-developer** does the same for general features of the Lino framework.
-
-A **system manager** is an actor who manages the IT system of his/her
-employer or customer, who installs virgin Linux servers, cares about their
-availability in a public or local network, who protects them against attacks
-from the outside.
+An **actor** is a physical or legal person who assumes one or several roles
+within our community.
 
 
-A **site administrator** is a person who installs and maintains a given
+.. glossary::
 
-A **site manager** is a person who has full access to all functions provided
-via the web interface
+    site operator
 
-A **site coordinator** is a physical person who coordinates the requirements of
-the *site operator* with the activities of developers and key users.
+        Operates (runs) a :term:`Lino site`.  They are the owner of the data
+        stored on that site.  They are responsible for granting or revoking
+        access permissions to individual :term:`end users <end user>` and for
+        protecting that data against leaking or other privacy issues.
 
-An **end user** is
+    site manager
 
-A **key user** is
+        Manages a :term:`Lino site` via its web interface. Creates accounts for
+        :term:`end users <end user>` and can change site-wide configuration
+        settings. Has full access to all functions provided via the web
+        interface.
 
-A **hosting provider** installs and maintain a server where
+        Coordinates the requirements of the :term:`site operator`
+        and the :term:`end users <end user>`
+        with the technical activities (:term:`developer` and :term:`deployer`).
+        Collects and centralizes user requests
 
-A **server provider** installs and maintain a server where your Lino
-application will be running.  They care about reliability and make sure that
-your Lino is always available to respond when you need it. They care about
-security and protect your system against hackers. They make backups of your
-data to make sure it doesn't get lost in case of a serious accident.  They care
-about scaling. As your site will grow in terms of number of users and the
-amount of data stored, you might want to move to a bigger machine.
+    end user
+
+        A human who uses a given *Lino site* for their daily work.
+
+    support provider
+
+        Gives support to :term:`end users <end user>`.
+
+        Organizes trainings for :term:`end users <end user>` and :term:`key users <key user>`.
+
+    key user
+
+        An experienced :term:`end user` who knows every detail about how to use
+        a given part of the application, and who can explain and give
+        first-aid support to their colleagues.
+
+.. glossary::
+
+    server provider
+
+        Installs and maintain a server where a :term:`Lino
+        application will be running.  They care about reliability and make sure that
+        your Lino is always available to respond when you need it. They care about
+        security and protect your system against hackers. They make backups of your
+        data to make sure it doesn't get lost in case of a serious accident.  They care
+        about scaling. As your site will grow in terms of number of users and the
+        amount of data stored, you might want to move to a bigger machine.
+
+    developer
+
+        A **developer** writes, maintains, optimizes and publishes the source
+        code and documentation of a particular project.  An **application
+        developer** does this for a given :term:`Lino application`. A **core
+        developer** does the same for general features of the Lino framework.
+
+    consultant
+
+        A **consultant** is somebody who knows the possibilities and
+        limitations of the Lino framework and give you neutral advice about
+        whether or not to choose Lino as a solution. They help you with
+        analyzing and formulating your needs and finding the right business
+        partners who will implement a solution.
+
+    system administrator
+
+        Manages the IT system of a :ref:`site operator`. Installs virgin Linux
+        servers, makes them available in a public or local network, protects
+        them against attacks from the outside.
+
+    deployer
+
+        Installs and maintains the software on a :term:`Lino server`.
+
+    site coordinator
+
+
+
 
 
 
 Miscellaneous
 =============
-
-An **actor** is a physical or legal person who assumes one or several roles
-within our community.
-
-
-An **end user** is a human who uses a given *Lino site* for their daily work.
-As a Lino end user you should know how to contact your *support provider*.
 
 A **support provider** is somebody who helps end users if they have a question.
 The support provider is always available when end users need them. If they

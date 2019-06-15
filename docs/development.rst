@@ -2,25 +2,23 @@
 Development services
 ========================
 
-A **developer** writes, publishes, maintains and optimizes *source files*.
 
-A **source file** is a file which serves as a base for building an executable
-program or a readable text. Some source file formats commonly used in a Lino
-project:
+.. glossary::
 
-- :file:`.py`
-- :file:`.js`
-- :file:`.rst`
+    Developer
 
-Some readable output file formats commonly used in a Lino project:
+        Writes, publishes, maintains and optimizes the *source files* that make
+        up a :term:`Lino application` or the :term:`Lino framework`.
 
-- :file:`.html`
-- :file:`.pdf`
+    Source file
 
+        A file which serves as a base for building an executable program or
+        consumable content (e.g. text, image, sound or video).
 
-A **maintainer** is a person who maintains and increases the quality of a Lino
-application
+        Some source file formats commonly used in a Lino project are :file:`.py`,
+        :file:`.js` and :file:`.rst`.
 
-A **coder** is a person who modifies source code
+        Some consumable content file formats commonly used in a Lino project
+        are :file:`.html` and :file:`.pdf`.
 
 
