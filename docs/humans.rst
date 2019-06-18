@@ -1,3 +1,4 @@
+.. _people:
 .. _lino.humans:
 
 =================
@@ -5,12 +6,31 @@ Lino contributors
 =================
   
 Here is a list of individual humans who deserve being mentioned here because
-they have contributed to Lino.
+they have contributed to Lino.  We put them into several categories: `Active
+contributors`_  have some official job within the community, `Deserved
+contributors`_ contributed unofficially and agreed to be listed with their
+contact data, and `Background contributors`_ just did not yet care of giving us
+their permission to be mentioned here (or we didn't yet ask for it).  We don't
+consider first names as something private. Before giving your permission to
+publish your full name here, please consider that this step cannot be undone.
+If --for whatever regrettable reason-- you would decide to no longer be on this
+list, we would of course remove you from the currently visble version, but you
+would still remain visible in the Git history of this document (for example
+`here
+<https://github.com/lino-framework/cg/blob/master/docs/humans.rst>`__)
+until the end of time since this content is published under the BSD license.
+
+
 
 .. |br| raw:: html
 
-   <br />   
-   
+   <br />
+
+
+.. _lino.team:
+
+Active contributors
+===================
 
 .. image:: /images/luc.jpg
    :alt: Luc
@@ -41,6 +61,10 @@ Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`_
 **Tonis Piip** |br| Core developer and consultant at :ref:`rumma_ko`.
 |br| *tonis* [at] *lino-framework.org*
 
+
+Deserved contributors
+=====================
+
 |br|
 
 .. image:: /images/tanel.jpg
@@ -63,6 +87,8 @@ Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`_
 |br| *manuel* [at] *lino-framework.org*
 |br| Lino consultant and hosting provider in **Belgium**
 (`Code Gears <http://code-gears.com/>`__).
+Thanks for feedback on technologies, web design, and marketing.
+
 
 |br|
 
@@ -84,7 +110,6 @@ Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`_
 |br| *mahmoud* [at] *lino-framework.org*
 |br| Lino consultant and hosting provider in **Egypt**
 (`Excellent Serv <http://www.xservx.com/>`__).
-
 
 
 |br|
@@ -113,40 +138,31 @@ or `GitHub <https://github.com/orgs/lino-framework/people/subha-py>`__
 or `GitHub <https://github.com/sandeez>`__
 
 
-.. rubric:: Candidates
 
-Here is a list of individuals who deserve to be mentioned here, but we didn't
-yet ask for their permission to publish them.  We don't consider first names as
-something private.
+**Abdelkader HANNACHE** provides Lino hosting and development in
+Montreal (Canada).
+Phone: +1 (438) 368-4094
+Website: https://www.shareforshow.com
+E-mail:   kader.ia@live.fr
 
-Before giving your permission to publish your full name here, please consider
-that this step cannot be undone.  If --for whatever regrettable reason-- you
-would decide to no longer be on this list, we would of course remove you from
-the currently visble version, but you would still remain visible in the Git
-history of this document (for example `here
-<https://github.com/lino-framework/book/blob/master/docs/community/humans.rst>`__)
-until the end of time since this content is published under the BSD license.
+Background contributors
+=======================
 
 **Paul** was Luc's employer during the first 8 years and never stopped
 believing in TIM_ and later Lino. He provides professional Lino server hosting
 and promotes Lino Welfare in Belgium.
 
-.. He works as CEO of AbAKUS.
-
 **Gerd**
 contributed more than 20 years of testing, advice, ideas and end-user training.
-
-.. He works as system manager for ÖSHZ Eupen.
+for Lino Welfare and the general framework.
 
 **Elmar**
 contributed more than 20 years of trust and political support.
-
-.. He works as CEO for ÖSHZ Eupen.
+He sustained Lino on the political level and gave constructive feedback at
+the management level.
 
 **Mathieu**
 contributed more than 5 years of trust and political support.
-
-.. He works as coordinator for CPAS de Chatelet.
 
 **Alexa** has contributed more than 600 hours of volunteer work for testing and
 training.
@@ -157,18 +173,40 @@ training.
 
 **Ralf** contributed many hours of business advice.
 
+**Stany** contributed many hours of technical and business advice.
+
 **Thierry** contributed many hours of business advice and customer analysis.
 
 **Mads Michael** contributed advice, analysis and testing about accounting
 features and the general organization of our community.
 
-**Abdelkader HANNACHE** provides Lino hosting and development in
-Montreal (Canada).
-Phone: +1 (438) 368-4094
-Website: https://www.shareforshow.com
-E-mail:   kader.ia@live.fr
+- Alicia for constructive end-user feedback (Lino Welfare)
 
-.. Also mention Johanna, Anna  Lisa, Lydia?
+- Andreas for constructive end-user feedback and
+  consultation on accounting and marketing  questions.
+
+- Hubert for constructive end-user feedback (Lino Welfare)
+
+- Hugh for constructive feedback on web design and philosophical
+  questions.
+
+- Joe for advice, analysis and code contributions
+
+- Johanna for constructive end-user feedback (Lino Avanti)
+
+- Lydia for constructive end-user feedback (Lino Presto)
+
+- Melanie B and Melanie L for constructive end-user feedback (Lino Welfare)
+
+- Merike for feedback on technical and infrastructural questions.
+
+- Otto for feedback on technical questions.
+
+- Ralf for competent feedback on marketing questions
+
+- Roger for lots of ideas on marketing (Lino Voga)
+
+- Sven for analysis, testing and user feedback (Lino Voga)
 
 
 .. _TIM: http://tim.lino-framework.org/129.html

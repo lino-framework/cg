@@ -1,3 +1,5 @@
+.. _developers:
+
 ========================
 Development services
 ========================
@@ -7,7 +9,9 @@ Development services
 
     Developer
 
-        Writes, publishes, maintains and optimizes the *source files* that make
+        Writes, publishes, maintains and optimizes *source files*.
+
+        A *Lino developer* does this for the source files that make
         up a :term:`Lino application` or the :term:`Lino framework`.
 
     Source file

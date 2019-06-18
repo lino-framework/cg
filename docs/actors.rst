@@ -45,26 +45,26 @@ within our community.
 
 .. glossary::
 
-    server provider
+    Server provider
 
         Installs and maintain a server where a :term:`Lino
-        application will be running.  They care about reliability and make sure that
+        application` will be running.  They care about reliability and make sure that
         your Lino is always available to respond when you need it. They care about
         security and protect your system against hackers. They make backups of your
         data to make sure it doesn't get lost in case of a serious accident.  They care
         about scaling. As your site will grow in terms of number of users and the
         amount of data stored, you might want to move to a bigger machine.
 
-    developer
+    Developer
 
-        A **developer** writes, maintains, optimizes and publishes the source
+        Writes, maintains, optimizes and publishes the source
         code and documentation of a particular project.  An **application
         developer** does this for a given :term:`Lino application`. A **core
-        developer** does the same for general features of the Lino framework.
+        developer** does the same for general features of the :term:`Lino framework`.
 
-    consultant
+    Lino consultant
 
-        A **consultant** is somebody who knows the possibilities and
+        Knows the possibilities and
         limitations of the Lino framework and give you neutral advice about
         whether or not to choose Lino as a solution. They help you with
         analyzing and formulating your needs and finding the right business
@@ -72,15 +72,13 @@ within our community.
 
     system administrator
 
-        Manages the IT system of a :ref:`site operator`. Installs virgin Linux
+        Manages the IT system of a :term:`site operator`. Installs virgin Linux
         servers, makes them available in a public or local network, protects
         them against attacks from the outside.
 
     deployer
 
         Installs and maintains the software on a :term:`Lino server`.
-
-    site coordinator
 
 
 
