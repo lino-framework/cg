@@ -24,7 +24,7 @@ There are three types of hosting services:
 Server hosting
 ==============
 
-In case of **server hosting** the site operator has two contracts: one with a
+In case of **server hosting** the server operator has two contracts: one with a
 developer and one with a hoster.
 
 Your job is to provide and manage the server where the developer will

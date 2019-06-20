@@ -22,7 +22,7 @@ The components of a Lino project
     Lino site
 
         An instance of a :term:`Lino application` which runs on a server
-        operated by a :term:`site operator` and used by its :term:`end users
+        operated by a :term:`server operator` and used by its :term:`end users
         <end user>`.  Every :term:`Lino site` has its own domain or subdomain
         name, its own database, a set of local settings and configuration
         files.

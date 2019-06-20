@@ -13,7 +13,7 @@ Sitemap
    about
    components
    actors
-   lifetime
+   lifecycle
    development
    hosting
    documents
