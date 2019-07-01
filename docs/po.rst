@@ -5,9 +5,6 @@ The project operator
 A Lino project needs somebody who acts as its :term:`project operator`.
 This is usually the **customer** in a :term:`development contract`.
 
-High-level responsibilities
-===========================
-
 
 .. glossary::
 
@@ -43,14 +40,11 @@ High-level responsibilities
         Legally responsible for protecting that data against privacy issues.
         Manages access permissions to individual :term:`end users <end user>`.
 
+    System administrator
 
-    End-user support
-
-        Gives first-level support to :term:`end users <end user>`.
-
-        The support provider is always available when end users need them.
-        Forwards the request other actors if they cannot help directly.
-        Organizes trainings for :term:`end users <end user>` and :term:`key users <key user>`.
+        Manages the general IT system of a :term:`project operator`. Installs,
+        configures and maintains :term:`client devices <client device>` as
+        required.
 
     Site manager
 
@@ -69,46 +63,18 @@ High-level responsibilities
         a given part of the application, who can explain this to their colleagues and
         who can give first-level support.
 
+    End-user support
+
+        Gives first-level support to :term:`end users <end user>`.
+
+        The support provider is always available when end users need them.
+        Forwards the request other actors if they cannot help directly.
+        Organizes trainings for :term:`end users <end user>` and :term:`key users <key user>`.
+
     Client device
 
         Any device used by an :term:`end user` to access a :term:`Lino site`.
 
         This can be a desktop or notebook computer, or a mobile device.
-
-
-Technical responsibilities
-==========================
-
-.. glossary::
-
-
-    System administrator
-
-        Manages the general IT system of a :term:`project operator`. Installs,
-        configures and maintains :term:`client devices <client device>` as
-        required.
-
-    Server provider
-
-        Installs and maintains virgin Debian servers to be used for running
-        :term:`Lino sites <Lino site>`.
-
-        Is responsible for root actions, backups, reliable functioning,
-        granting access to the server
-        and protecting it against unauthorized access.
-
-        Creates one or several SSH user accounts with sudo privileges to be
-        used by the :term:`server maintainer`.  Grants access to the server via
-        SSH.
-
-        Makes the sites on the server available to :term:`end users <end user>` via public
-        or local network.
-
-    Server maintainer
-
-        Installs and maintains the software on a given server.
-        Plans and executes software updates and data migrations.
-        Communicates with the :term:`application developer` if needed.
-
 
 
