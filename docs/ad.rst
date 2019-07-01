@@ -11,9 +11,21 @@ Duties of the **provider** in a :term:`development contract`:
 
         The :term:`developer` of a given :term:`Lino application`.
 
-    Site maintainer
+    Application expert
 
-        Installs and maintains the software on a :term:`Lino site` or
-        :term:`Lino server`.
+        The contact person between the :term:`project operator`, :term:`server
+        maintainer` and :term:`application developer` of a given :term:`Lino
+        application`.
 
+        Communicates the requirements of the :term:`site operator` to the developer.
+        Collects the support requests reported by :term:`end users <end user>`.
+        Introduces :term:`developer support` requests.
+        Answers the developer's callback questions.
+
+        Coordinates the activities before and after a :term:`site upgrade`.
+
+        Collaborates with the users in order to
+        analyze their needs, and who then explains to the *application
+        developer* how to make the application better (or how to make it at
+        all, in case of new development projects).
 

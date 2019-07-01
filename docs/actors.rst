@@ -9,7 +9,7 @@ within our community.
 .. toctree::
    :maxdepth: 1
 
-   so
+   po
    ad
    sp
    ct

@@ -29,5 +29,6 @@ The components of a Lino project
 
     Lino server
 
-        A virtual or physical machine used to run one or several Lino sites*.
+        A virtual or physical machine used to run one or several :term:`Lino
+        sites <Lino site>`.
 
