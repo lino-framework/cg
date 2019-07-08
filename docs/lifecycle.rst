@@ -78,13 +78,14 @@ Development modes
 
     Site upgrade
 
-        A phase where
-        the :term:`server maintainer` applies new versions of the
+        A phase where the :term:`server maintainer` applies new versions of the
         software running on a :term:`Lino site` in order to develop or optimize
-        its functions according to the requirements of the site owner.
+        its functions according to the requirements of the :term:`site
+        operator`.
 
-        Data migration,
-        End-user testing
+        Activities during a :term:`site upgrade` include
+        :term:`data migration`, :term:`end-user testing`,
+        writing :term:`release notes`.
 
         A production site can move from one server to another server.
 

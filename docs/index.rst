@@ -14,9 +14,6 @@ Sitemap
    components
    actors
    lifecycle
-   development
-   hosting
-   documents
    contact
    copyright
 

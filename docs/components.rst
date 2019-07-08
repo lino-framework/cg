@@ -32,3 +32,7 @@ The components of a Lino project
         A virtual or physical machine used to run one or several :term:`Lino
         sites <Lino site>`.
 
+    End-user documentation
+
+        Documentation written for :term:`end users <end user>` of a given
+        :term:`Lino application`.

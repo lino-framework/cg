@@ -1,6 +1,6 @@
-====================
-The project operator
-====================
+=================
+Project operation
+=================
 
 A Lino project needs somebody who acts as its :term:`project operator`.
 This is usually the **customer** in a :term:`development contract`.
@@ -16,15 +16,24 @@ This is usually the **customer** in a :term:`development contract`.
         Decides which features to add or to remove.
         Does strategic decisions.
 
+        Delegates responsibilities to other actors:
+        a :term:`system administrator`,
+        a :term:`server provider`,
+        a :term:`server maintainer`
+        and an :term:`application expert`.
+        Organizes :term:`end-user support`.
+
         A small Lino project can be a single site on a single server. In that
-        case the project operator is both :term:`server operator` and
-        :term:`site operator`.
+        case the project operator is
+        :term:`server operator`,
+        :term:`site operator`
+        and :term:`application operator` in one person.
 
+    Application operator
 
-        Delegates responsibilities to other actors: a :term:`system
-        administrator`, a :term:`server provider`, a :term:`server maintainer`
-        and an :term:`application expert`. Organizes :term:`end-user support`.
-
+        When a same :term:`Lino application` is being used on several sites,
+        the :term:`operators <site operator>` of these sites must collaborate
+        and maintain the application as their shared :term:`software project`.
 
     Server operator
 
@@ -36,8 +45,8 @@ This is usually the **customer** in a :term:`development contract`.
     Site operator
 
         Operates a given :term:`Lino site`.
-        The owner of the data stored on that site.
-        Legally responsible for protecting that data against privacy issues.
+        Is the owner of the data stored on that site.
+        Is legally responsible for protecting that data against privacy issues.
         Manages access permissions to individual :term:`end users <end user>`.
 
     System administrator
