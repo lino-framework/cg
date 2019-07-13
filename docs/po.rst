@@ -9,9 +9,21 @@ This is usually the **customer** in a :term:`development contract`.
 .. glossary::
 
 
+    Lino software project
+
+        A project where some :term:`actor` decides to use the :term:`Lino
+        framework` for their purposes.
+
+        For example you develop your own :term:`Lino application` and run it
+        on a :term:`site <Lino site>` of your own.
+
+        Or you may operate your own :term:`Lino server` and share maintenance
+        and development costs for one or several Lino applications with other
+        :term:`site operators <site operator>`.
+
     Project operator
 
-        Brings a given :term:`software project` into life.
+        Brings a :term:`Lino software project` into life.
         Plans the project and decides about its destiny.
         Decides which features to add or to remove.
         Does strategic decisions.
@@ -32,8 +44,8 @@ This is usually the **customer** in a :term:`development contract`.
     Application operator
 
         When a same :term:`Lino application` is being used on several sites,
-        the :term:`operators <site operator>` of these sites must collaborate
-        and maintain the application as their shared :term:`software project`.
+        the :term:`operators <site operator>` of these sites collaborate and
+        maintain the application as their shared :term:`Lino software project`.
 
     Server operator
 

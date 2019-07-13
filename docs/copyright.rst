@@ -83,8 +83,8 @@ This is why in a :term:`maintenance contract` for :term:`permissive Free
 Software license` it makes sense to clearly name both the :term:`project
 operator` and the :term:`copyright holder`.
 
-Optionally the :term:`project operator` may register their :term:`software
-project` as a trademark.
+Optionally the :term:`project operator` may register some part of their project
+as a trademark.
 
 
 Source contributions

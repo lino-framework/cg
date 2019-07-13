@@ -10,25 +10,33 @@ Some concepts used in software development business.
 .. glossary::
 
 
+    Development operator
+
+        An :term:`actor` who manages a team of :term:`developers <developer>`
+        and provides infrastructure for their collaboration.
+
+        Provides :term:`developer support` to their customers in order to help
+        them with using the software.
+
+
     Developer
 
-        Writes, publishes, maintains and optimizes :term:`source files <source
-        file>` of a :term:`software project`.
+        A physical person who writes, publishes, maintains and optimizes
+        :term:`source files <source file>` of a :term:`code repository`
+        according to the requirements of a :term:`development operator`.
 
-        Provides :term:`developer support` to users in order to help them with
-        using the software.
-
-        The Lino community differentiate between :term:`application developer`
-        and the :term:`core developer`.
+        The Lino community differentiate between :term:`application developers
+        <application developer>` and :term:`core developers <core developer>`.
 
     Core developer
 
-        The :term:`developer` working for the :term:`core team`.
+        A :term:`developer` working for the :term:`core team`.
 
 
     Application developer
 
-        The :term:`developer` of a given :term:`Lino application`.
+        A :term:`developer` of a given :term:`Lino application`. Communicates
+        with the :term:`application expert`.
 
 
 .. glossary::
@@ -42,6 +50,8 @@ Some concepts used in software development business.
         and **writing documentation** for the community.
 
         Analysis, specifications, release notes, end-user documentation.
+
+        See also :term:`end-user support`.
 
     Analysis
 
@@ -114,7 +124,7 @@ Some concepts used in software development business.
 .. glossary::
 
 
-    Software project
+    Code repository
 
         A set of :term:`source files <source file>` that implements a
         given set of functions.
