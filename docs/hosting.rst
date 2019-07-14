@@ -30,7 +30,6 @@ they provide:
 
         Provided by a :term:`server provider`.
 
-
     Application hosting
 
         The :term:`hoster` is also the :term:`application operator`.
@@ -67,9 +66,23 @@ they provide:
 
     Server maintainer
 
-        Installs and maintains the software on a given server.
+        Installs and maintains the software on a :term:`Lino server`,
+        either as the :term:`system administrator` of a :term:`site operator`
+        or for a :term:`hoster` who provides
+        :term:`application hosting` to their customers.
+
+        Takes care of the maintenance and security of those servers.
         Plans and executes software updates and data migrations.
         Communicates with the :term:`application developer` if needed.
+
+        As a server maintainer you don't need profound knowledge of the Python
+        language, but you are going to install Python packages (using `pip
+        <https://pip.pypa.io/en/stable/>`__ into virtual environments (using
+        `virtualenv <https://virtualenv.pypa.io/en/stable/index.html>`__).
+        Previous experience with hosting `Django
+        <https://www.djangoproject.com/>`_ applications is useful.
+
+
 
 
 .. glossary::

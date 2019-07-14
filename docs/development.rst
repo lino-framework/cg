@@ -12,12 +12,11 @@ Some concepts used in software development business.
 
     Development operator
 
-        An :term:`actor` who manages a team of :term:`developers <developer>`
+        An organization who manages a team of :term:`developers <developer>`
         and provides infrastructure for their collaboration.
 
-        Provides :term:`developer support` to their customers in order to help
-        them with using the software.
-
+        Provides :term:`developer services <developer service>` to their
+        customers in order to help them with using the software.
 
     Developer
 
@@ -39,25 +38,44 @@ Some concepts used in software development business.
         with the :term:`application expert`.
 
 
+Developer services
+==================
+
+        Provides :term:`developer support` to their customers in order to help
+
+
 .. glossary::
 
+    Developer service
 
-    Developer support
-
-        The explanations given by the developer about his work.
-
-        This includes **interactive support** in response to specific customer requests
-        and **writing documentation** for the community.
-
-        Analysis, specifications, release notes, end-user documentation.
-
-        See also :term:`end-user support`.
+        One of the services provided by a :term:`development operator`.
+        This includes
+        :term:`analysis`,
+        :term:`coding`,
+        :term:`testing`,
+        :term:`deployment`,
+        :term:`maintenance` and
+        :term:`technical support`.
 
     Analysis
 
         The work of analyzing the needs of a :term:`project operator` in order
         to implement a software solution which helps them to work more
         efficiently.
+
+    Coding
+
+        Submit a change
+
+    Technical support
+
+        The explanations given by the developer about his work.
+        This is more technical and specialized than :term:`end-user support`.
+
+        This includes **interactive support** in response to specific customer requests
+        and **writing documentation** for the community.
+
+        Analysis, specifications, release notes, end-user documentation.
 
 
 
