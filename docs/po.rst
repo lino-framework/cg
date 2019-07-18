@@ -9,18 +9,6 @@ This is usually the **customer** in a :term:`development contract`.
 .. glossary::
 
 
-    Lino software project
-
-        A project where some :term:`actor` decides to use the :term:`Lino
-        framework` for their purposes.
-
-        For example you develop your own :term:`Lino application` and run it
-        on a :term:`site <Lino site>` of your own.
-
-        Or you may operate your own :term:`Lino server` and share maintenance
-        and development costs for one or several Lino applications with other
-        :term:`site operators <site operator>`.
-
     Project operator
 
         Brings a :term:`Lino software project` into life.
@@ -92,10 +80,10 @@ This is usually the **customer** in a :term:`development contract`.
         Forwards the request other actors if they cannot help directly.
         Organizes trainings for :term:`end users <end user>` and :term:`key users <key user>`.
 
-    Client device
+    End-user documentation
 
-        Any device used by an :term:`end user` to access a :term:`Lino site`.
+        Documentation written for :term:`end users <end user>` of a given
+        :term:`Lino application`.
 
-        This can be a desktop or notebook computer, or a mobile device.
 
 

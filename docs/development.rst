@@ -10,13 +10,21 @@ Some concepts used in software development business.
 .. glossary::
 
 
-    Development operator
+    Development provider
 
-        An organization who manages a team of :term:`developers <developer>`
-        and provides infrastructure for their collaboration.
+        An organization who employs a team of :term:`software experts <software
+        expert>` and operates an infrastructure for their collaboration.
 
         Provides :term:`developer services <developer service>` to their
         customers in order to help them with using the software.
+
+
+Developer services
+==================
+
+
+.. glossary::
+
 
     Developer
 
@@ -24,34 +32,21 @@ Some concepts used in software development business.
         :term:`source files <source file>` of a :term:`code repository`
         according to the requirements of a :term:`development operator`.
 
-        The Lino community differentiate between :term:`application developers
-        <application developer>` and :term:`core developers <core developer>`.
+    Programmer
 
-    Core developer
+        A :term:`developer` specialized in writing :term:`source code`.
 
-        A :term:`developer` working for the :term:`core team`.
-
-
-    Application developer
-
-        A :term:`developer` of a given :term:`Lino application`. Communicates
-        with the :term:`application expert`.
-
-
-Developer services
-==================
-
-        Provides :term:`developer support` to their customers in order to help
 
 
 .. glossary::
 
     Developer service
 
-        One of the services provided by a :term:`development operator`.
+        One of the services provided by a :term:`development provider`.
+
         This includes
         :term:`analysis`,
-        :term:`coding`,
+        :term:`programming`,
         :term:`testing`,
         :term:`deployment`,
         :term:`maintenance` and
@@ -63,9 +58,14 @@ Developer services
         to implement a software solution which helps them to work more
         efficiently.
 
-    Coding
+    Programming
 
         Submit a change
+
+    Testing
+
+        Quality Control. Make sure that a new version does not introduce
+        regressions or other side effects.
 
     Technical support
 
@@ -81,23 +81,6 @@ Developer services
 
 .. glossary::
 
-
-    Development project
-
-        A project where a new :term:`Lino site` is being developed.
-        Usually regulated by a :term:`development contract`.
-
-    Maintenance project
-
-        A project where a new :term:`Lino application` is being developed.
-
-    Pilot project
-
-        A project where the :term:`site operator` is
-        also the :term:`application operator`.
-
-        the only user of a given
-        :term:`Lino application` running on their :term:`server <Lino server>`.
 
     Maintenance contract
 
@@ -139,26 +122,27 @@ Developer services
 
         Testing, specs, quality control, continuous integration,
 
+Core developer versus application developer
+===========================================
+
+The Lino community differentiates between :term:`application developers
+<application developer>` and :term:`core developers <core developer>`.
+
+
 .. glossary::
 
+    Core developer
 
-    Code repository
+        A :term:`developer` working for the :term:`core team` in order to make
+        the framework better.
 
-        A set of :term:`source files <source file>` that implements a
-        given set of functions.
 
-    Source file
+    Application developer
 
-        A file which serves as a base for building a executable program code
-        or consumable content (e.g. text, image, sound or video).
+        A :term:`developer` of a given :term:`Lino application`.
 
-        Some source file formats commonly used for building executable program
-        code are :file:`.py`, :file:`.js` and :file:`.rst`.
+        Dedicated to the :term:`application operator`.
 
-        Some consumable content file formats commonly used in a Lino project
-        are :file:`.html` and :file:`.pdf`.
-
-    Configuration file
-
-        A file that contains configuration settings to be read by a program.
+        Communicates and gives :term:`developer support` to :term:`application
+        experts <application expert>`.
 

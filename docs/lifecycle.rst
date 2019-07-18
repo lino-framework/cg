@@ -4,12 +4,45 @@
 Life cycle of a Lino project
 ============================
 
-This document describes the life cycle of a Lino project.
+This document describes the life cycle of a :term:`Lino project`.
+
+
+.. glossary::
+
+    Lino project
+
+        A project where some :term:`actor` decides to use the :term:`Lino
+        framework` for their purposes.
+
+        For example you develop your own customized :term:`Lino application`
+        and run it on a :term:`site <Lino site>` of your own.
+
+        Or you may employ an :term:`application expert`,
+        operate a :term:`Lino server` and share these
+        to several :term:`site operators <site operator>`.
+
+        See also :doc:`lifecycle`.
+
+    Development project
+
+        A project where a new :term:`Lino site` is being developed.
+        Usually regulated by a :term:`development contract`.
+
+    Maintenance project
+
+        A project where a new :term:`Lino application` is being developed.
+
+    Pilot project
+
+        A project where the :term:`site operator` is
+        also the :term:`application operator`.
+
+        the only user of a given
+        :term:`Lino application` running on their :term:`server <Lino server>`.
 
 
 The four phases of a Lino project
 =================================
-
 
 .. glossary::
 
