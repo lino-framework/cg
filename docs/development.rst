@@ -13,7 +13,7 @@ Some concepts used in software development business.
     Development provider
 
         An organization who employs a team of :term:`developers <developer>` or
-        other :term:`software experts <software expert>` and operates an
+        other :term:`software engineers <software engineer>` and operates an
         infrastructure for their collaboration.
 
         Provides :term:`developer services <developer service>` to their
@@ -73,25 +73,8 @@ Developer services
         Installing the software on a remote site (either public or for a customer).
 
 
-
-
-
-.. glossary::
-
-
-    Developer
-
-        A physical person who writes, publishes, maintains and optimizes
-        :term:`source files <source file>` of a :term:`code repository`
-        according to the requirements of a :term:`development provider`.
-
-    Programmer
-
-        A :term:`developer` specialized in writing :term:`source code`.
-
-    Software expert
-
-        A person who is not a :term:`developer` but is part of a developer team.
+Contracts
+=========
 
 
 .. glossary::
@@ -110,6 +93,34 @@ Developer services
 
         In a The customer designates and provides a :term:`system administrator`,
         a :term:`server maintainer` a *site coordinator* and *key users*.
+
+
+
+
+People
+======
+
+
+.. glossary::
+
+
+    Developer
+
+        A physical person who writes, publishes, maintains and optimizes
+        :term:`source files <source file>` of a :term:`code repository`
+        according to the requirements of a :term:`development provider`.
+
+        The Lino community differentiates between :term:`application developers
+        <application developer>` and :term:`core developers <core developer>`.
+
+
+    Programmer
+
+        A :term:`developer` specialized in writing :term:`source code`.
+
+    Software engineer
+
+        A person who is not a :term:`developer` but is part of a developer team.
 
     Application expert
 
@@ -130,26 +141,12 @@ Developer services
         all, in case of a new :term:`development project`).
 
 
-    Core team
-
-        The :term:`developer` team at :doc:`rumma` who is responsible for
-        improvement and maintenance of the :term:`Lino framework` in general.
-
-        Testing, specs, quality control, continuous integration,
-
-Core developer versus application developer
-===========================================
-
-The Lino community differentiates between :term:`application developers
-<application developer>` and :term:`core developers <core developer>`.
-
-
-.. glossary::
-
     Core developer
 
-        A :term:`developer` working for the :term:`core team` in order to make
-        the framework better.
+        A :term:`developer` working for the :term:`core team`.
+
+        Communicates and gives :term:`technical support` to :term:`application
+        developers <application developer>`.
 
 
     Application developer
@@ -160,4 +157,12 @@ The Lino community differentiates between :term:`application developers
 
         Communicates and gives :term:`technical support` to :term:`application
         experts <application expert>`.
+
+
+    Core team
+
+        The :term:`developer` team responsible for improvement and maintenance
+        of the :term:`Lino framework` in general.
+
+
 
