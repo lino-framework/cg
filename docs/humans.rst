@@ -39,7 +39,7 @@ Active contributors
 
 **Luc Saffre** 
 |br| *luc* [at] *lino-framework.org*
-|br| Senior developer at :ref:`rumma_ko`, original author of Lino_.
+|br| Senior developer at :ref:`rumma`, original author of Lino_.
 
 |br|
 
@@ -58,7 +58,7 @@ Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`_
    :width: 80px
    :align: left
 
-**Tonis Piip** |br| Core developer and consultant at :ref:`rumma_ko`.
+**Tonis Piip** |br| Core developer and consultant at :ref:`rumma`.
 |br| *tonis* [at] *lino-framework.org*
 
 
@@ -211,7 +211,6 @@ features and the general organization of our community.
 
 .. _TIM: http://tim.lino-framework.org/129.html
 .. _Lino: http://www.lino-framework.org
-.. _Rumma&Ko: http://www.saffre-rumma.net
 .. _Django: http://www.djangoproject.org
 .. _ExtJS: http://www.sencha.com/products/extjs/
 

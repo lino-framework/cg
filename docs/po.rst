@@ -1,9 +1,8 @@
-=================
-Project operation
-=================
+=========
+Operators
+=========
 
-A Lino project needs somebody who acts as its :term:`project operator`.
-This is usually the **customer** in a :term:`development contract`.
+A :term:`Lino project` needs somebody who acts as its :term:`project operator`.
 
 
 .. glossary::
@@ -11,7 +10,7 @@ This is usually the **customer** in a :term:`development contract`.
 
     Project operator
 
-        Brings a :term:`Lino software project` into life.
+        Brings a :term:`Lino project` into life.
         Plans the project and decides about its destiny.
         Decides which features to add or to remove.
         Does strategic decisions.
@@ -33,14 +32,13 @@ This is usually the **customer** in a :term:`development contract`.
 
         When a same :term:`Lino application` is being used on several sites,
         the :term:`operators <site operator>` of these sites collaborate and
-        maintain the application as their shared :term:`Lino software project`.
+        maintain the application as their shared :term:`Lino project`.
 
     Server operator
 
         Operates a given :term:`Lino server`.
 
         Takes care for the reliable operation of the sites on a given server.
-
 
     Site operator
 
@@ -62,28 +60,13 @@ This is usually the **customer** in a :term:`development contract`.
         settings. Has full access to all functions provided via the web
         interface.
 
-    End user
-
-        A human who uses a given :term:`Lino site` for their work.
-
     Key user
 
         An experienced :term:`end user` who knows every detail about how to use
         a given part of the application, who can explain this to their colleagues and
         who can give first-level support.
 
-    End-user support
+    End user
 
-        Gives first-level support to :term:`end users <end user>`.
-
-        The support provider is always available when end users need them.
-        Forwards the request other actors if they cannot help directly.
-        Organizes trainings for :term:`end users <end user>` and :term:`key users <key user>`.
-
-    End-user documentation
-
-        Documentation written for :term:`end users <end user>` of a given
-        :term:`Lino application`.
-
-
+        A human who uses a given :term:`Lino site` for their work.
 

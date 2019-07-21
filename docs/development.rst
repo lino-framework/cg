@@ -1,7 +1,7 @@
 .. _developers:
 
 ===========
-Development
+Developers
 ===========
 
 Some concepts used in software development business.
@@ -12,8 +12,9 @@ Some concepts used in software development business.
 
     Development provider
 
-        An organization who employs a team of :term:`software experts <software
-        expert>` and operates an infrastructure for their collaboration.
+        An organization who employs a team of :term:`developers <developer>` or
+        other :term:`software experts <software expert>` and operates an
+        infrastructure for their collaboration.
 
         Provides :term:`developer services <developer service>` to their
         customers in order to help them with using the software.
@@ -25,26 +26,11 @@ Developer services
 
 .. glossary::
 
-
-    Developer
-
-        A physical person who writes, publishes, maintains and optimizes
-        :term:`source files <source file>` of a :term:`code repository`
-        according to the requirements of a :term:`development operator`.
-
-    Programmer
-
-        A :term:`developer` specialized in writing :term:`source code`.
-
-
-
-.. glossary::
-
     Developer service
 
         One of the services provided by a :term:`development provider`.
 
-        This includes
+        Developer services usually include
         :term:`analysis`,
         :term:`programming`,
         :term:`testing`,
@@ -77,6 +63,35 @@ Developer services
 
         Analysis, specifications, release notes, end-user documentation.
 
+    Maintenance
+
+        Minor changes in the software which are required by technological
+        evolutions.
+
+    Deployment
+
+        Installing the software on a remote site (either public or for a customer).
+
+
+
+
+
+.. glossary::
+
+
+    Developer
+
+        A physical person who writes, publishes, maintains and optimizes
+        :term:`source files <source file>` of a :term:`code repository`
+        according to the requirements of a :term:`development provider`.
+
+    Programmer
+
+        A :term:`developer` specialized in writing :term:`source code`.
+
+    Software expert
+
+        A person who is not a :term:`developer` but is part of a developer team.
 
 
 .. glossary::
@@ -104,7 +119,7 @@ Developer services
 
         Communicates the requirements of the :term:`site operator` to the developer.
         Collects the support requests reported by :term:`end users <end user>`.
-        Introduces :term:`developer support` requests.
+        Introduces :term:`technical support` requests.
         Answers the developer's callback questions.
 
         Coordinates the activities before and after a :term:`site upgrade`.
@@ -143,6 +158,6 @@ The Lino community differentiates between :term:`application developers
 
         Dedicated to the :term:`application operator`.
 
-        Communicates and gives :term:`developer support` to :term:`application
+        Communicates and gives :term:`technical support` to :term:`application
         experts <application expert>`.
 

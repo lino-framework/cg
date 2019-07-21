@@ -1,5 +1,5 @@
 =======
-Hosting
+Hosters
 =======
 
 
@@ -40,7 +40,7 @@ they provide:
 
     Development hosting
 
-        The :term:`hoster` additionally provides :term:`developer support` and
+        The :term:`hoster` additionally provides :term:`technical support` and
         :term:`server maintenance <server maintainer>`
 
 

@@ -1,4 +1,4 @@
-.. _rumma_ko:
+.. _rumma:
 
 ==============
 Rumma & Ko Ltd

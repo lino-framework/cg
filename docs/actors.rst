@@ -1,6 +1,7 @@
-======================
-Actors and their roles
-======================
+=====
+Roles
+=====
+
 
 
 .. toctree::
@@ -9,6 +10,7 @@ Actors and their roles
    po
    development
    hosting
+   training
    distribution
 
 
