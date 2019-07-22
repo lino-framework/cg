@@ -2,7 +2,10 @@
 Lino Community Guide
 ====================
 
-This website explains how the Lino community works.
+This website defines and explains a set of concepts and rules used by the
+:term:`Lino community` for their collaboration in projects that use the
+:term:`Lino framework`.
+
 
 Sitemap
 -------

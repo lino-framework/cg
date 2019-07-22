@@ -2,53 +2,86 @@
 Vision statement
 ================
 
-The basic ideas behind the :ref:`lsf` are developed below in a few steps:
+Sustainably Free Software
+=========================
 
-Many developers feel that free software is fundamentally better than
-proprietary software [#fsf1]_.  What seems obvious to these developers is
-usually less clear to stakeholders and investors.  Many business models in
-software industry still rely on some proprietary part for generating revenue.
+We believe that proprietary software is not a sustainable option for a free
+human civilization.  We believe that the future belongs to sustainable free
+software. This belief is not naive.  There is a growing list of organizations
+devoted to free software [#wikipedia1]_. Many developers feel that free
+software is fundamentally better than proprietary software [#fsf1]_.
 
-Lino fundamentally differs from proprietary frameworks or open source projects
-controlled by a corporation who produces proprietary documentation.
+What seems obvious to many developers is obviously less clear to managers,
+stakeholders and investors.  Many business models in software industry still
+rely on some proprietary part for generating revenue. Some carriers of free
+software products gain control over the usage rights on some part of the
+product like an installer or a front end.  Such attempts are quickly disclosed
+and lead to a free (but weakened) fork in the best case, or to the death of the
+product in the worst case.
 
-We believe that proprietary software is incompatible with a free human
-civilization.  We believe that the future belongs to free software. We believe
-that a software system and its community cannot be sustainable when they are
-powered by a single company who controls usage rights on either source code or
-documentation.
+A free :term:`software product` cannot be sustainable when some of its
+components is non-free. Documentation is an important part of a product. An
+otherwise free product is not sustainable when documentation and expert
+knowledge about it is controlled by a single actor.
 
-Our belief is not naive.  There is a growing list of organizations devoted to
-free software [#wikipedia1]_. The free world has an operating system, an office
-suite, several good frameworks for developing web and desktop applications, and
-many other projects that are steadily gaining users.
+Objective : Why we exist
+========================
 
-But until now there is no sustainable solution for organizations who want their
-own :term:`customized database application`. This market segment is still
+The sustainably free world has already an operating system, an office suite,
+several good frameworks for developing web and desktop applications, and many
+other projects that are steadily gaining users.
+
+But until now there is no sustainably free solution for organizations who want
+their own :term:`customized database application`. This market segment is still
 dominated by a few proprietary giants.
 
 We believe that the :term:`Lino framework` has the potential of becoming a
 solution for this problem.
 
 At the moment this potential is merely visible to investors and stakeholders.
-There is much work to do to bring Lino to the next level.  Lino needs to grow
-from a small private corporation into a reliable international organization.
+There is much work to do to bring Lino to the next level.
 
-:doc:`rumma` is currently the motor behind Lino. But they want to remain a
-family-sized dynamic team of creative developers. Even if somebody would
-convince them to become big and bring Lino to the next level, this wouldn't be
-a solution. Sooner or later they would turn Lino into something which is no
-longer really free. A private corporation with limited responsibility is not a
-valid candidate for this job. The role of bringing Lino to the next level must
-be played by an organization that does not have any private interest.
+Who should do that work?
+Lino actually needs a reliable international organization as carrier.
+
+But the motor behind Lino is currently :doc:`rumma`, a small private
+corporation. And they want to remain a family-sized dynamic team of creative
+developers.
+
+Even if somebody would convince :doc:`rumma` to become big and bring Lino to
+the next level, this wouldn't be a solution. Sooner or later they would turn
+Lino into something which is no longer really free. A private corporation with
+limited responsibility is not a valid candidate for this job. The role of
+bringing Lino to the next level must be played by an organization that does not
+have any private interest.
 
 That's why Lino needs a foundation like the `PSF
 <https://www.python.org/psf/>`__ the `DSF
 <https://www.djangoproject.com/foundation/>`__ or the `WMF
 <https://wikimediafoundation.org/>`__, or a similar legal person.
 
-The objective of the :doc:`lsf` is to act as the promotor and operator of the
+The objective of the :doc:`lsf` is to act as the promoter and operator of the
 :term:`Lino framework` in a sustainable way and based on above ideas.
+
+Advantage : How Lino is different
+=================================
+
+Primary **target users** of Lino applications are organizations who need a
+customized application and do not have their own in-house developer. Such
+organisations are traditionally doomed to agree to some level of vendor
+lock-in. Lino applications avoid vendor lock-in because both the source code
+and documentation are published under a :term:`permissive Free Software
+license`.
+
+The advantage of Lino versus other frameworks is a **reduced total cost of
+ownership**. Most parts of a *development project* become easier and cheaper for
+the :term:`site operator`. This includes analysis, writing a prototype, adapting your
+application to changed needs and long-term maintenance. Lino applications are
+"more reliable and maintainable than MS-Access for cheaper than SAP".
+
+
+
+
 
 See also :doc:`bm`.
 
