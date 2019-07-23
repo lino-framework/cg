@@ -23,10 +23,10 @@ they provide:
         The most basic hosting service.
 
         In this type of collaboration the :term:`hoster` is not reponsible for
-        :term:`server maintenance <server maintainer>` and  :term:`end-user
+        :term:`server administration <server administrator>` and  :term:`end-user
         support`. The :term:`site operator` usually organizes their own
         :term:`end-user support` and designates a third-party :term:`server
-        maintainer`.
+        administrator`.
 
         Provided by a :term:`server provider`.
 
@@ -41,7 +41,7 @@ they provide:
     Development hosting
 
         The :term:`hoster` additionally provides :term:`technical support` and
-        :term:`server maintenance <server maintainer>`
+        :term:`server administration <server administrator>`
 
 
 .. glossary::
@@ -58,15 +58,15 @@ they provide:
         and protecting it against unauthorized access.
 
         Creates one or several SSH user accounts with sudo privileges to be
-        used by the :term:`server maintainer`.  Grants access to the server via
+        used by the :term:`server administrator`.  Grants access to the server via
         SSH.
 
         Makes the sites on the server available to :term:`end users <end user>` via public
         or local network.
 
-    Server maintainer
+    Server administrator
 
-        Installs and maintains the software on a :term:`Lino server`,
+        Installs and maintains the software on a given :term:`Lino server`,
         either as the :term:`system administrator` of a :term:`site operator`
         or for a :term:`hoster` who provides
         :term:`application hosting` to their customers.
@@ -75,12 +75,21 @@ they provide:
         Plans and executes software updates and data migrations.
         Communicates with the :term:`application developer` if needed.
 
-        As a server maintainer you don't need profound knowledge of the Python
-        language, but you are going to install Python packages (using `pip
-        <https://pip.pypa.io/en/stable/>`__ into virtual environments (using
-        `virtualenv <https://virtualenv.pypa.io/en/stable/index.html>`__).
-        Previous experience with hosting `Django
-        <https://www.djangoproject.com/>`_ applications is useful.
+        As a server administrator you don't need profound knowledge of Lino or
+        the Python language, but you are going to install Python packages
+        (using `pip <https://pip.pypa.io/en/stable/>`__ into virtual
+        environments (using `virtualenv
+        <https://virtualenv.pypa.io/en/stable/index.html>`__). Previous
+        experience with hosting `Django <https://www.djangoproject.com/>`_
+        applications is useful.
+
+
+        As a server administrator you know
+        how Lino is installed on the server  and how to react in certain situations:
+
+        - connection problems caused by the end-user's machine
+        - diagnose and fix server-side problems like performance
+        - get the server back to work after a technical problem
 
 
 
@@ -118,16 +127,11 @@ You are *not* reponsible for maintaining the system software on that
 server, nor answering end-user questions about how to use or configure
 the software. That's the job of the developer.
 
-You are able to act as **emergency maintainer**.  An emergency maintainer knows
-how Lino is installed on the server  and how to react in certain situations:
+You are able to act as :term:`server administrator`.
 
-- connection problems caused by the end-user's machine
-- diagnose and fix server-side problems like performance
-- get the server back to work after a technical problem
+It is also your job to decide whether and when you are able to offer **stable
+hosting** for one or several Lino applications.
 
-It is also your emergency maintainer who will decide whether and when
-you are able to offer **stable hosting** for one or several Lino
-applications.
 
 .. _stable_hosting:
 

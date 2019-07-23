@@ -111,7 +111,7 @@ Development modes
 
     Site upgrade
 
-        A phase where the :term:`server maintainer` applies new versions of the
+        A phase where the :term:`server administrator` applies new versions of the
         software running on a :term:`Lino site` in order to develop or optimize
         its functions according to the requirements of the :term:`site
         operator`.

@@ -18,7 +18,7 @@ A :term:`Lino project` needs somebody who acts as its :term:`project operator`.
         Delegates responsibilities to other actors:
         a :term:`system administrator`,
         a :term:`server provider`,
-        a :term:`server maintainer`
+        a :term:`server administrator`
         and an :term:`application expert`.
         Organizes :term:`end-user support`.
 

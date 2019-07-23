@@ -92,7 +92,7 @@ Contracts
         :term:`development project`.
 
         In a The customer designates and provides a :term:`system administrator`,
-        a :term:`server maintainer` a *site coordinator* and *key users*.
+        a :term:`server administrator` a *site coordinator* and *key users*.
 
 
 
@@ -125,7 +125,7 @@ People
     Application expert
 
         The contact person between the :term:`project operator`, :term:`server
-        maintainer` and :term:`application developer` of a given :term:`Lino
+        administrator` and :term:`application developer` of a given :term:`Lino
         application`.
 
         Communicates the requirements of the :term:`site operator` to the developer.
