@@ -14,12 +14,6 @@ Sitemap
    :maxdepth: 1
 
    about
-   vision
-   bm
-   components
-   actors
-   lifecycle
+   lsf
+   concepts
    contact
-   copyright
-
-

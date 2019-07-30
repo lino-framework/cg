@@ -9,3 +9,9 @@ in our brains.
 
 See :doc:`vision` and :doc:`copyright`.
 
+.. toctree::
+   :maxdepth: 1
+
+   vision
+   bm
+   copyright

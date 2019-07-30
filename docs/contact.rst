@@ -34,7 +34,4 @@ How to contact the Lino Community:
 
    humans
    organizations
-   lsf
    rumma
-
-
