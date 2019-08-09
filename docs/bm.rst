@@ -2,52 +2,60 @@
 Business model
 ==================
 
-A business model how an :term:`actor` plans to make money [#bm1]_. Here is the
-suggested business model for the :ref:`lsf` (which is different from that of
-:doc:`rumma`).
+A business model how you plan to make money [#bm1]_. Here is the suggested
+business model for the :ref:`lsf`.
 
 Income
 ======
 
-Every :term:`site operator` who runs a :term:`production` site pays a
-yearly fee in order to contribute to the operating costs of the :ref:`lsf`.
+- Membership fees from :term:`site operators <site operator>`.
 
-Every :term:`development provider` pays for :term:`technical support` from the
-:term:`core team` either with a yearly fee or per issue, or per hour.
+- Sales of :term:`technical support` given by the
+  :term:`core team` to :term:`development providers <development provider>`.
 
+- Public funds for projects of public interest.
 
 Expenses
 ========
 
-The :ref:`lsf` may use their income to
+The :ref:`lsf` uses their income for the following activities.
 
-- employ administrative personnel for the management tasks
+- Employ administrative personnel for management tasks.
 
-- operate one or several :term:`Lino sites <Lino site>` as an infrastructure for
-  their work
+- Operate one or several :term:`Lino sites <Lino site>` as an infrastructure for
+  their work.
 
-- employ one or several :term:`developers <developer>` and build a team
-  responsible for development and maintenance of the framework
+- Employ one or several :term:`core developers <core developer>` and build a
+  :term:`core team` responsible for development and maintenance of the
+  framework.
 
-- delegate development and maintenance of the framework to one or several
-  :term:`development providers <development provider>`
+- Optionally delegate this to a third-party :term:`development providers
+  <development provider>`.
 
-- refund costs for training or meeting or travelling to their members or
-  employees
+- Refund costs for training, meeting or travelling to their members or
+  employees.
 
 
 
-The yearly fee
-==============
+The membership fee
+==================
 
-The amount of this yearly fee is **3€** per employed :term:`end user` per
-month. This amount is decided by a board of volunteers who represent the
-community as a whole. The board should have a representative number of
-:term:`site operators <site operator>` and :term:`development providers
-<development provider>`.
+Every :term:`site operator` who runs a :term:`production` site should pay a
+membership fee in order to contribute to the operating costs of the :ref:`lsf`.
 
-The fee can be perceived by a :term:`development provider` from their customers
-who forwards it to the :ref:`lsf`.
+It is not a license fee and cannot be enforced except by the fact that service
+providers can require community membership as a condition in agreements with
+their customers.
+
+The yearly membership fee for :term:`site operators <site operator>` is
+currently fixed to **3€** per employed :term:`end user` per month.  This amount
+is decided by a board of volunteers who represent the community as a whole.  The
+board should have a representative number of :term:`site operators <site
+operator>` and :term:`development providers <development provider>`.
+
+This fee is usually collected by the :term:`development provider` or the
+:term:`hosting provider` who forwards it to the :ref:`lsf`.
+
 
 
 .. rubric:: Footnotes
@@ -56,6 +64,3 @@ who forwards it to the :ref:`lsf`.
    <https://www.amazon.com/The-New-Thing-Silicon-Valley/dp/0393347818>`__
    by Michael Lewis  (January 2014)
    (via `What Is a Business Model? <https://hbr.org/2015/01/what-is-a-business-model>`__).
-
-
-

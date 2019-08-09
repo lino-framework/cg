@@ -6,23 +6,24 @@ Sustainably Free Software
 =========================
 
 We believe that proprietary software is not a sustainable option for a free
-human civilization.  We believe that the future belongs to sustainable free
+human civilization.  We believe that the future belongs to sustainably free
 software. This belief is not naive.  There is a growing list of organizations
-devoted to free software [#wikipedia1]_. Many developers feel that free
-software is fundamentally better than proprietary software [#fsf1]_.
+devoted to free software [#wikipedia1]_. Many developers feel that free software
+is fundamentally better than proprietary software [#fsf1]_.
 
-What seems obvious to many developers is obviously less clear to managers,
-stakeholders and investors.  Many business models in software industry still
-rely on some proprietary part for generating revenue. Some carriers of free
-software products gain control over the usage rights on some part of the
-product like an installer or a front end.  Such attempts are quickly disclosed
-and lead to a free (but weakened) fork in the best case, or to the death of the
-product in the worst case.
 
-A free :term:`software product` cannot be sustainable when some of its
+A legally free :term:`software product` cannot be sustainable when one of its
 components is non-free. Documentation is an important part of a product. An
 otherwise free product is not sustainable when documentation and expert
 knowledge about it is controlled by a single actor.
+
+What seems obvious to many developers is obviously less clear to investors.
+Many business models in software industry still rely on some proprietary part
+for generating revenue. Some carriers of free software products gain control
+over the usage rights on some part of the product like an installer or a front
+end.  Such attempts are quickly disclosed and lead to a free (but weakened) fork
+in the best case, or to the death of the product in the worst case.
+
 
 Objective : Why we exist
 ========================
@@ -31,9 +32,9 @@ The sustainably free world has already an operating system, an office suite,
 several good frameworks for developing web and desktop applications, and many
 other projects that are steadily gaining users.
 
-But until now there is no sustainably free solution for organizations who want
-their own :term:`customized database application`. This market segment is still
-dominated by a few proprietary giants.
+But until now there is no sustainably free solution for developing
+:term:`customized database application`. This market segment is still dominated
+by a few proprietary giants.
 
 We believe that the :term:`Lino framework` has the potential of becoming a
 solution for this problem.
@@ -41,26 +42,23 @@ solution for this problem.
 At the moment this potential is merely visible to investors and stakeholders.
 There is much work to do to bring Lino to the next level.
 
-Who should do that work?
-Lino actually needs a reliable international organization as carrier.
+Who should do that work? The motor behind Lino is currently :doc:`rumma`, a
+small private corporation who wants to remain family-sized. But Lino actually
+needs a reliable international organization as carrier.
 
-But the motor behind Lino is currently :doc:`rumma`, a small private
-corporation. And they want to remain a family-sized dynamic team of creative
-developers.
-
-Even if somebody would convince :doc:`rumma` to become big and bring Lino to
-the next level, this wouldn't be a solution. Sooner or later they would turn
-Lino into something which is no longer really free. A private corporation with
-limited responsibility is not a valid candidate for this job. The role of
-bringing Lino to the next level must be played by an organization that does not
-have any private interest.
+Even if somebody would convince :doc:`rumma` to become big and bring Lino to the
+next level, this wouldn't be a solution. Sooner or later they would turn Lino
+into something which is no longer really free. A private corporation with
+limited responsibility is not a valid candidate for the job of bringing Lino to
+the next level. This role must be played by an organization that does not have
+any private interest.
 
 That's why Lino needs a foundation like the `PSF
 <https://www.python.org/psf/>`__ the `DSF
 <https://www.djangoproject.com/foundation/>`__ or the `WMF
 <https://wikimediafoundation.org/>`__, or a similar legal person.
 
-The objective of the :doc:`lsf` is to act as the promoter and operator of the
+The objective of the :doc:`lsf` is to act as the promoter and carrier of the
 :term:`Lino framework` in a sustainable way and based on above ideas.
 
 Advantage : How Lino is different
@@ -80,39 +78,14 @@ application to changed needs and long-term maintenance. Lino applications are
 "more reliable and maintainable than MS-Access for cheaper than SAP".
 
 
-
-
-
 See also :doc:`bm`.
-
-
-.. glossary::
-
-    Lino community
-
-        The group of :term:`actors <actor>` who use the :term:`Lino framework`
-        as a :term:`software product` and adhere to our community guide.
-
-        The :term:`Lino framework` is free software and you may use it without
-        adhering to our community guide. In that case you simply aren't a
-        member of our community.
-
-        The legal entity representing the :term:`Lino community` is
-        :doc:`rumma` as long as there is no :doc:`lsf`.
-
-    Actor
-
-        A physical or legal person who assumes one or several roles within our
-        community.
-
 
 
 
 .. rubric:: Footnotes
 
-.. [#fsf1] See `Why Open Source misses the point of Free Software
-   <https://www.gnu.org/philosophy/open-source-misses-the-point.html>`__
-
-
 .. [#wikipedia1] See `List of free and open-source software organizations
    <https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_organizations>`__
+
+.. [#fsf1] See `Why Open Source misses the point of Free Software
+   <https://www.gnu.org/philosophy/open-source-misses-the-point.html>`__

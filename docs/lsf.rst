@@ -4,10 +4,8 @@
 Lino Software Foundation
 ========================
 
-The **Lino Software Foundation** does not yet exist legally, it is getting born
-in our brains.
-
-See :doc:`vision` and :doc:`copyright`.
+The **Lino Software Foundation** does not yet exist legally, it is currently
+represented by :doc:`rumma`.
 
 .. toctree::
    :maxdepth: 1

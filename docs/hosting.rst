@@ -6,14 +6,15 @@ Hosters
 .. glossary::
 
 
-    Hoster
+    Hosting provider
 
-        General term for actors who run and maintain one or several server
-        computers used for hosting :term:`Lino sites <Lino site>`.
+        General term for legal or physical persons who run and maintain one or
+        several server computers used for hosting :term:`Lino sites <Lino
+        site>`.
 
 
-We differentiate three types of hosters, depending on the additional services
-they provide:
+We differentiate three types of hosting providers, depending on the additional
+services they provide:
 
 
 .. glossary::
@@ -22,7 +23,7 @@ they provide:
 
         The most basic hosting service.
 
-        In this type of collaboration the :term:`hoster` is not reponsible for
+        In this type of collaboration the :term:`hosting provider` is not reponsible for
         :term:`server administration <server administrator>` and  :term:`end-user
         support`. The :term:`site operator` usually organizes their own
         :term:`end-user support` and designates a third-party :term:`server
@@ -32,7 +33,7 @@ they provide:
 
     Application hosting
 
-        The :term:`hoster` is also the :term:`application operator`.
+        The :term:`hosting provider` is also the :term:`application operator`.
         i.e. they answer end-user questions about how to use or configure the
         software, and they are able upgrade the site when new versions of the
         software are available. They forward any reported
@@ -40,7 +41,7 @@ they provide:
 
     Development hosting
 
-        The :term:`hoster` additionally provides :term:`technical support` and
+        The :term:`hosting provider` additionally provides :term:`technical support` and
         :term:`server administration <server administrator>`
 
 
@@ -48,7 +49,7 @@ they provide:
 
     Server provider
 
-        A :term:`hoster` who does :term:`server hosting`.
+        A :term:`hosting provider` who does :term:`server hosting`.
 
         Installs and maintains virgin Linux servers to be used for running
         :term:`Lino sites <Lino site>`.
@@ -68,7 +69,7 @@ they provide:
 
         Installs and maintains the software on a given :term:`Lino server`,
         either as the :term:`system administrator` of a :term:`site operator`
-        or for a :term:`hoster` who provides
+        or for a :term:`hosting provider` who provides
         :term:`application hosting` to their customers.
 
         Takes care of the maintenance and security of those servers.
@@ -116,7 +117,7 @@ Server hosting
 ==============
 
 In case of **server hosting** the server operator has two contracts: one with a
-developer and one with a hoster.
+developer and one with a hosting provider.
 
 Your job is to provide and manage the server where the developer will
 install and maintain Lino. You make sure that the server is available

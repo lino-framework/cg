@@ -19,7 +19,6 @@ Some concepts used in software development business.
         Provides :term:`developer services <developer service>` to their
         customers in order to help them with using the software.
 
-
 Developer services
 ==================
 
@@ -73,30 +72,6 @@ Developer services
         Installing the software on a remote site (either public or for a customer).
 
 
-Contracts
-=========
-
-
-.. glossary::
-
-
-    Maintenance contract
-
-        Usually regulated by a :term:`maintenance contract`.
-
-    Development contract
-
-        An agreement
-        between a customer acting as :term:`site operator` and a
-        provider acting as :term:`developer` regarding a given
-        :term:`development project`.
-
-        In a The customer designates and provides a :term:`system administrator`,
-        a :term:`server administrator` a *site coordinator* and *key users*.
-
-
-
-
 People
 ======
 
@@ -107,7 +82,7 @@ People
     Developer
 
         A physical person who writes, publishes, maintains and optimizes
-        :term:`source files <source file>` of a :term:`code repository`
+        :term:`source files <source file>` of a :term:`source repository`
         according to the requirements of a :term:`development provider`.
 
         The Lino community differentiates between :term:`application developers
@@ -141,14 +116,6 @@ People
         all, in case of a new :term:`development project`).
 
 
-    Core developer
-
-        A :term:`developer` working for the :term:`core team`.
-
-        Communicates and gives :term:`technical support` to :term:`application
-        developers <application developer>`.
-
-
     Application developer
 
         A :term:`developer` of a given :term:`Lino application`.
@@ -158,11 +125,14 @@ People
         Communicates and gives :term:`technical support` to :term:`application
         experts <application expert>`.
 
+    Core developer
+
+        A :term:`developer` working for the :term:`core team`.
+
+        Communicates and gives :term:`technical support` to :term:`application
+        developers <application developer>`.
 
     Core team
 
-        The :term:`developer` team responsible for improvement and maintenance
-        of the :term:`Lino framework` in general.
-
-
-
+        The :term:`development provider` who maintains the :term:`Lino Core`,
+        the :term:`Extensions library` and technical documentation.

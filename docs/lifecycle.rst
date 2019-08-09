@@ -1,27 +1,22 @@
 .. _about.business:
 
 ============================
-Life cycle of a Lino project
+About Lino projects
 ============================
-
-This document describes the life cycle of a :term:`Lino project`.
-
 
 .. glossary::
 
     Lino project
 
-        A project where some :term:`actor` decides to use the :term:`Lino
-        framework` for their purposes.
+        A project where a physical or legal person decides to use the
+        :term:`Lino framework` for their purposes.
 
-        For example you develop your own customized :term:`Lino application`
-        and run it on a :term:`site <Lino site>` of your own.
+        For example you develop a :term:`Lino application` and run it on a
+        :term:`site <Lino site>` of your own.
 
         Or you may employ an :term:`application expert`,
         operate a :term:`Lino server` and share these
         to several :term:`site operators <site operator>`.
-
-        See also :doc:`lifecycle`.
 
     Development project
 
@@ -43,6 +38,9 @@ This document describes the life cycle of a :term:`Lino project`.
 
 The four phases of a Lino project
 =================================
+
+This document describes the life cycle of a :term:`Lino project`.
+
 
 .. glossary::
 
@@ -154,7 +152,6 @@ A Lino site runs in one of the following operation modes.
 
 
 
-
 There are different models for selling our work
 on Lino. During the first 15 years we worked successfully by offering fixed
 yearly flat-rate contracts: the customer pays a given sum per year and for this
@@ -196,4 +193,3 @@ Production sites
 
 End-user documentation
 ======================
-

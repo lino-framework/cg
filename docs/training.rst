@@ -7,7 +7,7 @@ Trainers
 
 .. glossary::
 
-    Lino trainer
+    Training provider
 
         Explains a given :term:`Lino application` to its :term:`end users <end user>`.
         Usually also writes and maintains :term:`end-user documentation`.
@@ -24,10 +24,3 @@ Trainers
 
         Documentation written for :term:`end users <end user>` of a given
         :term:`Lino application`.
-
-
-
-
-
-
-

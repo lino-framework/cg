@@ -2,18 +2,16 @@
 Components
 ==========
 
+The :term:`Lino framework` is defined by a set of :term:`source repositories
+<source repository>` : the :term:`Lino core`, the :term:`extensions library`, a
+series of :term:`Lino applications <Lino application>` maintained by the core
+team, a series of :term:`front ends <front end>`, the technical docs, and last
+but not least, this community guide.
+
+
+
+
 .. glossary::
-
-    Lino framework
-
-        The common :term:`source code` used and shared by all :term:`Lino
-        applications <Lino application>`.
-
-        It consists of the core, the extensions library, the technical docs and
-        this community guide.
-
-        The Lino framework as :term:`software product` is governed and
-        maintained by the :ref:`lsf`.
 
     Lino application
 
@@ -30,14 +28,12 @@ Components
         Every :term:`Lino site` has a web :term:`front end` under a domain or
         subdomain name, a set of local settings and configuration files, and
         usually its own database.  Several sites can share a same database in
-        order to provide different frond ends.
+        order to provide different front ends.
 
     Lino server
 
-        A virtual or physical machine used to run one or several :term:`Lino
-        sites <Lino site>`.
-
-        Operated by a :term:`server operator`.
+        A virtual or physical machine operated by a :term:`server operator` in
+        order to run one or several :term:`Lino sites <Lino site>`.
 
 
 .. glossary::
@@ -52,25 +48,39 @@ Components
     Software product
 
         A set of program code and documentation, stored in :term:`source
-        files <source file>` in several :term:`repositories <code repository>`.
+        files <source file>` in several :term:`repositories <source repository>`.
 
+    Lino core
 
+        A :term:`source repository` containing core functionality used by every
+        :term:`Lino application`.
+
+    Extensions library
+
+        A :term:`plugin library` with shared plugins that are used by many
+        :term:`Lino applications <Lino application>` and maintained by the
+        :term:`core team`.
 
     Plugin
 
         A module or logical part of an application which potentially can be
         shared among several applications.
 
+    Plugin library
+
+        A collection of :term:`plugins <plugin>` grouped into a single
+        :term:`source repository` and maintained by a given :term:`development
+        provider`.
+
     Front end
 
-        A plugin which defines the web interface for an application.
+        A :term:`plugin` which defines the web interface for an application.
 
         A same database can be exposed on different sites, using the same
         application but different front ends.
 
 
-
-    Code repository
+    Source repository
 
         A set of :term:`source files <source file>` that implements a
         given set of functions.
@@ -101,10 +111,15 @@ Components
 
     Database application
 
-        A computer program used for entering and retrieving information from a
-        database.
+        A computer program used by humans for entering and retrieving
+        information from a database.
 
     Customized database application
 
         A :term:`database application` which is tailor-made to the needs of a
         :term:`application operator`.
+
+    Framework
+
+        A suite of software tools used by developers who write and maintain
+        applications for their employer or their customers.
