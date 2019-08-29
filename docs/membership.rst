@@ -26,7 +26,8 @@ the :ref:`lsf`.
 
 Of course we actually don't need to force you. You know that a framework
 requires maintenance, and that you want Lino to be maintained.  Your main
-concern is whether the costs are being distributed correctly.
+concern is whether the costs are being distributed correctly. That's why we have
+the *membership board*.
 
 The membership board
 ====================
