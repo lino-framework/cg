@@ -12,4 +12,5 @@ represented by :doc:`rumma`.
 
    vision
    bm
+   membership
    copyright
