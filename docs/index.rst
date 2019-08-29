@@ -10,16 +10,6 @@ This website explains the :term:`Lino framework` as seen by the members of the
 
 .. glossary::
 
-  Lino framework
-
-    **Lino** is a :term:`framework` for developing :term:`customized database
-    applications <customized database application>`
-    based on free open-source technologies like `Django <https://www.djangoproject.com/>`__, `React
-    <https://reactjs.org/>`__, `Sencha ExtJS
-    <https://www.sencha.com/products/extjs/>`__, `Sphinx
-    <http://www.sphinx-doc.org>`__ and `Python
-    <https://www.python.org/>`__. (:doc:`More about Lino <lino/index>`).
-
   Lino community
 
     The group of physical or legal persons who use the :term:`Lino framework`

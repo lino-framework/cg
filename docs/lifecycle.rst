@@ -1,106 +1,107 @@
 .. _about.business:
 
+=============
+Lino projects
+=============
+
+Life cycle of a Lino project
 ============================
-About Lino projects
-============================
 
-.. glossary::
+Initiation
+----------
 
-    Lino project
+A Lino project starts when a physical or legal person decides to use the
+:term:`Lino framework` for their purposes.
 
-        A project where a physical or legal person decides to use the
-        :term:`Lino framework` for their purposes.
+The future :term:`project operator` meets with a :term:`Lino consultant` in
+order to check whether their problem is something for Lino. One aspect is the
+**technical side**: whether a Lino style application makes sense. Lino as a
+framework has features and limitations. Another aspect is the **financial
+side**: what budget is available for (1) development and (2) for maintenance of
+the production site. Yet another aspect is the **legal side**:  Does the project
+operator want a proprietary application for which they hold the copyright?  Or
+do they agree to share the development work by publishing source code and
+documentation as Free Software using a BSD license?
 
-        For example you develop a :term:`Lino application` and run it on a
-        :term:`site <Lino site>` of your own.
+The :term:`project operator` then designates
+an :term:`application expert`, a :term:`development provider`
+and a :term:`hosting provider`.
 
-        Or you may employ an :term:`application expert`,
-        operate a :term:`Lino server` and share these
-        to several :term:`site operators <site operator>`.
+Planning
+--------
 
-    Development project
+During planning we differentiate four phases:
 
-        A project where a new :term:`Lino site` is being developed.
-        Usually regulated by a :term:`development contract`.
+(1) A series of meetings where the :term:`application expert` analyses what the
+:term:`project operator` wants and explains the requirements to the
+:term:`development provider`.  This step will produce meeting reports and maybe
+a functional project specification. This step ends when the :term:`development
+provider` declares to be ready to write a prototype.
 
-    Maintenance project
+(2) During :term:`alpha phase`, the :term:`development provider` sets up a
+:term:`prototype`. This phase may include a series of dialogues and meetings
+between :term:`development provider` and :term:`application expert` where the
+developer shows their work in progress and collects feedback from the
+:term:`application expert`. The phase ends when the :term:`application expert`
+declares that the site is ready to go into :term:`beta phase`.
 
-        A project where a new :term:`Lino application` is being developed.
+(3) During :term:`beta phase`, the :term:`application expert` meets with the
+:term:`key users <key user>`, explains them how to use the application and
+collects their feedback.  The :term:`key users <key user>` start using the
+application and report their questions and problems to the :term:`application
+expert`. This phase ends (a) either when the :term:`application expert` declares
+that the site can go into production mode or (b) submits a series of change
+requests.
 
-    Pilot project
+(4) If there were change requests during the beta phase, the :term:`development
+provider` executes the requested changes, updates the site (taking care of
+:term:`data migration`) and explains the new version to the :term:`application
+expert`.  This phase may again include a series of dialogues and meetings between
+:term:`development provider` and :term:`application expert` where the developer
+shows their work in progress and collects feedback from the :term:`application
+expert`. This phase ends when the :term:`application expert` declares that the
+site is ready for another :term:`beta phase`.
 
-        A project where the :term:`site operator` is
-        also the :term:`application operator`.
+..
+    The prototype can be used for site visits in order to help with the
+    analysis process.
 
-        the only user of a given
-        :term:`Lino application` running on their :term:`server <Lino server>`.
+    The prototype is part of our marketing work. It is easier and more
+    efficient to write a prototype than to write a full analysis.
 
+    Internal development ends when the customer accepts to enter the
+    :term:`interactive development` phase.
 
-The four phases of a Lino project
-=================================
+Execution
+---------
 
-This document describes the life cycle of a :term:`Lino project`.
+This is when the site runs in :term:`production` mode.
 
+The :term:`site operator` of a site in :term:`production` mode can request at
+any time a :term:`site upgrade` in order to fix a series of change requests.
 
-.. glossary::
+Closure
+-------
 
-
-    Initiation
-
-        A future :term:`project operator` meets with a :term:`Lino consultant` in
-        order to check whether their problem is something for Lino.
-
-        One aspect is the technical side: whether a Lino style application makes sense.
-        Lino as a framework has features and limitations. Another aspect is the
-        financial side: what budget is available for (1) development and (2) for
-        maintenance of the production site.
-
-        A developer may decide to work for free during some time, but a sustainable
-        solution needs maintenance and support.  Free software is free as in "free
-        speech", not as in "free beer".
-
-
-    Planning
-
-        The planning phase can be divided into :term:`internal development` and
-        :term:`interactive development`.
-
-        site visits, estimations, agreements.
-
-    Execution
-
-        This is when the site runs in :term:`production` mode.
-
-    Closure
-
-        A Lino project can stop for diverse reasons.
+The :term:`site operator` of a Lino project can stop the project at any time for
+diverse reasons.
 
 
-Development modes
-=================
+Glossary
+========
 
 .. glossary::
 
     Internal development
 
-        The :term:`application developer` installs a prototype of the
-        application to be used. This consists of setting up a :term:`Lino site`
-        in :term:`prototype` mode.
-
-        The prototype can be used for site visits in order to help with the
-        analysis process.
-
-        The prototype is part of our marketing work. It is easier and more
-        efficient to write a prototype than to write a full analysis.
-
-        Internal development ends when the customer accepts to enter the
-        :term:`interactive development` phase.
+      When the :term:`application developer` works for a longer lapse of time
+      without feedback.
 
     Interactive development
 
-        A suite of site visits.  The site owner actively contributes to the
-        development process by testing and using the site, providing feedback,
-        reporting issues.
+        A suite of site visits.  The :term:`site operator` actively contributes
+        to the development process by testing and using the site, providing
+        feedback, reporting issues.
 
     Stable maintenance
 
@@ -121,26 +122,32 @@ Development modes
         A production site can move from one server to another server.
 
 
-Operation modes of a Lino site
-==============================
-
-A Lino site runs in one of the following operation modes.
-
 .. glossary::
 
 
+    Alpha phase
+
+        A working mode during the Planning_ phase of a Lino project where the
+        :term:`application developer` sets up a :term:`prototype`.
+
     Prototype
 
-        Publicly visible fictive data. Used for analysis, testing, visiting during an
-        :term:`interactive development` phase.
+        A :term:`Lino site` with publicly visible volatile fictive data.
+
+    Beta phase
+
+        A working mode during the Planning_ phase of a Lino project where the
+        application is considered feature complete but likely to contain a
+        number of known or unknown bugs. The :term:`Lino site` has protected
+        data, potentially imported from legacy sources.
 
     Production
 
-        Protected data. Stable operation.
+        A :term:`Lino site` with protected data, used for stable operation.
 
     Preview site
 
-        A copy of the :term:`production` data as it would look when using some
+        A copy of the :term:`production` site as it would look when using some
         newer version of the software.
 
         It is made available to end users so they can preview and test their
@@ -150,46 +157,15 @@ A Lino site runs in one of the following operation modes.
         new features and to reduce stress caused by unexpected results after an
         upgrade.
 
+    Lino project
 
+        A simple Lino project is when you develop a :term:`Lino application` and run it
+        on a :term:`site <Lino site>` of your own.
 
-There are different models for selling our work
-on Lino. During the first 15 years we worked successfully by offering fixed
-yearly flat-rate contracts: the customer pays a given sum per year and for this
-they get unlimited support and upgrades.  The only limit are our human
-resources. We promise to our flat-rate customers that we give our best (but not
-more) to help them with any problem. We can write additional invoices for extra
-work if the customer agrees that some project deserves more money than usual.
-Since 2016 we also offer per-hour service where the customer pays for every
-minute of our time (including support, analysis, code changes, write
-documentation).
+        Or you may employ an :term:`application expert`,
+        operate a :term:`Lino server` and share these
+        to several :term:`site operators <site operator>`.
 
-There are other things that should be clear after the interview:
+    End-user documentation
 
-- Who will act as the single contact person responsible for analyzing the
-  needs of the project operator and training the end-users.  Depending on the project operator size this can
-  quickly become a full-time job on its own.
-
-Another aspect is the legal side:
-
-Does the project operator want a proprietary application for which they hold the
-copyright?  Or do they agree to share the development work by publishing source
-code and documentation as Free Software using a BSD license?
-
-Offer and prototype
-===================
-
-Now the *consultant* must find a developer who agrees to write an offer and a prototype
-for the project.
-
-They don't need to pay for this.
-
-(To be continued)
-
-Active development phase
-========================
-
-Production sites
-================
-
-End-user documentation
-======================
+        Documentation written for end users.

@@ -41,7 +41,7 @@ services they provide:
 
     Development hosting
 
-        The :term:`hosting provider` additionally provides :term:`technical support` and
+        The :term:`hosting provider` additionally provides :term:`expert support` and
         :term:`server administration <server administrator>`
 
 

@@ -11,8 +11,7 @@ Income
 - Membership fees from :term:`site operators <site operator>` (see
   :doc:`membership`).
 
-- Sales of :term:`technical support` given by the
-  :term:`core team` to :term:`development providers <development provider>`.
+- Sales of :term:`developer support` to :term:`application developers <application developer>`.
 
 - Public funds for projects of public interest.
 
@@ -21,17 +20,14 @@ Expenses
 
 The :ref:`lsf` uses their income for the following activities.
 
+- Employ one or several :term:`developers <developer>` and run a team
+  responsible for development and maintenance of the framework.
+  Optionally delegate this task to a third-party :term:`development provider`.
+
 - Employ administrative personnel for management tasks.
 
 - Operate one or several :term:`Lino sites <Lino site>` as an infrastructure for
   their work.
-
-- Employ one or several :term:`core developers <core developer>` and build a
-  :term:`core team` responsible for development and maintenance of the
-  framework.
-
-- Optionally delegate this to a third-party :term:`development providers
-  <development provider>`.
 
 - Refund costs for training, meeting or travelling to their members or
   employees.

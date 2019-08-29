@@ -1,11 +1,19 @@
-.. _training:
+.. _consulting:
 
 ============
-Trainers
+Consultants
 ============
 
 
 .. glossary::
+
+    Lino consultant
+
+        Knows the possibilities and
+        limitations of the :term:`Lino framework` and gives neutral advice about
+        whether or not to choose Lino as a solution.  Helps you with
+        analysing and formulating your needs and finding the right business
+        partners who will implement a solution.
 
     Training provider
 

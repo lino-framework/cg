@@ -9,7 +9,7 @@ The members of the Lino Community agree that the result of their work is
 published using a :term:`permissive Free Software license` in order to make it
 available to everybody and to avoid vendor lock-in.
 
-The :term:`core team` is dedicated to work according to these license terms and
+The :ref:`lsf` is dedicated to work according to these license terms and
 does neither prohibit nor support derivative work by non-members under other
 licenses.
 
@@ -54,8 +54,7 @@ correctly.
         how the software or derivative work may be redistributed.
 
         An example is the `BSD License
-        <https://en.wikipedia.org/wiki/BSD_licenses>`__ used by the :term:`core
-        team`.
+        <https://en.wikipedia.org/wiki/BSD_licenses>`__ used by the :term:`Lino framework`.
 
     Protective Free Software license
 
@@ -79,7 +78,7 @@ write and publish derivative work even under a proprietary (non-free) license.
 Accordingly any other actor may start at any moment and without asking your
 permission to use your software and modify it for their own purpose.
 
-This is why in a :term:`maintenance contract` for :term:`permissive Free
+This is why in a :term:`development contract` for :term:`permissive Free
 Software license` it makes sense to clearly name both the :term:`project
 operator` and the :term:`copyright holder`.
 
@@ -109,5 +108,3 @@ We did not (yet) formulate and sign any Contributor License Agreement as e.g.
 contributor is liable for their work: if one of us would (accidentally) publish
 a file with sensitive confidential data or copyrighted content, only that
 particular person (or their employer) would be liable.
-
-

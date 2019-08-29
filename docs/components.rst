@@ -13,27 +13,33 @@ but not least, this community guide.
 
 .. glossary::
 
-    Lino application
+  Lino framework
 
-        A :term:`software product` written using the :term:`Lino framework`,
-        having a given set of functions, governed and maintained by its
-        :term:`application operator`.
+    Lino is a :term:`framework`, i.e. a collection of tools and approaches.
+    Lino itself as a :term:`software product` is governed and maintained by the :ref:`lsf`.
+    See :doc:`/lino/index`.
 
-    Lino site
+  Lino application
 
-        An instance of a given :term:`Lino application` running on a given
-        :term:`server <Lino server>`, operated by its :term:`operator <site
-        operator>`.
+      A :term:`software product` written using the :term:`Lino framework`,
+      having a given set of functions, governed and maintained by its
+      :term:`application operator`.
 
-        Every :term:`Lino site` has a web :term:`front end` under a domain or
-        subdomain name, a set of local settings and configuration files, and
-        usually its own database.  Several sites can share a same database in
-        order to provide different front ends.
+  Lino site
 
-    Lino server
+      An instance of a given :term:`Lino application` running on a given
+      :term:`server <Lino server>`, operated by its :term:`operator <site
+      operator>`.
 
-        A virtual or physical machine operated by a :term:`server operator` in
-        order to run one or several :term:`Lino sites <Lino site>`.
+      Every :term:`Lino site` has a web :term:`front end` under a domain or
+      subdomain name, a set of local settings and configuration files, and
+      usually its own database.  Several sites can share a same database in
+      order to provide different front ends.
+
+  Lino server
+
+      A virtual or physical machine operated by a :term:`server operator` in
+      order to run one or several :term:`Lino sites <Lino site>`.
 
 
 .. glossary::
@@ -59,7 +65,7 @@ but not least, this community guide.
 
         A :term:`plugin library` with shared plugins that are used by many
         :term:`Lino applications <Lino application>` and maintained by the
-        :term:`core team`.
+        :doc:`/lsf`.
 
     Plugin
 
