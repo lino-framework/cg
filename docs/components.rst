@@ -53,8 +53,9 @@ but not least, this community guide.
 
     Software product
 
-        A set of program code and documentation, stored in :term:`source
-        files <source file>` in several :term:`repositories <source repository>`.
+        A set of program code and documentation, stored in :term:`source files
+        <source file>` in one or several :term:`repositories <source
+        repository>`.
 
     Lino core
 

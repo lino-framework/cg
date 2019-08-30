@@ -87,6 +87,63 @@ The :term:`site operator` of a Lino project can stop the project at any time for
 diverse reasons.
 
 
+
+
+.. _team.workflow:
+
+Operation modes of a Lino site
+==============================
+
+Stable
+------
+
+The normal state of a production site. The primary goal of a site in this state
+is that it just works: the server is always available, no changes in behaviour
+which would confuse users.
+
+Any issues reported by the site operator are collected as change requests
+
+The developer works on the reported issues.
+
+The developer publishes and maintains **release notes** for the coming version.
+
+This document describes the issues that will be fixed by the coming version.
+
+The release notes also explains any **non-requested changes** which will come
+with the new version.  These can be caused by changes in dependencies, by
+technology choices, changes in external services, ...
+
+Users can ask at any moment to start a release. They decided that the advantage
+of having these issues fixed is worth the work and risks caused by a release.
+
+Preview testing
+---------------
+
+The :term:`server administrator` may set up a :term:`preview site` at any time.
+
+For each preview site the developer usually writes a migration script which
+copies the content of the production database into the preview database and
+applies any changes in the database schema.
+
+The :term:`key users <key user>` must now test that preview and to report their
+observations.
+
+This phase ends when the :term:`application expert` declares that the preview is
+okay and that they want it to go into production.
+
+After release
+-------------
+
+The :term:`server administrator` upgrade the production environment to use the
+site which has been in preview so far. During some time the :term:`server
+administrator` and the :term:`application expert` concentrate on removing any
+side effects and keep ready to react to potential regression reports which might
+occur. There may be additional minor updates to fix such problems.
+
+When there are no more regressions and side effects reported, the site returns
+to the Stable_ operation mode. This is the moment make an official release (on
+PyPI) of the involved packages.
+
 Glossary
 ========
 
