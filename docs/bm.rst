@@ -11,7 +11,7 @@ Income
 - Membership fees from :term:`site operators <site operator>` (see
   :doc:`membership`).
 
-- Sales of :term:`developer support` to :term:`application developers <application developer>`.
+- Sales of :term:`developer support` to :term:`application programmers <application programmer>`.
 
 - Public funds for projects of public interest.
 

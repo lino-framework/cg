@@ -23,10 +23,11 @@ Lino is an **encompassing** framework because it provides *back-end
 technologies* (server, application, database), *front-end technologies*
 (JavaScript, ExtJS, React), a *documentation framework* and *marketing models*.
 
-Lino **encourages sharing**: the :ref:`lsf` maintains a
-`directory of Lino applications <http://www.lino-framework.org/dev/overview.html>`_ that can be used by :term:`development providers <development
-provider>` as a base for their own application or out of the box by
-:term:`hosting providers <hosting provider>`.
+Lino **encourages sharing**: the :ref:`lsf` maintains a `directory of Lino
+applications <http://www.lino-framework.org/dev/overview.html>`_ that can be
+used out of the box (by :term:`hosting providers <hosting provider>`) or by
+:term:`development providers <development provider>` (as a base for their own
+application).
 
 
 .. toctree::

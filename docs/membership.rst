@@ -12,9 +12,10 @@ Every :term:`site operator` who runs a :term:`production` site should pay a
 membership fee. The suggested monthly membership fee for :term:`site operators
 <site operator>` is currently fixed to
 
-  **1 €** per model + **2€** per user
+  **0.5 €** per database model + **3€** per user
 
-Both numbers are shown in the :menuselection:`Site --> About` dialog box.
+The numbers of database models and users are shown in the :menuselection:`Site
+--> About` dialog box.
 
 Note that the membership fee is **not a license fee**.  Lino is and will always
 remain free software.  You can develop and run a Lino application on your own

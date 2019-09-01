@@ -23,7 +23,7 @@ but not least, this community guide.
 
       A :term:`software product` written using the :term:`Lino framework`,
       having a given set of functions, governed and maintained by its
-      :term:`application operator`.
+      :term:`application carrier`.
 
   Lino site
 
@@ -123,10 +123,45 @@ but not least, this community guide.
 
     Customized database application
 
-        A :term:`database application` which is tailor-made to the needs of a
-        :term:`application operator`.
+        A :term:`database application` which is tailor-made to the needs of an
+        :term:`application carrier`.
 
     Framework
 
         A suite of software tools used by developers who write and maintain
         applications for their employer or their customers.
+
+    End-user documentation
+
+        Documentation targeted at :term:`end users <end user>`.  Written in the
+        language requested by the :term:`site operator`.
+
+    Technical documentation
+
+        Documentation targeted at :term:`developers <developer>` and motivated
+        :term:`site experts <site expert>`. Only in English. Includes tested source code
+        snippets and part of the :term:`test suite`.
+
+    Test suite
+
+      A set or :term:`source code` files that don't add any functionality and is
+      used only for running :term:`automated tests`.
+
+    Automated tests
+
+      A part of the development process which verifies that a change in the
+      software doesn't break any existing functionality.
+
+
+
+    Preview site
+
+        A copy of the :term:`production` site as it would look when using some
+        newer version of the software.
+
+        It is made available to end users so they can preview and test their
+        coming version before a :term:`site upgrade`.
+
+        The primary goal of a preview site is to help the site owner to test
+        new features and to reduce stress caused by unexpected results after an
+        upgrade.

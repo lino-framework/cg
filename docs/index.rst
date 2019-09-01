@@ -19,7 +19,6 @@ This website explains the :term:`Lino framework` as seen by the members of the
     community` is :doc:`rumma` as long as there is no :doc:`lsf`.
 
 
-
 Sitemap
 -------
 
@@ -27,16 +26,25 @@ Sitemap
    :maxdepth: 1
 
    lino/index
+   jobs
+   services
    components
+   whocanhelp
    actors
    lifecycle
-   samples
    lsf
    about
    contact
+   glossary
+   support
+   development
+   hosting
+
 
 
 .. toctree::
    :hidden:
 
    concepts
+   po
+   samples
