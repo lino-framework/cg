@@ -2,15 +2,16 @@
 Actors
 ======
 
-The :term:`Lino community` regroups different types of business partners, each
-having their own set of motivations, skills and responsibilities.
+The :term:`Community members <community member>` can be categorized into
+different types of actors, each having their own set of motivations, skills and
+responsibilities.
 
 
 .. glossary::
 
   Site operator
 
-    The legal or physical person who operates a given :term:`Lino site`.
+    The juridical or natural person who operates a given :term:`Lino site`.
 
     Owns the data stored on that site and is responsible for protecting that
     data against privacy issues.
@@ -20,8 +21,8 @@ having their own set of motivations, skills and responsibilities.
 
     Designates a :term:`server provider`.
 
-    Provides the following human resources either in-house or via by a
-    third-party service provider:
+    Provides the following human resources either in-house or via a third-party
+    service provider:
 
     - an :term:`site expert`, a :term:`site maintainer` and a
       :term:`release manager`.
@@ -31,7 +32,7 @@ having their own set of motivations, skills and responsibilities.
 
   Application carrier
 
-    A legal or physical person who develops, promotes and maintains a given
+    A juridical or natural person who develops, promotes and maintains a given
     :term:`Lino application`.
 
     This is a separate actor when a same :term:`Lino application` is being used
@@ -53,9 +54,14 @@ having their own set of motivations, skills and responsibilities.
 
     Takes care for the reliable operation of the sites on a given server.
 
+  Service provider
+
+    A juridical or natural person who sells services to another :term:`community
+    member`.
+
   Development provider
 
-    A corporation that provides :term:`developer services <developer
+    A :term:`service provider` who provides :term:`developer services <developer
     service>` to their customers in order to help them with using a given
     :term:`software product`.
 
@@ -63,7 +69,19 @@ having their own set of motivations, skills and responsibilities.
     :term:`software engineers <software engineer>` and operates an
     infrastructure for their collaboration.
 
-  Training provider
+  Hosting provider
 
-    Explains a given :term:`Lino application` to its :term:`end users <end user>`.
-    Usually also writes and maintains :term:`end-user documentation`.
+    A :term:`service provider` who runs and maintains one or several :term:`Lino
+    servers <Lino server>`. See also :doc:`/hosting`.
+
+  Support provider
+
+    A :term:`service provider` who provides :term:`support` to the :term:`end
+    users <end user>` of their customer. Usually also writes and maintains
+    :term:`end-user documentation`.
+
+  Core team
+
+    The team responsible for developing and maintaining the :term:`Lino
+    framework`. Provides :term:`developer support` to :term:`application
+    programmers <application programmer>`.

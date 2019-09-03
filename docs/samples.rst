@@ -14,7 +14,7 @@ Sample documents
         ============================== ==============================
          Customer                       Provider
         ------------------------------ ------------------------------
-        :term:`training provider`       :term:`application programmer`
+        :term:`support provider`       :term:`application programmer`
         :term:`application carrier`
         :term:`site operator`
         :term:`server operator`

@@ -3,18 +3,8 @@ Hosters
 =======
 
 
-.. glossary::
-
-
-    Hosting provider
-
-        General term for legal or physical persons who run and maintain one or
-        several server computers used for hosting :term:`Lino sites <Lino
-        site>`.
-
-
-We differentiate three types of hosting providers, depending on the additional
-services they provide:
+We differentiate three types of :term:`hosting providers <hosting provider>`,
+depending on the additional services they provide:
 
 
 .. glossary::
