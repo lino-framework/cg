@@ -1,3 +1,5 @@
+.. _cg.components:
+
 ==========
 Components
 ==========
