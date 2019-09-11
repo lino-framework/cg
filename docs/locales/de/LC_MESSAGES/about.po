@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lino Community Guide \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-05 00:07+0300\n"
+"POT-Creation-Date: 2019-09-11 20:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,33 +18,63 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-#: ../../about/index.rst:3
-msgid "About this website"
+#: ../../about.rst:3
+msgid "About this document"
 msgstr ""
 
-#: ../../about/index.rst:5
+#: ../../about.rst:5
 msgid ""
-"This website defines and describes general concepts regarding the "
-"collaboration between different business partners on one or several "
-"projects that use Lino software."
+"This document was **last edited** on |today| . A more recent version "
+"might be available under http://community.lino-framework.org"
 msgstr ""
 
-#: ../../about/index.rst:9
+#: ../../about.rst:8
 msgid ""
-"This website is published and maintained by Rumma & Ko Ltd. who can "
-"change it at any moment."
+"We invite you to **use this document by simply referring to it** in your "
+"agreements with business partners. For legally binding agreements that "
+"refer to this website, the version that was published at the moment of "
+"the agreement is legally binding unless the partners agree on a more "
+"recent version."
 msgstr ""
 
-#: ../../about/index.rst:12
+#: ../../about.rst:13
 msgid ""
-"For agreements which refer to this website, the version that was "
-"published at the moment of the agreement is binding unless the partners "
-"agree on a more recent version."
+"The :term:`source code` used to build this document is published as free "
+"software under a BSD license (currently on `GitHub <https://github.com"
+"/lino-framework/cg>`_). This document can change at any moment.  You can "
+"consult a `history of changes <https://github.com/lino-"
+"framework/cg/commits/master>`__. The :term:`copyright holder` for this "
+"document is :doc:`rumma` as long as there is no :doc:`lsf`."
 msgstr ""
 
-#: ../../about/index.rst:16
-msgid ""
-"This website was last edited on xxx at yyy. A more recent version might "
-"be available under URL."
-msgstr ""
+#~ msgid "About this website"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This website defines and describes "
+#~ "general concepts regarding the collaboration"
+#~ " between different business partners on "
+#~ "one or several projects that use "
+#~ "Lino software."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This website is published and maintained"
+#~ " by Rumma & Ko Ltd. who can "
+#~ "change it at any moment."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For agreements which refer to this "
+#~ "website, the version that was published"
+#~ " at the moment of the agreement "
+#~ "is binding unless the partners agree "
+#~ "on a more recent version."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "This website was last edited on "
+#~ "xxx at yyy. A more recent version"
+#~ " might be available under URL."
+#~ msgstr ""
 

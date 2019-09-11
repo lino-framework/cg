@@ -12,15 +12,14 @@ This website explains how the members of the :term:`Lino community` use
    :maxdepth: 1
 
    lino/index
+   actors
    services
    components
    whocanhelp
-   actors
    lifecycle
    lsf
    about
    contact
-   glossary
    support
    development
    hosting
@@ -34,3 +33,4 @@ This website explains how the members of the :term:`Lino community` use
    po
    samples
    jobs
+   glossary

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lino Community Guide \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-07 09:21+0300\n"
+"POT-Creation-Date: 2019-09-11 20:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,15 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-#: ../../index.rst:3
+#: ../../index.rst:6
 msgid "Lino Community Guide"
 msgstr ""
 
-#: ../../index.rst:5
-msgid "This website explains how the Lino community works."
+#: ../../index.rst:8
+msgid ""
+"This website explains how the members of the :term:`Lino community` use "
+":term:`Lino <Lino framework>` for doing their work."
 msgstr ""
 
-#: ../../index.rst:8
-msgid "Sitemap"
-msgstr ""
+#~ msgid "This website explains how the Lino community works."
+#~ msgstr ""
+
+#~ msgid "Sitemap"
+#~ msgstr ""
 
