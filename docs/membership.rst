@@ -6,18 +6,25 @@ The :term:`Lino community` is made of its members.
 
 .. glossary::
 
-    Community member
+  Lino community
 
-      A juridical or natural person who declares adhering to the :term:`Lino
-      community` and the rules described in the community guide.
+    The group of natural or juridical persons who use the :term:`Lino framework`
+    and adhere to the rules described in this guide when collaborating with
+    other members.
+    Legally represented by :doc:`rumma` as long as there is no :doc:`lsf`.
+
+  Community member
+
+    A juridical or natural person who declares adhering to the :term:`Lino
+    community` and the rules described in the community guide.
 
 See also :doc:`/actors`.
 
 Becoming a member
 =================
 
-As a :term:`site operator` you automatically become a :term:`community member`
-if you enter into contract with a :term:`service provider` who binds you to the
+As a :term:`site operator` you become a :term:`community member`
+by entering into contract with a :term:`service provider` who binds you to the
 rules described in the community guide.
 
 As a :term:`service provider` you become a member when the :term:`community
@@ -65,12 +72,12 @@ The :term:`membership fee` is not a license fee
 
 :term:`Membership fees <membership fee>` are similar to **license fees** in that
 they are an important item of our :doc:`business model <bm>`. We know that a
-framework requires maintenance, and that you want Lino to be maintained. But
-there are two important strategic differences:
+reliable framework requires maintenance.  But there are two important strategic
+differences:
 
-- Lino is and will always remain free software.  You can develop and run a Lino
-  application on your own without being a :term:`community member`.  You may
-  leave the community at any moment and still continue using Lino as free
+- Lino is and will always remain free software.
+  You may use any part of it without being a :term:`community member`.
+  You may leave the community at any moment and still continue using Lino as free
   software. The only way of forcing you to pay your membership fee is that a
   recognized :term:`service provider` will require you to do so as part of their
   contract with you.

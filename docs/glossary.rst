@@ -5,10 +5,6 @@ Glossary
 
 .. glossary::
 
-    End user
-
-        A human who uses a given :term:`Lino site` for their work.
-
     End-user support
 
         Gives first-level support to :term:`end users <end user>`.
