@@ -43,7 +43,7 @@ The membership fee
       operation costs of the :doc:`lsf`.
 
 
-Every :term:`site operator` who runs a :term:`production` site pays a
+Every :term:`site operator` who runs a :term:`production site` pays a
 :term:`membership fee`.  Other members do not need to pay any membership fee.
 
 The suggested monthly **base fee** for :term:`site operators <site operator>` is

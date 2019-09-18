@@ -15,7 +15,7 @@ something for Lino.
   One aspect is the **technical side**: whether a Lino style application makes
   sense. Lino as a framework has features and limitations. Another aspect is the
   **financial side**: what budget is available for (1) development and (2) for
-  maintenance of the production site. Yet another aspect is the **legal side**:
+  maintenance of the :term:`production site`. Yet another aspect is the **legal side**:
   Does the project operator want a proprietary application for which they hold the
   copyright?  Or do they agree to share the development work by publishing source
   code and documentation as Free Software using a BSD license?
@@ -55,7 +55,7 @@ expert`.
   expert`. This phase ends when the :term:`site expert` declares that the
   site is ready for another :term:`beta phase` (5).
 
-(7) The site now runs in :term:`production` mode.
+(7) The site now runs in "production mode".  It has become a :term:`production site`.
 
 (8) The :term:`site operator` can decide at any time to start a :term:`site
 upgrade` in order to fix a series of change requests.
@@ -72,9 +72,9 @@ Operation modes of a Lino site
 Stable
 ------
 
-The normal state of a production site. The primary goal of a site in this state
-is that it just works: the server is always available, no changes in behaviour
-which would confuse users.
+The normal state of a :term:`production site`. The primary goal of a site in
+this state is that it just works: the server is always available, no changes in
+behaviour which would confuse users.
 
 Any issues reported by the site operator are collected as change requests
 
@@ -151,7 +151,7 @@ Glossary
         :term:`data migration`, :term:`end-user testing`,
         writing :term:`release notes`.
 
-        A production site can move from one server to another server.
+        A :term:`production site` can move from one server to another server.
 
 
 .. glossary::
@@ -173,7 +173,7 @@ Glossary
         number of known or unknown bugs. The :term:`Lino site` has protected
         data, potentially imported from legacy sources.
 
-    Production
+    Production site
 
         A :term:`Lino site` with protected data, used for stable operation.
 

@@ -158,7 +158,7 @@ but not least, this community guide.
 
     Preview site
 
-        A copy of the :term:`production` site as it would look when using some
+        A copy of the :term:`production site` as it would look when using some
         newer version of the software.
 
         It is made available to end users so they can preview and test their
