@@ -142,16 +142,21 @@ Glossary
 
     Site upgrade
 
-        A phase where the :term:`server administrator` applies new versions of the
+        A phase where the :term:`site maintainer` applies new versions of the
         software running on a :term:`Lino site` in order to develop or optimize
         its functions according to the requirements of the :term:`site
         operator`.
 
-        Activities during a :term:`site upgrade` include
-        :term:`data migration`, :term:`end-user testing`,
-        writing :term:`release notes`.
+        During a :term:`site upgrade` of a :term:`production site` , the
+        :term:`site maintainer` is responsible for the technical aspects
+        (:term:`data migration`, writing :term:`release notes`) and the
+        :term:`site operator` is responsible for non-technical aspects like
+        :term:`end-user testing`.
 
-        A :term:`production site` can move from one server to another server.
+        A variant of :term:`site upgrade` is when a :term:`production site` is
+        moved from one server to another server.  In this case the :term:`server
+        provider` is responsible for providing a new server and configuring
+        domain names and changes in DNS system.
 
 
 .. glossary::
