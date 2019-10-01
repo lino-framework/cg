@@ -3,6 +3,16 @@ Contact
 =======
 
 
+.. toctree::
+   :maxdepth: 1
+
+   humans
+   organizations
+   rumma
+   lsf
+
+
+
 How to contact the Lino Community:
 
 - For technical help or questions send an email to
@@ -26,12 +36,3 @@ How to contact the Lino Community:
   repositories, and book is the main one. We have an `organization on GitHub
   <https://github.com/lino-framework>`__ which owns the different repositories
   that make up the Lino framework.
-
-
-
-.. toctree::
-   :maxdepth: 1
-
-   humans
-   organizations
-   rumma

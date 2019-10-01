@@ -15,14 +15,8 @@ This website explains how the members of the :term:`Lino community` use
    actors
    services
    components
-   whocanhelp
-   lifecycle
-   lsf
    about
    contact
-   support
-   development
-   hosting
 
 
 
@@ -34,3 +28,4 @@ This website explains how the members of the :term:`Lino community` use
    samples
    jobs
    glossary
+   support

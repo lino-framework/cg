@@ -1,6 +1,6 @@
-=======
-Hosters
-=======
+=================
+Hosting providers
+=================
 
 
 We differentiate three types of :term:`hosting providers <hosting provider>`,

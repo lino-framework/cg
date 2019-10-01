@@ -1,8 +1,20 @@
 .. _developers:
 
-=======================
-How development goes
-=======================
+=====================
+Development providers
+=====================
+
+A :term:`service provider`  employs a team of :term:`developers <developer>`
+or other :term:`software engineers <software engineer>` and operates an
+infrastructure for their collaboration.
+
+This section describes the work of a :term:`development provider`.
+
+
+.. toctree::
+   :maxdepth: 1
+
+   hot
 
 
 Development services
@@ -43,5 +55,4 @@ Development services
 
     Maintenance
 
-        Minor changes in the software which are required by technological
-        evolutions.
+        Changes in the software that are required by technological evolution.
