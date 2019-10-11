@@ -40,6 +40,25 @@ their shared project.
 
     Explores the market and formulates strategic choices
 
+  Application expert
+
+    Centralizes the requirements of all users and negotiates priority conflicts.
+    
+    :term:`site experts <site expert>`
+
+  Application programmer
+
+    A :term:`programmer` who writes and maintains the :term:`source code` of a
+    given application in response to support requests introduced by
+    :term:`application experts <application expert>` or
+    :term:`site experts <site expert>`.
+
+    Writes and maintains :term:`technical documentation` and a :term:`test
+    suite` for the application.
+
+    Writes :term:`release notes` for :term:`site experts <site expert>`.
+
+
 
 
 .. toctree::

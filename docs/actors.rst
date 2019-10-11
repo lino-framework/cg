@@ -19,40 +19,6 @@ own set of motivations, skills and responsibilities.
 
 .. glossary::
 
-  End user
-
-      A human who uses a given :term:`Lino site` for their work.
-
-  Key user
-
-      An experienced :term:`end user` who knows every detail about how to use a
-      given part of the application, who can explain this to their colleagues
-      and who can give first-level support.
-
-  Site administrator
-
-      Manages a :term:`Lino site` via its web :term:`front end`.
-      Manages accounts and access permissions to individual :term:`end users <end user>`.
-      Can change site-wide configuration settings.
-      Has full access to all functions provided via the web interface.
-
-  Site manager
-
-      At the moment this is a synonym for :term:`site administrator`.
-
-  Application programmer
-
-    A :term:`programmer` who writes and maintains the :term:`source code` of a
-    given application in response to support requests introduced by the
-    :term:`site experts <site expert>` of the sites that run the application.
-
-    Writes and maintains :term:`technical documentation` and a :term:`test
-    suite` for the application.
-
-    Writes :term:`release notes` for :term:`site experts <site expert>`.
-
-    Centralizes the requirements of all users and negotiates priority conflicts.
-
   Server operator
 
     Operates a given :term:`Lino server`.

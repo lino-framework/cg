@@ -25,6 +25,27 @@ Site operators
     - :term:`end users <end user>`, :term:`key users <key user>` and
       a :term:`site manager`.
 
+  End user
+
+      A human who uses a given :term:`Lino site` for their work.
+
+  Key user
+
+      An experienced :term:`end user` who knows every detail about how to use a
+      given part of the application, who can explain this to their colleagues
+      and who can give first-level support.
+
+  Site administrator
+
+      Manages a :term:`Lino site` via its web :term:`front end`.
+      Manages accounts and access permissions to individual :term:`end users <end user>`.
+      Can change site-wide configuration settings.
+      Has full access to all functions provided via the web interface.
+
+  Site manager
+
+      At the moment this is a synonym for :term:`site administrator`.
+
 
 .. toctree::
    :maxdepth: 1
