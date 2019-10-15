@@ -3,7 +3,7 @@ Hosting providers
 =================
 
 As a :term:`Lino hosting provider <hosting provider>` you assume the following
-**responsibilities**:
+responsibilities:
 
 - You set up a virtual machine running with a virgin Debian operating system and
   grant SSH access to a :term:`site maintainer`.
@@ -16,19 +16,17 @@ As a :term:`Lino hosting provider <hosting provider>` you assume the following
 - You make backups of the server to make sure it doesn't get lost in
   case of a serious accident.
 
-- You care about scaling. When a customer's site grows, then they
-  might want to move to a bigger machine.
+- You care about scaling. When a customer's site grows, they might want to move
+  to a bigger machine.
 
-- you care about reliability and make sure that the Lino site is
+- You care about reliability and make sure that the Lino site is
   always available to respond when your customer needs it.
 
-- you help end-users with certain problems.
+- You help end users with problems caused by issues with the server or its
+  connection.
 
 If you are able to provide these services, you should ask for being listed in
 our directory of recommended Lino hosting providers.
-
-We differentiate three types of :term:`hosting providers <hosting provider>`,
-depending on the additional services they provide:
 
 
 .. glossary::
@@ -49,16 +47,6 @@ depending on the additional services they provide:
 
     Makes the sites on the server available to :term:`end users <end user>` via public
     or local network.
-
-  Production server
-
-    A dedicated server designed to host one or several :term:`production sites
-    <production site>`.
-
-  Demo server
-
-    A dedicated server designed to host a series of demo sites.
-
 
 .. glossary::
 
