@@ -11,37 +11,36 @@ team, a series of :term:`front ends <front end>`, the technical docs, and last
 but not least, this community guide.
 
 
-
-
 .. glossary::
 
   Lino framework
 
     Lino is a :term:`framework`, i.e. a collection of tools and approaches.
-    Lino itself as a :term:`software product` is governed and maintained by the :ref:`lsf`.
+    Lino itself as a :term:`software product` is governed by the :ref:`lsf`.
     See :doc:`/lino/index`.
 
   Lino application
 
-      A :term:`software product` written using the :term:`Lino framework`,
-      having a given set of functions, governed and maintained by its
-      :term:`application carrier`.
+    A :term:`software product` written using the :term:`Lino framework`,
+    having a given set of functions, governed and maintained by its
+    :term:`application carrier`.
 
   Lino site
 
-      An instance of a given :term:`Lino application` running on a given
-      :term:`server <Lino server>`, operated by its :term:`operator <site
-      operator>`.
+    An instance of a given :term:`Lino application` running on a given
+    :term:`server <Lino server>`, operated by its :term:`operator <site
+    operator>`.
 
-      Every :term:`Lino site` has a web :term:`front end` under a domain or
-      subdomain name, a set of local settings and configuration files, and
-      usually its own database.  Several sites can share a same database in
-      order to provide different front ends.
+    Every :term:`Lino site` has a web :term:`front end` under a domain or
+    subdomain name, a set of local settings and configuration files, and
+    usually its own database.  Several sites can share a same database in
+    order to provide different front ends.
 
   Lino server
 
-      A virtual or physical machine operated by a :term:`server operator` in
-      order to run one or several :term:`Lino sites <Lino site>`.
+    A virtual or physical machine operated by a :term:`server operator` in
+    order to run one or several :term:`Lino sites <Lino site>`.
+
 
 
 .. glossary::

@@ -2,9 +2,9 @@
 People
 ======
 
-The people who make up the Lino community :term:`community members <community
-member>` can be categorized into different types of actors, each having their
-own set of motivations, skills and responsibilities.
+The :term:`members of the Lino community <community member>` can be categorized
+into different types of business partners, each having their own set of
+motivations, skills and responsibilities.
 
 .. toctree::
    :maxdepth: 1
@@ -19,12 +19,6 @@ own set of motivations, skills and responsibilities.
 
 .. glossary::
 
-  Server operator
-
-    Operates a given :term:`Lino server`.
-
-    Takes care for the reliable operation of the sites on a given server.
-
   Service provider
 
     A juridical or natural person who sells services to another :term:`community
@@ -35,40 +29,6 @@ own set of motivations, skills and responsibilities.
     A :term:`service provider` who provides :term:`developer services <developer
     service>` to their customers in order to help them with using a given
     :term:`software product`.  See :doc:`/dp`.
-
-  Hosting provider
-
-    A :term:`service provider` who runs and maintains one or several :term:`Lino
-    servers <Lino server>`. See :doc:`/hp`.
-
-  Site maintainer
-
-      Installs and maintains application software on a given :term:`Lino
-      site`.
-
-      Communicates with the :term:`site operator`,
-      the :term:`server provider`
-      and the :term:`application carrier`.
-
-      As a site maintainer you know how to install Python packages
-      (using `pip <https://pip.pypa.io/en/stable/>`__ into virtual
-      environments (using `virtualenv
-      <https://virtualenv.pypa.io/en/stable/index.html>`__).
-      You don't need profound knowledge of Lino or the Python language.
-      Previous
-      experience with hosting `Django <https://www.djangoproject.com/>`_
-      applications is useful.
-
-
-  Server administrator
-
-      Installs and maintains the system software on a given :term:`Lino server`.
-
-      Takes care of the maintenance and security of the server.
-      Plans and executes software updates and data migrations.
-
-      Communicates with the :term:`site maintainers <site maintainer>` who use
-      the server.
 
   System administrator
 

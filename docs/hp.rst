@@ -2,6 +2,15 @@
 Hosting providers
 =================
 
+.. glossary::
+
+  Hosting provider
+
+    A :term:`service provider` who runs and maintains one or several :term:`Lino
+    servers <Lino server>`. See :doc:`/hp`.
+
+
+
 As a :term:`Lino hosting provider <hosting provider>` you assume the following
 responsibilities:
 
@@ -48,19 +57,52 @@ our directory of recommended Lino hosting providers.
     Makes the sites on the server available to :term:`end users <end user>` via public
     or local network.
 
-.. glossary::
+  Server operator
 
-    Release notes
+    Operates a given :term:`Lino server`.
 
-        A document which describes the changes introduced by a new version of
-        an application.
+    Takes care for the reliable operation of the sites on a given server.
 
-    Data migration
+  Release notes
 
-        The work of adapting the data of a :term:`Lino site` when upgrading the
-        application software.
+      A document which describes the changes introduced by a new version of
+      an application.
 
-    End-user testing
+  Data migration
 
-        The part of testing which can be delegated to selected :term:`end users
-        <end user>`.
+      The work of adapting the data of a :term:`Lino site` when upgrading the
+      application software.
+
+  End-user testing
+
+      The part of testing which can be delegated to selected :term:`end users
+      <end user>`.
+
+  Site maintainer
+
+    Installs and maintains application software on a given :term:`Lino
+    site`.
+
+    Communicates with the :term:`site operator`,
+    the :term:`server provider`
+    and the :term:`application carrier`.
+
+    As a site maintainer you know how to install Python packages
+    (using `pip <https://pip.pypa.io/en/stable/>`__ into virtual
+    environments (using `virtualenv
+    <https://virtualenv.pypa.io/en/stable/index.html>`__).
+    You don't need profound knowledge of Lino or the Python language.
+    Previous
+    experience with hosting `Django <https://www.djangoproject.com/>`_
+    applications is useful.
+
+
+  Server administrator
+
+    Installs and maintains the system software on a given :term:`Lino server`.
+
+    Takes care of the maintenance and security of the server.
+    Plans and executes software updates and data migrations.
+
+    Communicates with the :term:`site maintainers <site maintainer>` who use
+    the server.
