@@ -241,15 +241,16 @@ inheritance_graph_attrs = dict(rankdir="TB")
 inheritance_graph_attrs.update(size='"48.0, 64.0"')
 inheritance_graph_attrs.update(fontsize=14, ratio='compress')
 
-# extensions += ['yasfb']
-# extensions += ['sphinxcontrib.feed']
-extensions += ['sphinxfeed']
-# NB : not the public sphinxfeed but my extended version
-feed_base_url = 'http://community.lino-framework.org'
-feed_author = 'Luc Saffre'
-feed_title = "Lino Community Guide"
-feed_field_name = 'date'
-feed_description = "News about the Lino Community"
+if False:
+    # extensions += ['yasfb']
+    # extensions += ['sphinxcontrib.feed']
+    extensions += ['sphinxfeed']
+    # NB : not the public sphinxfeed but my extended version
+    feed_base_url = 'https://community.lino-framework.org'
+    feed_author = 'Luc Saffre'
+    feed_title = "Lino Community Guide"
+    feed_field_name = 'date'
+    feed_description = "News about the Lino Community"
 
 # extensions += ['hieroglyph']  # Generate HTML presentations
 # autoslides = False
