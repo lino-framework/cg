@@ -12,6 +12,5 @@ Here is their statement about this:
    We are doing our best to help the Lino community becoming a big one, but we
    have no plans of becoming *ourselves* big.  If the Lino community would get
    bigger than we can manage, we recommend that it should be governed by an
-   independent organization which does not have any private motivation on its own.
+   independent organization that does not have any private motivation on its own.
    We work on creating this organization: :ref:`lsf`.
-

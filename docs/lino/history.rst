@@ -54,7 +54,7 @@ From **January to May 2017**, Tanel worked for Lino as project manager
 for `Lino Vilma <http://vilma.lino-framework.org>`__.
 
 In **February 2017** `Tonis <https://github.com/CylonOven>`__ started
-working for Lino as the second full-time core developer.
+working for Lino as the second full-time developer.
 
 In **December 2016** we started the `Lino Avanti <http://avanti.lino-framework.org>`__ project.
 
@@ -63,5 +63,3 @@ In **May 2017** we started to work on `Lino Tera <http://tera.lino-framework.org
 In **June 2018** we started to work on `Lino Presto <http://presto.lino-framework.org>`__`.
 
 In **November 2018** Thierry started to help us with the sales work.
-
-In **September 2019** Ivo started as a :term:`core developer`.

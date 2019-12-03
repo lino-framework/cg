@@ -7,40 +7,8 @@ Components
 The :term:`Lino framework` is defined by a set of :term:`source repositories
 <source repository>` : the :term:`Lino core`, the :term:`extensions library`, a
 series of :term:`Lino applications <Lino application>` maintained by the core
-team, a series of :term:`front ends <front end>`, the technical docs, and last
-but not least, this community guide.
-
-
-.. glossary::
-
-  Lino framework
-
-    Lino is a :term:`framework`, i.e. a collection of tools and approaches.
-    Lino itself as a :term:`software product` is governed by the :ref:`lsf`.
-    See :doc:`/lino/index`.
-
-  Lino application
-
-    A :term:`software product` written using the :term:`Lino framework`,
-    having a given set of functions, governed and maintained by its
-    :term:`application carrier`.
-
-  Lino site
-
-    An instance of a given :term:`Lino application` running on a given
-    :term:`server <Lino server>`, operated by its :term:`operator <site
-    operator>`.
-
-    Every :term:`Lino site` has a web :term:`front end` under a domain or
-    subdomain name, a set of local settings and configuration files, and
-    usually its own database.  Several sites can share a same database in
-    order to provide different front ends.
-
-  Lino server
-
-    A virtual or physical machine operated by a :term:`server operator` in
-    order to run one or several :term:`Lino sites <Lino site>`.
-
+team, a series of :term:`front ends <front end>`, the technical docs and this
+:term:`community guide`.
 
 
 .. glossary::
@@ -51,12 +19,6 @@ but not least, this community guide.
         Any device used by an :term:`end user` to access a :term:`Lino site`.
 
         This can be a desktop or notebook computer, or a mobile device.
-
-    Software product
-
-        A set of program code and documentation, stored in :term:`source files
-        <source file>` in one or several :term:`repositories <source
-        repository>`.
 
     Lino core
 
@@ -98,7 +60,7 @@ but not least, this community guide.
 
     Source code
 
-        Content to be edited by a :term:`programmer` and to be built (compiled)
+        Content to be edited by a :term:`developer` and to be built (compiled)
         into an executable program file or consumable content (e.g. text,
         image, sound or video).
 
@@ -139,9 +101,14 @@ but not least, this community guide.
 
     Technical documentation
 
-        Documentation targeted at :term:`developers <developer>` and motivated
+        Documentation written for :term:`developers <developer>` and motivated
         :term:`site experts <site expert>`. Only in English. Includes tested source code
         snippets and part of the :term:`test suite`.
+
+    End-user documentation
+
+        Documentation written for :term:`end users <end user>` of a given
+        :term:`Lino application`.
 
     Test suite
 

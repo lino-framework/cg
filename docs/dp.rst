@@ -4,17 +4,11 @@
 Development providers
 =====================
 
-A :term:`service provider`  employs a team of :term:`developers <developer>`
+A :term:`development provider` employs a team of :term:`developers <developer>`
 or other :term:`software engineers <software engineer>` and operates an
 infrastructure for their collaboration.
 
 This section describes the work of a :term:`development provider`.
-
-
-.. toctree::
-   :maxdepth: 1
-
-   hot
 
 
 Development services
@@ -44,15 +38,18 @@ Development services
 
     Developer support
 
-        Support given by the :term:`core developer` to an :term:`application
-        programmer`.
+        Support given by the :term:`framework carrier` to an :term:`application
+        developer`.
 
     Expert support
 
-        Support given by an :term:`application programmer` to a :term:`site
-        expert` about his work. This is more technical and specialized than
-        :term:`end-user support`.
+        Support given by an :term:`application carrier` to a :term:`site
+        expert`. This is more technical and specialized than :term:`end-user
+        support`.
 
-    Maintenance
 
-        Changes in the software that are required by technological evolution.
+
+.. toctree::
+   :maxdepth: 1
+
+   hot

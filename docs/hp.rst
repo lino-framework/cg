@@ -2,14 +2,6 @@
 Hosting providers
 =================
 
-.. glossary::
-
-  Hosting provider
-
-    A :term:`service provider` who runs and maintains one or several :term:`Lino
-    servers <Lino server>`. See :doc:`/hp`.
-
-
 
 As a :term:`Lino hosting provider <hosting provider>` you assume the following
 responsibilities:
@@ -77,25 +69,6 @@ our directory of recommended Lino hosting providers.
 
       The part of testing which can be delegated to selected :term:`end users
       <end user>`.
-
-  Site maintainer
-
-    Installs and maintains application software on a given :term:`Lino
-    site`.
-
-    Communicates with the :term:`site operator`,
-    the :term:`server provider`
-    and the :term:`application carrier`.
-
-    As a site maintainer you know how to install Python packages
-    (using `pip <https://pip.pypa.io/en/stable/>`__ into virtual
-    environments (using `virtualenv
-    <https://virtualenv.pypa.io/en/stable/index.html>`__).
-    You don't need profound knowledge of Lino or the Python language.
-    Previous
-    experience with hosting `Django <https://www.djangoproject.com/>`_
-    applications is useful.
-
 
   Server administrator
 

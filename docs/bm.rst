@@ -11,7 +11,7 @@ Income
 - Membership fees from :term:`site operators <site operator>` (see
   :doc:`membership`).
 
-- Sales of :term:`developer support` to :term:`application programmers <application programmer>`.
+- Sales of :term:`developer support` to :term:`application developers <application developer>`.
 
 - Public funds for projects of public interest.
 
@@ -29,7 +29,7 @@ The :ref:`lsf` uses their income for the following activities.
 - Operate one or several :term:`Lino sites <Lino site>` as an infrastructure for
   their work.
 
-- Donations to underlying free software projects.  
+- Donations to underlying free software projects.
 
 - Refund costs for training, meeting or travelling to their members or
   employees.

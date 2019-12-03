@@ -5,21 +5,38 @@ Sample documents
 
 .. glossary::
 
-    Development contract
+  Maintenance contract
 
-        An agreement between a **customer** and a **provider**  regarding a
-        given :term:`Lino site`, where the roles of each contract
-        party are distributed as follows.
+    An agreement between a **customer** and a **provider** regarding a
+    given :term:`Lino site` in :term:`production site`.
 
-        ============================== ==============================
-         Customer                       Provider
-        ------------------------------ ------------------------------
-        :term:`support provider`       :term:`application programmer`
-        :term:`application carrier`
-        :term:`site operator`
-        :term:`server operator`
-        ============================== ==============================
 
-        The customer designates and provides a :term:`system administrator`, a
-        :term:`server administrator` an :term:`site expert` and
-        :term:`key users <key user>`.
+  Development contract
+
+    An agreement between a **customer** and a **provider** regarding a given
+    :term:`Lino site` used to develop a new :term:`Lino application`.
+
+
+Both types of contracts can vary the roles distribution between partners.  Some
+common contract models:
+
+Self-hosted sites
+=================
+
+============================== ==============================
+ Customer                       Provider
+------------------------------ ------------------------------
+:term:`site operator`          :term:`application developer`
+:term:`application carrier`
+:term:`server operator`
+============================== ==============================
+
+Developer-hosted sites
+======================
+
+============================== ==============================
+ Customer                       Provider
+------------------------------ ------------------------------
+:term:`site operator`          :term:`application developer`
+:term:`application carrier`    :term:`server operator`
+============================== ==============================

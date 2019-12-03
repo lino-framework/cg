@@ -31,8 +31,8 @@ provider` declares to be ready to write a prototype.
 
 (4) During :term:`alpha phase`, the :term:`development provider` sets up a
 :term:`prototype`. This phase may include a series of dialogues and meetings
-between :term:`application programmer` and :term:`site expert` where the
-programmer shows their work in progress and collects feedback from the
+between :term:`application developer` and :term:`site expert` where the
+developer shows their work in progress and collects feedback from the
 :term:`site expert`. The phase ends when the :term:`site expert`
 declares that the site is ready to go into :term:`beta phase`.
 
@@ -50,7 +50,7 @@ provider` executes the requested changes, updates the site (taking care of
 expert`.
 
   This phase may again include a series of dialogues and meetings between
-  :term:`development provider` and :term:`site expert` where the :term:`application programmer`
+  :term:`development provider` and :term:`site expert` where the :term:`application developer`
   shows their work in progress and collects feedback from the :term:`site
   expert`. This phase ends when the :term:`site expert` declares that the
   site is ready for another :term:`beta phase` (5).
@@ -126,7 +126,7 @@ Glossary
 
     Internal development
 
-      When the :term:`application programmer` works for a longer lapse of time
+      When the :term:`application developer` works for a longer lapse of time
       without feedback.
 
     Interactive development
@@ -165,7 +165,7 @@ Glossary
     Alpha phase
 
         A working mode during the planning phase of a Lino project where the
-        :term:`application programmer` sets up a :term:`prototype`.
+        :term:`application developer` sets up a :term:`prototype`.
 
     Prototype
 

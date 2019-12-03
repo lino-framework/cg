@@ -1,6 +1,6 @@
-======
-People
-======
+===========
+Lino actors
+===========
 
 The :term:`members of the Lino community <community member>` can be categorized
 into different types of business partners, each having their own set of
@@ -11,60 +11,17 @@ motivations, skills and responsibilities.
 
 
    so
+   sm
+   hp
    ac
    dp
-   hp
-
 
 
 .. glossary::
 
   Service provider
 
-    A juridical or natural person who sells services to another :term:`community
-    member`.
-
-  Development provider
-
-    A :term:`service provider` who provides :term:`developer services <developer
-    service>` to their customers in order to help them with using a given
-    :term:`software product`.  See :doc:`/dp`.
-
-  System administrator
-
-      Manages the general IT system of a :term:`site operator`. Installs,
-      configures and maintains :term:`client devices <client device>` as
-      required.
-
-  Release manager
-
-      The contact person between the :term:`site operator` and the :term:`site
-      maintainer`.
-
-      Coordinates the activities before and after a :term:`site upgrade`.
-
-  Site expert
-
-    The contact person between the :term:`site operator` and the service
-    providers involved with the :term:`Lino site`.
-
-    Responds to support requests reported by :term:`key users <key user>`.
-
-    :term:`server provider`
-    :term:`application carrier`
-    :term:`application programmer`.
-
-    Formulates and explains the requirements of the :term:`site operator`
-    regarding the :term:`Lino application`.
-
-    Introduces :term:`expert support` requests to the :term:`application
-    carrier` and answers to callback questions.
-
-    Collaborates with the users in order to analyse their needs, and then
-    explains to the :term:`application carrier` how to make or improve the
-    application.
-
-    Organizes training for :term:`key users <key user>`.
+    A legal or natural person who sells services to a customer.
 
   Lino consultant
 
@@ -75,20 +32,44 @@ motivations, skills and responsibilities.
 
   Developer
 
-      A physical person who develops a given :term:`software product`.
+      A natural person who develops a given :term:`software product`.
 
-      A developer can act independently as a :term:`development provider`,
-      or work for a legal person acting as :term:`development provider`.
+      A developer writes, publishes, maintains and optimizes
+      :term:`source files <source file>` of a :term:`source repository`.
 
-  Programmer
-
-      A physical person who writes, publishes, maintains and optimizes
-      :term:`source files <source file>` of a :term:`source repository`
-      according to the requirements of a :term:`development provider`.
+      A developer can act independently as a :term:`development provider`, or
+      work for a legal person assuming this role.
 
   Software engineer
 
-      A person who is not a :term:`developer` but is part of a developer team.
+      A natural person who is not a :term:`developer` but an active member of a
+      developer team.
+
+  Application developer
+
+    A :term:`developer` who writes and maintains the :term:`source code` of a
+    given application according to the requirements of the :term:`application
+    carrier` and in response to support requests introduced by
+    :term:`application experts <application expert>` or :term:`site experts
+    <site expert>`.
+
+    Writes and maintains :term:`technical documentation` and a :term:`test
+    suite` for the application.
+
+    Writes :term:`release notes` for :term:`site experts <site expert>`.
+
+    You act as a developer for yourself, for your customer or for your employer. You maybe
+    do this as an independent professional and
+
+
+  Contributing developer
+
+    An :term:`application developer` who contribute to the :term:`Lino
+    framework` by testing general framework features, discussing changes and new
+    features, submitting pull requests, ...
+
+
+.. no longer needed:
 
   Core developer
 
@@ -97,5 +78,5 @@ motivations, skills and responsibilities.
   Core team
 
     The team responsible for developing and maintaining the :term:`Lino
-    framework`. Provides :term:`developer support` to :term:`application
-    programmers <application programmer>`.
+    framework`. Provides :term:`developer support` to
+    :term:`application developers <application developer>`.

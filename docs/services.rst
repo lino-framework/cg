@@ -6,8 +6,8 @@ Services
 
     Support
 
-        When a support provider helps their customer with using a given software
-        product.
+        When a :term:`support provider` helps their customer with using a given
+        software product.
 
         This includes **interactive support** in response to specific customer requests
         and **writing documentation**.
@@ -15,19 +15,23 @@ Services
         It includes analysis as well as authoring specifications, release notes,
         end-user documentation.
 
+    Maintenance
+
+        When a :term:`support provider` helps their customer to keep a given
+        system running.
+
     End-user support
 
         Gives first-level support to :term:`end users <end user>`.
 
         The support provider is always available when end users need them.
         Forwards the request other actors if they cannot help directly.
-        Organizes trainings for :term:`end users <end user>` and :term:`key users <key user>`.
 
-    End-user documentation
+    End-user training
 
-        Documentation written for :term:`end users <end user>` of a given
-        :term:`Lino application`.
-
+        A service that comprises publishing of training material and/or
+        organizing training sessions for :term:`end users <end user>` and
+        :term:`key users <key user>`.
 
     Developer service
 
