@@ -44,25 +44,18 @@ The membership fee
 
 
 Every :term:`site operator` who runs a :term:`production site` pays a
-:term:`membership fee`.  Other members do not need to pay any membership fee.
+:term:`membership fee`.
 
-The suggested monthly **base fee** for :term:`site operators <site operator>` is
-currently fixed to **0.5 €** per database model + **3€** per user.
+Detailed conditions are yet to be decided.
 
-These base amounts are based on **August 2008** and are adapted according to the
-Belgian Consumer Price Index. For example, in July 2018 each amount was to be
-multiplied by 1.349855356585091.
+One idea is to have a monthly **base fee** for :term:`site operators <site
+operator>` based on the number of database models and users. The numbers of
+database models and users are shown in the :menuselection:`Site --> About`
+dialog box. Your user count may be reduced to the number of :term:`end users
+<end user>` who are actually employed by you.
 
-The numbers of database models and users are shown in the :menuselection:`Site
---> About` dialog box.
-
-Your user count may be reduced to the number of :term:`end users <end user>` who
-are actually employed by you.
-
-The membership fee is **doubled during your first year** of membership.
-
-The :term:`membership fee` is collected by the :term:`development provider` or
-the :term:`hosting provider` who forwards it to the :ref:`lsf`.
+Such a :term:`membership fee` would be collected by the :term:`development
+provider` or the :term:`hosting provider` who forwards it to the :ref:`lsf`.
 
 When you are asked to renew your membership fee, you may decide to leave the
 community and still continue using Lino without the support of the community.
@@ -71,14 +64,15 @@ The :term:`membership fee` is not a license fee
 ===============================================
 
 :term:`Membership fees <membership fee>` are similar to **license fees** in that
-they are an important item of our :doc:`business model <bm>`. We know that a
-reliable framework requires maintenance.  But there are two important strategic
+they are an important item of our :doc:`business model <bm>`. A reliable
+framework requires maintenance.  But there are two important strategic
 differences:
 
 - Lino is and will always remain free software.
   You may use any part of it without being a :term:`community member`.
   You may leave the community at any moment and still continue using Lino as free
-  software. The only way of forcing you to pay your membership fee is that a
+  software. You may even make money using Lino without being a community member.
+  The only way of forcing you to pay your membership fee is that a
   recognized :term:`service provider` will require you to do so as part of their
   contract with you.
 
@@ -95,7 +89,6 @@ The community board
 
       A group of natural persons who decide about changes in the community
       guide.  See `The community board`_.
-
 
 
 The :term:`community board` decides about changes in the community guide,

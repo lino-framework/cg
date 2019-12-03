@@ -29,6 +29,8 @@ The :ref:`lsf` uses their income for the following activities.
 - Operate one or several :term:`Lino sites <Lino site>` as an infrastructure for
   their work.
 
+- Donations to underlying free software projects.  
+
 - Refund costs for training, meeting or travelling to their members or
   employees.
 
