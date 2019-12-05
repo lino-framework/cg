@@ -13,7 +13,6 @@ the `Lino Book <https://www.lino-framework.org>`__.
 
 .. toctree::
    :maxdepth: 1
-   :hidden:
 
    directives/index
    lino/index
@@ -21,6 +20,11 @@ the `Lino Book <https://www.lino-framework.org>`__.
    services
    components
    contact
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
    old
    whocanhelp
    lifecycle
