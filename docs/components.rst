@@ -96,19 +96,15 @@ team, a series of :term:`front ends <front end>`, the technical docs and this
 
     End-user documentation
 
-        Documentation targeted at :term:`end users <end user>`.  Written in the
-        language requested by the :term:`site operator`.
+        Documentation targeted at :term:`end users <end user>` of a given
+        :term:`Lino application`.  Written in the language requested by the
+        :term:`site operator`.
 
     Technical documentation
 
         Documentation written for :term:`developers <developer>` and motivated
         :term:`site experts <site expert>`. Only in English. Includes tested source code
         snippets and part of the :term:`test suite`.
-
-    End-user documentation
-
-        Documentation written for :term:`end users <end user>` of a given
-        :term:`Lino application`.
 
     Test suite
 

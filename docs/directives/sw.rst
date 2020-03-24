@@ -16,11 +16,12 @@ About software and copyright
 
   Copyright holder
 
-    The **copyright holder** of a :term:`software product` is the juridical
-    person who wrote the :term:`source files <source file>` and published them
-    under a given licence. Modified or unmodified copies of the :term:`source
-    files <source file>` may be published only with permission of the
-    :term:`copyright holder`.
+    The **copyright holder** of a :term:`software product` is the legal or
+    physical person who wrote the :term:`source files <source file>` and
+    published them.  Modified or unmodified copies of the :term:`source files
+    <source file>` may be used only with permission of the :term:`copyright
+    holder` who usually specifies a *license* that regulates how his work may be
+    used.
 
   Proprietary license
 

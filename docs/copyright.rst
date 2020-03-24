@@ -22,14 +22,6 @@ correctly.
 
 .. glossary::
 
-    Copyright holder
-
-        The legal or physical person who claims authorship of a :term:`source
-        file` or a set thereof.
-
-        The copyright holder usually specifies a *license* which regulates how
-        his work may be used.
-
     Proprietary software
 
         Software that is published by its :term:`copyright holder` using a
