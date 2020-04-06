@@ -1,29 +1,31 @@
 .. _lino.why:
 .. _lino.limitations:
 
-========
-Why Lino
-========
+=======================================
+Why should a site operator choose Lino?
+=======================================
+
+As a :term:`site operator` you might wonder why you should choose a
+:term:`development provider` who uses the Lino framework.
 
 Lino is for you, if...
 
 - you have a concrete need for a customized database application
 - you want a stable and sustainable solution
 - you are ready to invest your own time for analysis and testing
-- you want to keep control over your data even when your relationship
-  with a given software provider breaks.
+- you want to keep control over your investment even when your relationship
+  with a given :term:`development provider` breaks.
 
 Lino *is not* for you, if...
 
-- you just want a quick and dirty website with dynamic content
-- you don't want to spend your time into developing a new software
+- you just want quickly some nice web site with dynamic content
+- you don't want to invest your time into developing a new software
 - you want a cool website featuring the latest web technologies
-- you don't plan to maintain your application
-
+- you don't worry about long-term maintenance of your application
 
 Lino's **design goals**:
 
-- Lino applications are **easy to understand** for the end user
+- Lino applications are **easy to understand** for the :term:`end user`
   (see :doc:`values`).
 - Lino applications are **easy to develop** because Lino encourage
   agile programming, rapid prototyping and short release cycles.

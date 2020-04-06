@@ -126,6 +126,6 @@ team, a series of :term:`front ends <front end>`, the technical docs and this
         It is made available to end users so they can preview and test their
         coming version before a :term:`site upgrade`.
 
-        The primary goal of a preview site is to help the site owner to test
-        new features and to reduce stress caused by unexpected results after an
-        upgrade.
+        The primary goal of a preview site is to help the :term:`site operator`
+        to test new features and to reduce stress caused by unexpected results
+        after an upgrade.
