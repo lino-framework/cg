@@ -14,6 +14,7 @@ the `Lino Book <https://www.lino-framework.org>`__.
 .. toctree::
    :maxdepth: 1
 
+   volunteers
    lino/index
    components
    actors

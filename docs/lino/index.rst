@@ -10,7 +10,6 @@ About Lino
    what
    why
    name
-   vision
    values
    testimonals
    history

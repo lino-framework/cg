@@ -1,6 +1,37 @@
-================
-Vision statement
-================
+.. _lino.vision:
+
+===============
+The Lino vision
+===============
+
+The basic long-term idea behind the Lino project is developed below in a few steps:
+
+- We believe that software must be free because proprietary software inevitably
+  leads to vendor lock-in.
+
+- While the free world has an operating system and an office suite, there is no
+  serious free solution for organizations who want to develop a
+  :term:`customized database application`.  The market for this business is
+  currently dominated by a few proprietary giants.
+
+- The Lino framework has the potential of becoming a solution for this problem.
+
+- This potential is currently merely visible.  Some important features are still
+  missing or unfinished. There is much work to do to bring Lino to the next
+  level so that it can grow from a project with a handful of developers into a
+  reliable international infrastructure.
+
+- Rumma & Ko as the current motor of the idea wants to remain a family-sized
+  dynamic team of creative developers. They don't have the human resources for
+  bringing Lino to the next level.  Even if they *would* decide to become big
+  and do this job, this wouldn't be a solution because a private corporation
+  with limited responsibility is not a valid candidate for this job. The role of
+  bringing Lino to the next level must be played by a non-profit organization.
+
+- That's why Lino needs a foundation or some similar non-profit legal person,
+  inspired by the `PSF <https://www.python.org/psf/>`__ or the `DSF
+  <https://www.djangoproject.com/foundation/>`__.
+
 
 Sustainably Free Software
 =========================
@@ -11,18 +42,17 @@ software. This belief is not naive.  There is a growing list of organizations
 devoted to free software [#wikipedia1]_. Many developers feel that free software
 is fundamentally better than proprietary software [#fsf1]_.
 
-
 A legally free :term:`software product` cannot be sustainable when one of its
-components is non-free. Documentation is an important part of a product. An
-otherwise free product is not sustainable when documentation and expert
-knowledge about it is controlled by a single actor.
+components is non-free. Documentation is an important part of a software
+product. An otherwise free product is not sustainable when documentation and
+expert knowledge about it is controlled by a single actor.
 
-What seems obvious to many developers is obviously less clear to investors.
-Many business models in software industry still rely on some proprietary part
-for generating revenue. Some carriers of free software products gain control
-over the usage rights on some part of the product like an installer or a front
-end.  Such attempts are quickly disclosed and lead to a free (but weakened) fork
-in the best case, or to the death of the product in the worst case.
+What seems obvious to many developers is obviously less clear to investors. Many
+business models in software industry still rely on some proprietary part for
+generating revenue. Some carriers of free software products gain control over
+the usage rights on some part of the product like an installer or a front end.
+Such attempts are quickly disclosed and lead to a free (but weakened) fork in
+the best case, or to the death of the product in the worst case.
 
 
 Objective : Why we exist
