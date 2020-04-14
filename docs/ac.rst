@@ -6,10 +6,9 @@ Each :term:`Lino application` is a :term:`software product` on its own.
 
 When a given :term:`Lino application` is being used on only one site, the
 :term:`operator <site operator>` of that site is also the :term:`application
-carrier`.  Otherwise the application carrier is a separate juridical person
-by which several site operators  collaborate and maintain the application as
-their shared project.
-
+carrier`.  Otherwise the application carrier is a separate legal person by which
+several site operators collaborate and maintain the application as their shared
+project.
 
 
 .. glossary::

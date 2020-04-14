@@ -178,11 +178,6 @@ Glossary
         number of known or unknown bugs. The :term:`Lino site` has protected
         data, potentially imported from legacy sources.
 
-    Production site
-
-        A :term:`Lino site` with protected data, used for stable operation.
-
-
 ..
     Lino project
 
