@@ -5,13 +5,13 @@ Sample documents
 
 .. glossary::
 
-  Maintenance contract
+  maintenance contract
 
     An agreement between a **customer** and a **provider** regarding a
     given :term:`Lino site` in :term:`production site`.
 
 
-  Development contract
+  development contract
 
     An agreement between a **customer** and a **provider** regarding a given
     :term:`Lino site` used to develop a new :term:`Lino application`.

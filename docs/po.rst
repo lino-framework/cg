@@ -6,9 +6,9 @@ A :term:`Lino site` needs somebody who acts as its :term:`site operator`.
 
 .. glossary::
 
-    Project operator
+    project operator
 
-        A legal or physical person who brings a Lino project into life.
+        A legal or natural person who brings a Lino project into life.
 
         Delegates responsibilities to other actors:
         a :term:`system administrator`,
@@ -19,10 +19,3 @@ A :term:`Lino site` needs somebody who acts as its :term:`site operator`.
         project operator can be :term:`server operator`, :term:`site operator`
         and :term:`application carrier` in one person.  In bigger projects
         these roles can be distributed among independent legal persons.
-
-
-    Framework operator
-
-      The legal or physical person who develops and maintains the :term:`Lino
-      framework` as a :term:`software product` and provides :term:`developer
-      services <developer service>` for it.

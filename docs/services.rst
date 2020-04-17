@@ -4,7 +4,7 @@ Services
 
 .. glossary::
 
-    Support
+    support
 
         When a :term:`support provider` helps their customer with using a given
         software product.
@@ -15,25 +15,25 @@ Services
         It includes analysis as well as authoring specifications, release notes,
         end-user documentation.
 
-    Maintenance
+    maintenance
 
         When a :term:`support provider` helps their customer to keep a given
         system running.
 
-    End-user support
+    end-user support
 
         Gives first-level support to :term:`end users <end user>`.
 
         The support provider is always available when end users need them.
         Forwards the request other actors if they cannot help directly.
 
-    End-user training
+    end-user training
 
         A service that comprises publishing of training material and/or
         organizing training sessions for :term:`end users <end user>` and
         :term:`key users <key user>`.
 
-    Developer service
+    developer service
 
         One of the services provided by a :term:`development provider`.
         Developer services usually include
@@ -44,7 +44,7 @@ Services
         :term:`maintenance` and
         :term:`expert support`.
 
-    Server hosting
+    server hosting
 
       The service provided by a :term:`server provider`.
 
@@ -54,7 +54,7 @@ Services
       :term:`end-user support` and designates a third-party :term:`server
       administrator`.
 
-    Application hosting
+    application hosting
 
       A variant of :term:`server hosting` where the provider also acts as the
       :term:`application carrier`.
@@ -65,7 +65,7 @@ Services
     software are available. They forward any reported
     problems to the responsible application or core developer.
 
-.. Development hosting
+.. development hosting
 
 ..      The :term:`hosting provider` additionally provides :term:`expert support` and
         :term:`server administration <server administrator>`
@@ -128,7 +128,7 @@ There are two fundamentally different sales models for services :
 
 .. glossary::
 
-  Flat-rate support
+  flat-rate support
 
     A support sales mode where the customer pays a given sum for a given period
     and gets unlimited support.  The only limit are human resources. The
@@ -139,7 +139,7 @@ There are two fundamentally different sales models for services :
     The project is seen as a cooperation where both partners contribute their
     work. Advantage is reduced administrative cost and increased communication.
 
-  Per-hour support
+  per-hour support
 
     A support sales mode where the customer pays for every hour of work required
     by the provider.  The provider is responsible for writing service reports

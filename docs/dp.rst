@@ -16,32 +16,31 @@ Development services
 
 .. glossary::
 
-    Analysis
+    analysis
 
         The work of analysing the needs of a :term:`project operator` in order
         to implement a software solution which helps them to work more
         efficiently.
 
-    Programming
+    programming
 
         Apply changes to a :term:`source file`. Publish the changes.
 
-    Testing
+    testing
 
         Quality Control. Make sure that a new version does not introduce
         regressions or other side effects.
 
-    Deployment
+    deployment
 
         Installing the software on a remote site, either public or for a
         :term:`site operator`.
 
-    Developer support
+    developer support
 
-        Support given by the :term:`framework carrier` to an :term:`application
-        developer`.
+        Support given to an :term:`application developer`.
 
-    Expert support
+    expert support
 
         Support given by an :term:`application carrier` to a :term:`site
         expert`. This is more technical and specialized than :term:`end-user

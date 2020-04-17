@@ -124,23 +124,23 @@ Glossary
 
 .. glossary::
 
-    Internal development
+    internal development
 
       When the :term:`application developer` works for a longer lapse of time
       without feedback.
 
-    Interactive development
+    interactive development
 
         A suite of site visits.  The :term:`site operator` actively contributes
         to the development process by testing and using the site, providing
         feedback, reporting issues.
 
-    Stable maintenance
+    stable maintenance
 
         The primary goal during the maintenance phase is to ensure stable and
         reliable operation of the site.
 
-    Site upgrade
+    site upgrade
 
         A phase where the :term:`site maintainer` applies new versions of the
         software running on a :term:`Lino site` in order to develop or optimize
@@ -162,16 +162,16 @@ Glossary
 .. glossary::
 
 
-    Alpha phase
+    alpha phase
 
         A working mode during the planning phase of a Lino project where the
         :term:`application developer` sets up a :term:`prototype`.
 
-    Prototype
+    prototype
 
         A :term:`Lino site` with publicly visible volatile fictive data.
 
-    Beta phase
+    beta phase
 
         A working mode during the planning phase of a Lino project where the
         application is considered feature complete but likely to contain a

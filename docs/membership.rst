@@ -13,9 +13,9 @@ The :term:`Lino community` is made of its members.
     other members.
     Legally represented by :doc:`rumma` as long as there is no :doc:`lsf`.
 
-  Community member
+  community member
 
-    A juridical or natural person who declares adhering to the :term:`Lino
+    A legal or natural person who declares adhering to the :term:`Lino
     community` and the rules described in the community guide.
 
 See also :doc:`/actors`.
@@ -27,8 +27,8 @@ As a :term:`site operator` you become a :term:`community member`
 by entering into contract with a :term:`service provider` who binds you to the
 rules described in the community guide.
 
-As a :term:`service provider` you become a member when the :term:`community
-board` accepts your candidature.
+As a :term:`service provider` you become a member when the :term:`Community
+Board` accepts your candidature.
 
 The list of community members is not published.
 
@@ -37,7 +37,7 @@ The membership fee
 
 .. glossary::
 
-    Membership fee
+    membership fee
 
       A fee to be paid by certain community members as a contribution to
       operation costs of the :doc:`lsf`.
@@ -63,12 +63,11 @@ community and still continue using Lino without the support of the community.
 The :term:`membership fee` is not a license fee
 ===============================================
 
-:term:`Membership fees <membership fee>` are similar to **license fees** in that
-they are an important item of our :doc:`business model <bm>`. A reliable
-framework requires maintenance.  But there are two important strategic
-differences:
+A :term:`membership fee` is similar to a **license fee** in that their sum an
+important item of our :doc:`business model <bm>`. A reliable framework requires
+maintenance.  But there are two important strategic differences:
 
-- Lino is and will always remain free software.
+- Lino is and will always remain Free Software.
   You may use any part of it without being a :term:`community member`.
   You may leave the community at any moment and still continue using Lino as free
   software. You may even make money using Lino without being a community member.
@@ -76,7 +75,7 @@ differences:
   recognized :term:`service provider` will require you to do so as part of their
   contract with you.
 
-- The :term:`community board` makes sure that the costs are being distributed
+- The :term:`Community Board` makes sure that the costs are being distributed
   correctly.
 
 
@@ -85,14 +84,14 @@ The community board
 
 .. glossary::
 
-    Community board
+    Community Board
 
-      A group of natural persons who decide about changes in the community
-      guide.  See `The community board`_.
+      A group of natural persons who decide about changes in the :term:`Community
+      Guide`.  See `The community board`_.
 
 
-The :term:`community board` decides about changes in the community guide,
-including the rules for computing and applying membership fees.
+The :term:`Community Board` decides about changes in the :term:`Community
+Guide`, including the rules for computing and applying membership fees.
 
 The board consists of volunteers who represent the community as a whole.  There
 is at least one :term:`site operator` and one :term:`service provider`.

@@ -19,41 +19,41 @@ service provider:
 
 .. glossary::
 
-  End user
+  end user
 
       A human who uses a given :term:`Lino site` for their work.
 
-  Key user
+  key user
 
       An experienced :term:`end user` who knows every detail about how to use a
       given part of the application, who can explain this to their colleagues
       and who can give first-level support.
 
-  Site administrator
+  site administrator
 
       Manages a :term:`Lino site` via its web :term:`front end`.
       Manages accounts and access permissions to individual :term:`end users <end user>`.
       Can change site-wide configuration settings.
       Has full access to all functions provided via the web interface.
 
-  Site manager
+  site manager
 
       At the moment this is a synonym for :term:`site administrator`.
 
-  System administrator
+  system administrator
 
       Manages the general IT system of a :term:`site operator`. Installs,
       configures and maintains :term:`client devices <client device>` as
       required.
 
-  Release manager
+  release manager
 
       The contact person between the :term:`site operator` and the :term:`site
       maintainer`.
 
       Coordinates the activities before and after a :term:`site upgrade`.
 
-  Site expert
+  site expert
 
     The contact person between the :term:`site operator` and the service
     providers involved with the :term:`Lino site`.

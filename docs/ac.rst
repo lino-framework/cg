@@ -13,19 +13,19 @@ project.
 
 .. glossary::
 
-  Support provider
+  support provider
 
     A :term:`service provider` who provides :term:`support` to the :term:`end
     users <end user>` of their customer. Usually also writes and maintains
     :term:`end-user documentation`.
 
-  Product manager
+  product manager
 
     Finds new business partners.
 
     Explores the market and formulates strategic choices
 
-  Application expert
+  application expert
 
     Centralizes the requirements of all users and negotiates priority conflicts.
 

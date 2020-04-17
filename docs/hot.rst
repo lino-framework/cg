@@ -12,7 +12,7 @@ You are part of a *team*. That team is unique. It consists of a limited number
 of other humans.  They need you and you need them.  You are not alone.
 
 You work for an *open software* project. The result of your work is being
-published under a :term:`permissive free software license`.  It is not your
+published under a :term:`permissive Free Software license`.  It is not your
 private property.  Neither is it the private property of anybody else.  It
 belongs to all humans. You agree that the team acts as the legal copyright
 holder of your work.

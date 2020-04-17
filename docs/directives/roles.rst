@@ -2,14 +2,14 @@
 Roles of contract partners
 ==========================
 
-Contracts and other business documents that refer to the :term:`community guide`
+Contracts and other business documents that refer to the :term:`Community Guide`
 assign to each contract partner one or several of the roles described hereafter.
 When a contract partner assumes more than one role, he is also responsible for
 the communication between them.
 
 .. glossary::
 
-  Site operator
+  site operator
 
     The legal or natural person who operates a given :term:`Lino site`. Owns the
     data stored on that site and is responsible for protecting that data against
@@ -25,12 +25,12 @@ the communication between them.
 
     See :doc:`/so`.
 
-  Hosting provider
+  hosting provider
 
     A :term:`service provider` who runs and maintains one or several :term:`Lino
     servers <Lino server>`. See :doc:`/hp`.
 
-  Site maintainer
+  site maintainer
 
     A **site maintainer** installs and maintains software on a given :term:`Lino
     site` according to the requirements of its :term:`site operator`.
@@ -44,7 +44,7 @@ the communication between them.
 
     See :doc:`/sm`.
 
-  Application carrier
+  application carrier
 
     The :term:`product carrier` of a given :term:`Lino application`.
 
@@ -57,9 +57,7 @@ the communication between them.
     Provides :term:`expert support` service
     to :term:`site operators <site operator>`.
 
-
-
-  Development provider
+  development provider
 
     A :term:`service provider` who provides :term:`developer services <developer
     service>` to their customers in order to help them with using a given

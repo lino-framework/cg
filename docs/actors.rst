@@ -19,7 +19,7 @@ motivations, skills and responsibilities.
 
 .. glossary::
 
-  Service provider
+  service provider
 
     A legal or natural person who sells services to a customer.
 
@@ -30,7 +30,7 @@ motivations, skills and responsibilities.
     Helps you with analyzing and formulating your needs and finding the right
     business partners who will implement a solution.
 
-  Developer
+  developer
 
       A natural person who develops a given :term:`software product`.
 
@@ -40,12 +40,12 @@ motivations, skills and responsibilities.
       A developer can act independently as a :term:`development provider`, or
       work for a legal person assuming this role.
 
-  Software engineer
+  software engineer
 
       A natural person who is not a :term:`developer` but an active member of a
       developer team.
 
-  Application developer
+  application developer
 
     A :term:`developer` who writes and maintains the :term:`source code` of a
     given application according to the requirements of the :term:`application
@@ -62,7 +62,7 @@ motivations, skills and responsibilities.
     do this as an independent professional and
 
 
-  Contributing developer
+  contributing developer
 
     An :term:`application developer` who contribute to the :term:`Lino
     framework` by testing general framework features, discussing changes and new
@@ -71,11 +71,11 @@ motivations, skills and responsibilities.
 
 .. no longer needed:
 
-  Core developer
+  core developer
 
     A :term:`developer` who works for the :term:`core team`.
 
-  Core team
+  core team
 
     The team responsible for developing and maintaining the :term:`Lino
     framework`. Provides :term:`developer support` to

@@ -32,7 +32,7 @@ our directory of recommended Lino hosting providers.
 
 .. glossary::
 
-  Server provider
+  server provider
 
     A :term:`hosting provider` who does :term:`server hosting`.
 
@@ -49,28 +49,28 @@ our directory of recommended Lino hosting providers.
     Makes the sites on the server available to :term:`end users <end user>` via public
     or local network.
 
-  Server operator
+  server operator
 
     Operates a given :term:`Lino server`.
 
     Takes care for the reliable operation of the sites on a given server.
 
-  Release notes
+  release notes
 
       A document which describes the changes introduced by a new version of
       an application.
 
-  Data migration
+  data migration
 
       The work of adapting the data of a :term:`Lino site` when upgrading the
       application software.
 
-  End-user testing
+  end-user testing
 
       The part of testing which can be delegated to selected :term:`end users
       <end user>`.
 
-  Server administrator
+  server administrator
 
     Installs and maintains the system software on a given :term:`Lino server`.
 

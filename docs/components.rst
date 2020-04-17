@@ -5,16 +5,16 @@ Components
 ==========
 
 The :term:`Lino framework` is defined by a set of :term:`source repositories
-<source repository>` : the :term:`Lino core`, the :term:`extensions library`, a
+<source repository>` : the :term:`Lino core`, the :term:`Extensions Library`, a
 series of :term:`Lino applications <Lino application>` maintained by the core
 team, a series of :term:`front ends <front end>`, the technical docs and this
-:term:`community guide`.
+:term:`Community Guide`.
 
 
 .. glossary::
 
 
-    Client device
+    client device
 
         Any device used by an :term:`end user` to access a :term:`Lino site`.
 
@@ -25,24 +25,24 @@ team, a series of :term:`front ends <front end>`, the technical docs and this
         A :term:`source repository` containing core functionality used by every
         :term:`Lino application`.
 
-    Extensions library
+    Extensions Library
 
         A :term:`plugin library` with shared plugins that are used by many
         :term:`Lino applications <Lino application>` and maintained by the
         :doc:`/lsf`.
 
-    Plugin
+    plugin
 
         A module or logical part of an application which potentially can be
         shared among several applications.
 
-    Plugin library
+    plugin library
 
         A collection of :term:`plugins <plugin>` grouped into a single
         :term:`source repository` and maintained by a given :term:`development
         provider`.
 
-    Front end
+    front end
 
         A :term:`plugin` which defines the web interface for an application.
 
@@ -50,7 +50,7 @@ team, a series of :term:`front ends <front end>`, the technical docs and this
         application but different front ends.
 
 
-    Source repository
+    source repository
 
         A set of :term:`source files <source file>` that implements a
         given set of functions.
@@ -58,13 +58,13 @@ team, a series of :term:`front ends <front end>`, the technical docs and this
         For example we have different repositories for the *Lino Core*, the
         *Lino Extensions Library* the Lino Book* and the *Community Guide*.
 
-    Source code
+    source code
 
         Content to be edited by a :term:`developer` and to be built (compiled)
         into an executable program file or consumable content (e.g. text,
         image, sound or video).
 
-    Source file
+    source file
 
         A file which contains :term:`source code`.
 
@@ -74,51 +74,48 @@ team, a series of :term:`front ends <front end>`, the technical docs and this
         Some consumable content file formats commonly used in a Lino project
         are :file:`.html` and :file:`.pdf`.
 
-    Configuration file
+    configuration file
 
         A file that contains configuration settings to be read by a program.
 
-
-    Database application
+    database application
 
         A computer program used by humans for entering and retrieving
         information from a database.
 
-    Customized database application
+    customized database application
 
         A :term:`database application` which is tailor-made to the needs of an
         :term:`application carrier`.
 
-    Framework
+    framework
 
         A suite of software tools used by developers who write and maintain
         applications for their employer or their customers.
 
-    End-user documentation
+    end-user documentation
 
         Documentation targeted at :term:`end users <end user>` of a given
         :term:`Lino application`.  Written in the language requested by the
         :term:`site operator`.
 
-    Technical documentation
+    technical documentation
 
         Documentation written for :term:`developers <developer>` and motivated
         :term:`site experts <site expert>`. Only in English. Includes tested source code
         snippets and part of the :term:`test suite`.
 
-    Test suite
+    test suite
 
       A set or :term:`source code` files that don't add any functionality and is
       used only for running :term:`automated tests`.
 
-    Automated tests
+    automated tests
 
       A part of the development process which verifies that a change in the
       software doesn't break any existing functionality.
 
-
-
-    Preview site
+    preview site
 
         A copy of the :term:`production site` as it would look when using some
         newer version of the software.

@@ -13,7 +13,7 @@ About Lino
     :term:`Lino applications <Lino application>`.
 
     The Lino framework as a :term:`software product` is governed by the
-    :term:`framework carrier`.
+    :term:`Framework Carrier`.
 
   Lino application
 
@@ -34,12 +34,12 @@ About Lino
     usually its own database.  Several sites can share a same database in
     order to provide different front ends.
 
-  Demo site
+  demo site
 
     A :term:`Lino site` that contains fictive data used for demonstration or
     testing purposes.
 
-  Production site
+  production site
 
     A :term:`Lino site` that contains sensitive data owned by its :term:`site
     operator`.
@@ -53,18 +53,18 @@ About Lino
     either for themselves (self-hosting) or for a :term:`server provider` who
     sells this as a service to their customers.
 
-  Production server
+  production server
 
     A :term:`Lino server` designed to host one or several :term:`production sites
     <production site>`.
 
-  Demo server
+  demo server
 
     A :term:`Lino server` designed to host one or several of :term:`demo sites
     <demo site>`.
 
-  Framework carrier
+  Framework Carrier
 
-    The legal person that governs the :term:`Lino framework`.  This role is
-    assumed *de facto* by *Rumma & Ko Ltd* as long as no other legal person
-    takes over this responsibility.
+    The legal person that governs the :term:`Lino framework` as a
+    :term:`software product`. This role is assumed *de facto* by *Rumma & Ko
+    Ltd* as long as no other legal person takes over this responsibility.

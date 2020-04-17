@@ -22,7 +22,7 @@ correctly.
 
 .. glossary::
 
-    Proprietary software
+    proprietary software
 
         Software that is published by its :term:`copyright holder` using a
         license which reserves to the copyright holder the right of sharing
@@ -31,16 +31,16 @@ correctly.
     Free Software
 
         Software that is published by its :term:`copyright holder` using a
-        license* which permits and encourages sharing of the software or
+        license that permits and encourages sharing of the software or
         derivative work.
 
-        Not to mix up with *freeware* (proprietary software distributed without
-        fee).
+        Not to mix up with *freeware* (a :term:`proprietary software` work that
+        is distributed without fee).
 
-        Free Software licenses can be grouped into two families: *permissive*
-        and *protective*.
+        Free Software licenses can be grouped into two types: *permissive* and
+        *protective*.
 
-    Permissive Free Software license
+    permissive Free Software license
 
         A :term:`Free Software` license which sets minimal requirements about
         how the software or derivative work may be redistributed.
@@ -48,7 +48,7 @@ correctly.
         An example is the `BSD License
         <https://en.wikipedia.org/wiki/BSD_licenses>`__ used by the :term:`Lino framework`.
 
-    Protective Free Software license
+    protective Free Software license
 
         A :term:`Free Software` license which requires that redistribution of
         derivative work is licensed under the same license.
