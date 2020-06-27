@@ -38,7 +38,7 @@ service provider:
 
   site manager
 
-      At the moment this is a synonym for :term:`site administrator`.
+      Synonym for :term:`site administrator`.
 
   system administrator
 
