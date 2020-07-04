@@ -5,10 +5,12 @@
 Lino Community Guide
 ====================
 
-This website describes concepts and rules adopted by the members of the
-:term:`Lino community` for their collaboration using the :term:`Lino <Lino
-framework>`. It tries to avoid insider language. For technical documentation see
-the `Lino Book <https://www.lino-framework.org>`__.
+This website describes the :term:`Lino framework <Lino framework>` without using
+insider language. For technical documentation see the `Lino Book
+<https://www.lino-framework.org>`__.
+
+We call it the Community Guide because it defines concepts and vocabulary that
+the members of the :term:`Lino community` may use for their collaboration. 
 
 
 .. toctree::

@@ -19,8 +19,9 @@ Development services
     analysis
 
         The work of analysing the needs of a :term:`project operator` in order
-        to implement a software solution which helps them to work more
-        efficiently.
+        to implement a software solution which helps them to reach their goals.
+        The analyst must then describe the customers needs in a language to be
+        understood by a programmer.
 
     programming
 

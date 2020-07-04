@@ -1,9 +1,9 @@
 .. _lino.why:
 .. _lino.limitations:
 
-=======================================
-Why should a site operator choose Lino?
-=======================================
+=======================
+Why should I want Lino?
+=======================
 
 As a :term:`site operator` you might wonder why you should choose a
 :term:`development provider` who uses the Lino framework.
