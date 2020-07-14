@@ -10,7 +10,7 @@ insider language. For technical documentation see the `Lino Book
 <https://www.lino-framework.org>`__.
 
 We call it the Community Guide because it defines concepts and vocabulary that
-the members of the :term:`Lino community` may use for their collaboration. 
+the members of the :term:`Lino community` may use for their collaboration.
 
 
 .. toctree::
@@ -18,9 +18,9 @@ the members of the :term:`Lino community` may use for their collaboration.
 
    volunteers
    lino/index
-   components
    actors
    services
+   components
    directives/index
    contact
 

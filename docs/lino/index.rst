@@ -9,7 +9,7 @@ About Lino
 
    what
    why
+   testimonals
    name
    values
-   testimonals
    history

@@ -1,5 +1,6 @@
-Linked objects
-==============
+======================
+The values behind Lino
+======================
 
 "Lino" is also an acronym of the words **Linked objects** (as we said in
 :doc:`name`). This can help us to reflect about some values behind Lino.
@@ -22,7 +23,7 @@ to admit that what they are doing is *that* easy.
 Yes, **Lino applications are that easy.** They feature a transparent view of
 their database schema, leading to :term:`end users <end user>` being intuitively
 aware of the structure behind what they are doing.  One Lino :term:`application
-developer` who understood this, wrote: "The development is so terribly easy,
+developer`, upon realizing this, wrote: "The development is so terribly easy,
 that one customer looked at the code and started to code Layouts and modify
 models by himself and I almost felt no developer is needed anymore :-)"
 
@@ -31,16 +32,21 @@ professional developers because the gory details require some experience, and
 because it is an art to make the right choices on what to take into account and
 what to ignore.
 
+The division between end users and developers is also caused naturally by
+specialization, which is a necessary aspect of bigger software projects.  Lino
+does not hinder specialization but lets it happen where the project needs it.
+
 Lino encourages **communication between end users and developers.** There are
-lots of developers who are very competent but unable to communicate with
-:term:`end users <end user>`.  This is where specialization becomes absurd,
-because a software application makes no sense without its users.
+lots of competent developers who are unable to communicate with :term:`end users
+<end user>`.  This is where specialization becomes absurd, because a software
+application makes no sense without its users.  Lino is optimized for developers
+who care about end users, and for end users who care about developers.
 
 When :term:`end users <end user>` are intuitively aware of the structure behind
-what they are doing, this leads to better communication between developers and
-end-users because **they speak the same language**.  Of course there are certain
-differences in vocabulary, but they stop to completely miss the point of what
-the other is talking about.
+what they are doing, this leads to better communication between them and the
+developers because **they speak the same language**.  Of course there are
+certain differences in vocabulary, but they stop to completely miss the point of
+what the other is talking about.
 
 Lino applications give their users a **feeling of being able** to do it
 themselves.  This motivates them to think about how they actually *would* do it
