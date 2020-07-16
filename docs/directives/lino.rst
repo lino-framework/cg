@@ -10,10 +10,10 @@ About Lino
     and documented at `www.lino-framework.org
     <https://www.lino-framework.org>`__ under a :term:`free software license`,
     which can be used by any :term:`developer` as a toolkit for developing
-    :term:`Lino applications <Lino application>`.
+    :term:`Lino applications <Lino application>`. The Lino framework as a
+    :term:`software product` is governed by the :term:`Framework Carrier`.
 
-    The Lino framework as a :term:`software product` is governed by the
-    :term:`Framework Carrier`.
+    See also :doc:`/lino/what`.
 
   Lino application
 
@@ -66,5 +66,5 @@ About Lino
   Framework Carrier
 
     The legal person that governs the :term:`Lino framework` as a
-    :term:`software product`. This role is assumed *de facto* by *Rumma & Ko
-    Ltd* as long as no other legal person takes over this responsibility.
+    :term:`software product`. This role is currently assumed *de facto* by
+    *Rumma & Ko Ltd* until a successor takes over this responsibility.
