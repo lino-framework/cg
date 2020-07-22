@@ -47,6 +47,15 @@ Development services
         expert`. This is more technical and specialized than :term:`end-user
         support`.
 
+    manual testing
+
+      A method of software testing where the testers manually execute test cases
+      without using any automation tools in order to find bugs in the software
+      system.  It is imperative for every release because full automated testing
+      is not possible. Manual testing is usually done by experienced end users
+      because it requires a good knowledge of the functional requirements.
+      Optionally they can be executed by the :term:`application developer`
+      before a release, or by the :term:`site maintainer` after an upgrade.
 
 
 .. toctree::

@@ -15,6 +15,7 @@ motivations, skills and responsibilities.
    hp
    ac
    dp
+   sp
 
 
 .. glossary::

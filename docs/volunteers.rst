@@ -12,6 +12,7 @@ fields:
 - Business administration (Betriebswirtschaft / Gestion d'entreprise)
 - Analyst/Programmer (Anwendungsentwickler / Analyste-Programmeur)
 - Project management (Projektverwaltung / Gestion de projet)
+- Linux System administration (Linux-Systemverwaltung / Administrateur de systèmes Linux)
 
 
 Suggested projects

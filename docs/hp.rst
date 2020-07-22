@@ -32,6 +32,11 @@ our directory of recommended Lino hosting providers.
 
 .. glossary::
 
+  maintenance
+
+    When a :term:`support provider` helps their customer to keep a given
+    system running.
+
   server provider
 
     A :term:`hosting provider` who does :term:`server hosting`.
@@ -67,8 +72,9 @@ our directory of recommended Lino hosting providers.
 
   end-user testing
 
-      The part of testing which can be delegated to selected :term:`end users
-      <end user>`.
+      Manual tests to be executed by the :term:`site maintainer` or selected
+      :term:`end users <end user>` after a deployment in order to confirm that
+      the site works well.
 
   server administrator
 
