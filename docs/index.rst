@@ -16,7 +16,6 @@ the members of the :term:`Lino community` may use for their collaboration.
 .. toctree::
    :maxdepth: 1
 
-   volunteers
    lino/index
    actors
    services
@@ -31,3 +30,4 @@ the members of the :term:`Lino community` may use for their collaboration.
    old
    whocanhelp
    lifecycle
+   volunteers
