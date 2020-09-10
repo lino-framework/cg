@@ -28,22 +28,3 @@ applications <http://www.lino-framework.org/about/overview.html>`_ that can be
 used out of the box (by :term:`hosting providers <hosting provider>`) or by
 :term:`development providers <development provider>` (as a base for their own
 application).
-
-
-**Q: Is Lino an accounting software?**
-
-A: Accounting is just one functionality covered by Lino. And actually it isn't
-even yet in production anywhere. We are testing it. People usually prefer to use
-some "established" software for their accounting.
-
-**Q: What's the main function of Lino?**
-
-A: It's a framework to write applications. Comparable to SAP. Or imagine a very
-generic ERP software.  Here are some functions that are currently being used on
-Lino :term:`production sites <production site>`:
-
-- Office functionality (contact management, group calendar, notes, tasks, ...)
-- Recording contracts and agreements and print them out
-- Record and maintain customized data about people and business partners
-- Generate pdf or odt documents based on database content.
-- Upload files and manage them

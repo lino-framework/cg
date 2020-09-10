@@ -2,15 +2,16 @@
 About this document
 ===================
 
+This document, hereafter also the **Community Guide**, was last edited on
+|today|. A printable version of this document is available at
+https://community.lino-framework.org/dl/cg.pdf
+
+
 .. glossary::
 
   Community Guide
 
-    This document, hereafter also the **Community Guide**, was last edited on
-    |today|. A printable version of this document is available at
-    https://community.lino-framework.org/dl/cg.pdf
-
-You may use this document by referring to it in your agreements with business
+You may use the Community Guide by referring to it in your agreements with business
 partners. For legally binding agreements that refer to this document, the
 version that was published at the moment of the agreement is legally binding
 unless the partners agree on a more recent version.

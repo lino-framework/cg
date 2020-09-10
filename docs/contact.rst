@@ -27,11 +27,7 @@ How to contact the Lino Community:
   or
   `lino-developers <http://lino-framework.org/cgi-bin/mailman/listinfo/lino-developers>`__.
 
-- If you want to contribute, send an email to the team
-  and ask for a user account on https://hobbit.saffre-rumma.net
-
-- If you prefer communicating via
-  GitHub, please report your issues in the `book repository
+- Report your issues in the `book repository
   <https://github.com/lino-framework/book>`__.  Lino consists of many
   repositories, and book is the main one. We have an `organization on GitHub
   <https://github.com/lino-framework>`__ which owns the different repositories

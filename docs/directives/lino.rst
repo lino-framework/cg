@@ -8,10 +8,11 @@ About Lino
 
     The **Lino framework** is the collection of tools and approaches published
     and documented at `www.lino-framework.org
-    <https://www.lino-framework.org>`__ under a :term:`free software license`,
-    which can be used by any :term:`developer` as a toolkit for developing
-    :term:`Lino applications <Lino application>`. The Lino framework as a
-    :term:`software product` is governed by the :term:`Framework Carrier`.
+    <https://www.lino-framework.org>`__ under a :term:`free software license`.
+
+    The Lino Framework can be used by any :term:`developer` as a toolkit for
+    developing :term:`Lino applications <Lino application>`. The Lino framework
+    as a :term:`software product` is governed by the :term:`Framework Carrier`.
 
     See also :doc:`/lino/what`.
 
@@ -21,8 +22,9 @@ About Lino
     :term:`Lino framework` that has a given set of functionalities, that can be
     recognized by its :term:`end users <end user>`.
 
-    A :term:`Lino application` is governed and maintained  by its
-    :term:`application carrier`.
+    Each :term:`Lino application` is a :term:`software product` on its own,
+    governed and maintained by its :term:`application carrier`.
+
 
   Lino site
 
@@ -31,7 +33,7 @@ About Lino
 
     Every :term:`Lino site` has a web :term:`front end` under a domain or
     subdomain name, a set of local settings and configuration files, and
-    usually its own database.  Several sites can share a same database in
+    usually its own database.  Multiple sites can share a same database in
     order to provide different front ends.
 
   demo site
@@ -55,7 +57,7 @@ About Lino
 
   production server
 
-    A :term:`Lino server` designed to host one or several :term:`production sites
+    A :term:`Lino server` used to host one or several :term:`production sites
     <production site>`.
 
   demo server

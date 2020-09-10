@@ -61,7 +61,7 @@ master_doc = 'index'
 
 # General substitutions.
 project = "Lino Community Guide"
-copyright = '2019 Rumma & Ko Ltd'
+copyright = '2019-2020 Rumma & Ko Ltd'
 
 
 # The version info for the project you're documenting, acts as replacement for
@@ -131,7 +131,7 @@ pygments_style = 'sphinx'
 html_title = "Lino Community Guide"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = u"Home"
+html_short_title = "Home"
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -199,7 +199,7 @@ htmlhelp_basename = 'lcg'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, document class [howto/manual]).
 latex_documents = [
-  ('directives/index', 'cd.tex', 'Cooperation Directives', 'Rumma \& Ko Ltd', 'manual', True),
+  ('directives/index', 'cd.tex', 'Cooperation Directives', 'Rumma \& Ko Ltd', 'article', True),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

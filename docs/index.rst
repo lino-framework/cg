@@ -5,22 +5,20 @@
 Lino Community Guide
 ====================
 
-This website describes the :term:`Lino framework <Lino framework>` without using
-insider language. For technical documentation see the `Lino Book
-<https://www.lino-framework.org>`__.
-
-We call it the Community Guide because it defines concepts and vocabulary that
-the members of the :term:`Lino community` may use for their collaboration.
+This document defines concepts and rules that the members of the :term:`Lino
+community` may use for their collaboration. It avoids using technical insider
+language. For technical documentation about the Lino framework see the `Lino
+Book <https://www.lino-framework.org>`__.
 
 
 .. toctree::
    :maxdepth: 1
 
+   directives/index
    lino/index
    actors
    services
    components
-   directives/index
    contact
 
 .. toctree::

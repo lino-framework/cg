@@ -24,24 +24,19 @@ About software and copyright
 
   proprietary license
 
-    When using a **proprietary license**, the :term:`copyright holder` controls
-    all usage rights and therefore is also automatically the :term:`product
-    carrier`.
+    A license where the :term:`copyright holder` reserves all usage rights to
+    themselves.
 
-  product carrier
-
-    The legal or natural person who *carries* and *governs* the usage of a
-    :term:`software product` and represents the community of its users. He
-    invests into development, maintenance and marketing of the product. He
-    decides about the product's lifetime, usage conditions, functionalities and
-    priorities of development. He can delegate parts of his work to external
-    service providers.
+    When using a proprietary license, the copyright holder of a software product
+    is automatically the :term:`product carrier`.
 
   free software license
 
-    When publishing a :term:`software product` under a **free license**, the
-    :term:`copyright holder` explicitly renounces from controlling usage rights
-    on the product. Such a product may be used by anybody as a base for derived
+    A licence where the :term:`copyright holder` explicitly gives away all usage
+    rights under certain conditions.
+
+    A :term:`software product` published under a free license
+    may be used by other software developers as a base for derived
     work.  This is why the :term:`product carrier` of a free software product is
     legally not defined. Free software belongs to nobody, because it belongs to
     everybody.

@@ -2,7 +2,17 @@
 Application carriers
 ====================
 
-Each :term:`Lino application` is a :term:`software product` on its own.
+An :term:`application carrier` is the :term:`product carrier` of a given
+:term:`Lino application`.
+
+Responsibilities of an :term:`application carrier`:
+
+Plans the :term:`software product` and decides about its destiny.
+Decides which features to add or to remove.
+Does strategic decisions.
+
+Provides a :term:`product manager` and an :term:`development provider`.
+Provides :term:`expert support` service to :term:`site operators <site operator>`.
 
 When a given :term:`Lino application` is being used on only one site, the
 :term:`operator <site operator>` of that site is also the :term:`application

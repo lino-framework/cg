@@ -44,18 +44,21 @@ the communication between them.
 
     See :doc:`/sm`.
 
+  product carrier
+
+    The legal or natural person who *carries* and *governs* the usage of a
+    :term:`software product`.
+    
+    Invests into development, maintenance and marketing of the product.
+    Decides about the product's lifetime, usage conditions, functionalities and
+    priorities of development.
+    Represents the community of its users.
+
   application carrier
 
     The :term:`product carrier` of a given :term:`Lino application`.
 
-    Plans the :term:`software product` and decides about its destiny.
-    Decides which features to add or to remove.
-    Does strategic decisions.
-
-    Engages a :term:`product manager` and an :term:`development provider`.
-
-    Provides :term:`expert support` service
-    to :term:`site operators <site operator>`.
+    See :doc:`/ac`.
 
   development provider
 
