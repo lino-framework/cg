@@ -27,7 +27,7 @@ responsibilities:
   connection.
 
 If you are able to provide these services, you should ask for being listed in
-our directory of recommended Lino hosting providers.
+our directory of recommended :ref:`Lino hosting providers <hosting_provider>`.
 
 
 .. glossary::

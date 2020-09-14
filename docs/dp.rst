@@ -4,12 +4,10 @@
 Development providers
 =====================
 
-A :term:`development provider` employs a team of :term:`developers <developer>`
-or other :term:`software engineers <software engineer>` and operates an
-infrastructure for their collaboration.
-
-This section describes the work of a :term:`development provider`.
-
+A :term:`development provider` provides the following services, either as an
+independent freelancer or as a team of :term:`developers <developer>` or other
+:term:`software engineers <software engineer>` with an infrastructure for their
+collaboration.
 
 Development services
 ====================

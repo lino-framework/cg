@@ -2,9 +2,9 @@
 .. _lino.humans:
 
 =================
-Lino contributors
+Individuals
 =================
-  
+
 Here is a list of individual humans who deserve being mentioned here because
 they have contributed to Lino.  We put them into several categories: `Active
 contributors`_  have some official job within the community, `Deserved
@@ -37,7 +37,7 @@ Active contributors
    :width: 80px
    :align: left
 
-**Luc Saffre** 
+**Luc Saffre**
 |br| *luc* [at] *lino-framework.org*
 |br| Senior developer at :ref:`rumma`, original author of Lino_.
 
@@ -47,9 +47,9 @@ Active contributors
    :width: 80px
    :align: left
 
-**Hamza Khchine** 
+**Hamza Khchine**
 |br| *hamza* [at] *lino-framework.org*
-|br| Core developer and consultant in **Tunisia**.
+|br| Independent Lino developer and consultant in **Tunisia**.
 Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`_
 
 |br|
@@ -58,7 +58,7 @@ Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`_
    :width: 80px
    :align: left
 
-**Tonis Piip** |br| Core developer and consultant at :ref:`rumma`.
+**Tonis Piip** |br| Independent Lino developer.
 |br| *tonis* [at] *lino-framework.org*
 
 
@@ -71,7 +71,7 @@ Deserved contributors
    :width: 80px
    :align: left
 
-**Tanel Saimre** 
+**Tanel Saimre**
 |br| Lino consultant in **Vigala** and **Tallinn**
 |br| *tanel* [at] *lino-framework.org*
 
@@ -96,7 +96,7 @@ Thanks for feedback on technologies, web design, and marketing.
    :width: 80px
    :align: left
 
-**Josef Kejzlar** 
+**Josef Kejzlar**
 |br| *joe* [at] *lino-framework.org*
 |br| Lino consultant and hosting provider in **Czechia**  (`wpj <http://www.wpj.cz/>`__).
 
@@ -106,7 +106,7 @@ Thanks for feedback on technologies, web design, and marketing.
    :width: 80px
    :align: left
 
-**Mahmoud Abbas** 
+**Mahmoud Abbas**
 |br| *mahmoud* [at] *lino-framework.org*
 |br| Lino consultant and hosting provider in **Egypt**
 (`Excellent Serv <http://www.xservx.com/>`__).
@@ -117,9 +117,9 @@ Thanks for feedback on technologies, web design, and marketing.
 .. image:: /images/subha.jpg
    :width: 80px
    :align: left
-           
 
-**Subha Bera** 
+
+**Subha Bera**
 |br| Core developer and ideas contributor in **Mumbai**.
 |br| `LinkedIn <https://www.linkedin.com/in/subha-bera-a6023ba6>`__
 or `GitHub <https://github.com/orgs/lino-framework/people/subha-py>`__
@@ -132,7 +132,7 @@ or `GitHub <https://github.com/orgs/lino-framework/people/subha-py>`__
    :width: 80px
    :align: left
 
-**Sandeep Sawant** 
+**Sandeep Sawant**
 |br| Core developer and ideas contributor in **Mumbai**.
 |br| `LinkedIn <https://www.linkedin.com/in/sandeep-sawant-a0479133>`__
 or `GitHub <https://github.com/sandeez>`__
@@ -180,39 +180,35 @@ training.
 **Mads Michael** contributed advice, analysis and testing about accounting
 features and the general organization of our community.
 
-- Alicia for constructive end-user feedback (Lino Welfare)
+Alicia provided constructive end-user feedback (Lino Welfare)
 
-- Andreas for constructive end-user feedback and
-  consultation on accounting and marketing  questions.
+Andreas gave constructive end-user feedback and
+consultation on accounting and marketing questions.
 
-- Hubert for constructive end-user feedback (Lino Welfare)
+Hubert gave constructive end-user feedback (Lino Welfare)
 
-- Hugh for constructive feedback on web design and philosophical
-  questions.
+Hugh gave for constructive feedback on web design and philosophical questions.
 
-- Joe for advice, analysis and code contributions
+Joe gave advice, analysis and code contributions.
 
-- Johanna for constructive end-user feedback (Lino Avanti)
+Johanna gave constructive end-user feedback (Lino Avanti).
 
-- Lydia for constructive end-user feedback (Lino Presto)
+Lydia gave constructive end-user feedback (Lino Tera).
 
-- Melanie B and Melanie L for constructive end-user feedback (Lino Welfare)
+Melanie B and Melanie L gave constructive end-user feedback (Lino Welfare)
 
-- Merike for feedback on technical and infrastructural questions.
+Merike gave valuable feedback on technical and infrastructural questions.
 
-- Otto for feedback on technical questions.
+Otto gave valuable feedback on technical questions.
 
-- Ralf for competent feedback on marketing questions
+Ralf gave competent feedback on marketing questions
 
-- Roger for lots of ideas on marketing (Lino Voga)
+Roger gave lots of ideas on marketing (Lino Voga)
 
-- Sven for analysis, testing and user feedback (Lino Voga)
+Sven contributed analysis, testing and user feedback (Lino Voga)
 
 
 .. _TIM: http://tim.lino-framework.org/129.html
 .. _Lino: http://www.lino-framework.org
 .. _Django: http://www.djangoproject.org
 .. _ExtJS: http://www.sencha.com/products/extjs/
-
-
-
