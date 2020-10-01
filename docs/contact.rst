@@ -6,11 +6,10 @@ Contact
 .. toctree::
    :maxdepth: 1
 
+   lsf
+   rumma
    humans
    organizations
-   rumma
-   lsf
-
 
 
 How to contact the Lino Community:

@@ -7,7 +7,8 @@ About Lino
 .. toctree::
    :maxdepth: 1
 
-   what
+   site
+   framework
    why
    testimonals
    name

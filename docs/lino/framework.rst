@@ -1,8 +1,8 @@
-.. _cg.lino.what:
+.. _cg.lino.framework:
 
-=============
-What is Lino?
-=============
+===========================
+What is the Lino framework?
+===========================
 
 **Lino** is a :term:`framework`
 for developing :term:`customized database
@@ -10,6 +10,7 @@ applications <customized database application>`
 without getting locked into a proprietary vendor.
 It is a sustainably free :term:`software product` governed and
 maintained by the :ref:`lsf`.
+
 
 Lino is **based on free software technologies** like `Django
 <https://www.djangoproject.com/>`__, `React <https://reactjs.org/>`__, `Sencha

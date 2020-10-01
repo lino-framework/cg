@@ -14,12 +14,12 @@ Book <https://www.lino-framework.org>`__.
 .. toctree::
    :maxdepth: 1
 
-   directives/index
    lino/index
    actors
    services
    components
    contact
+   directives/index
 
 .. toctree::
    :maxdepth: 1

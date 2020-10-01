@@ -6,31 +6,17 @@ Individuals
 =================
 
 Here is a list of individual humans who deserve being mentioned here because
-they have contributed to Lino.  We put them into several categories: `Active
-contributors`_  have some official job within the community, `Deserved
-contributors`_ contributed unofficially and agreed to be listed with their
-contact data, and `Background contributors`_ just did not yet care of giving us
-their permission to be mentioned here (or we didn't yet ask for it).  We don't
-consider first names as something private. Before giving your permission to
-publish your full name here, please consider that this step cannot be undone.
-If --for whatever regrettable reason-- you would decide to no longer be on this
-list, we would of course remove you from the currently visble version, but you
-would still remain visible in the Git history of this document (for example
-`here
-<https://github.com/lino-framework/cg/blob/master/docs/humans.rst>`__)
-until the end of time since this content is published under the BSD license.
-
+they have contributed to Lino.
 
 
 .. |br| raw:: html
 
    <br />
 
+Public contributors
+===================
 
 .. _lino.team:
-
-Active contributors
-===================
 
 .. image:: /images/luc.jpg
    :alt: Luc
@@ -40,8 +26,7 @@ Active contributors
 **Luc Saffre**
 |br| *luc* [at] *lino-framework.org*
 |br| Senior developer at :ref:`rumma`, original author of Lino_.
-
-|br|
+|br| 28y of professional experience
 
 .. image:: /images/hamza.png
    :width: 80px
@@ -50,7 +35,7 @@ Active contributors
 **Hamza Khchine**
 |br| *hamza* [at] *lino-framework.org*
 |br| Independent Lino developer and consultant in **Tunisia**.
-Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`_
+|br| 5y of professional experience
 
 |br|
 
@@ -60,10 +45,8 @@ Also contributed to `OpenPyXL <https://bitbucket.org/openpyxl/openpyxl>`_
 
 **Tonis Piip** |br| Independent Lino developer.
 |br| *tonis* [at] *lino-framework.org*
+|br| 3y of professional experience
 
-
-Deserved contributors
-=====================
 
 |br|
 
@@ -74,6 +57,7 @@ Deserved contributors
 **Tanel Saimre**
 |br| Lino consultant in **Vigala** and **Tallinn**
 |br| *tanel* [at] *lino-framework.org*
+|br| 6 months of professional experience
 
 
 |br|
@@ -87,9 +71,8 @@ Deserved contributors
 |br| *manuel* [at] *lino-framework.org*
 |br| Lino consultant and hosting provider in **Belgium**
 (`Code Gears <http://code-gears.com/>`__).
-Thanks for feedback on technologies, web design, and marketing.
-
-
+Contributed feedback on technologies, web design, and marketing.
+|br| 3 weeks of training as :term:`application developer`.
 |br|
 
 .. image:: /images/joe.jpg
@@ -98,8 +81,7 @@ Thanks for feedback on technologies, web design, and marketing.
 
 **Josef Kejzlar**
 |br| *joe* [at] *lino-framework.org*
-|br| Lino consultant and hosting provider in **Czechia**  (`wpj <http://www.wpj.cz/>`__).
-
+|br| Application developer and hosting provider in **Czechia**  (`wpj <http://www.wpj.cz/>`__).
 |br|
 
 .. image:: /images/mahmoud.jpg
@@ -206,6 +188,20 @@ Ralf gave competent feedback on marketing questions
 Roger gave lots of ideas on marketing (Lino Voga)
 
 Sven contributed analysis, testing and user feedback (Lino Voga)
+
+
+
+`Public contributors`_ agreed to be listed with their contact data, and
+`Background contributors`_ just did not yet give us their permission to be
+mentioned here (or we didn't yet ask for it).  We don't consider first names as
+something private. Before giving your permission to publish your full name here,
+please consider that this step cannot be undone. If --for whatever regrettable
+reason-- you would decide to no longer be on this list, we would of course
+remove you from the currently visble version, but you would still remain visible
+in the Git history of this document (for example `here
+<https://github.com/lino-framework/cg/blob/master/docs/humans.rst>`__) until the
+end of time since this content is published under the BSD license.
+
 
 
 .. _TIM: http://tim.lino-framework.org/129.html

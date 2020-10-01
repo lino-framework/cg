@@ -6,15 +6,15 @@ About Lino
 
   Lino framework
 
-    The **Lino framework** is the collection of tools and approaches published
-    and documented at `www.lino-framework.org
-    <https://www.lino-framework.org>`__ under a :term:`free software license`.
+    The the collection of tools and approaches published and documented at
+    `www.lino-framework.org <https://www.lino-framework.org>`__.
+
+    See also :doc:`/lino/framework`.
 
     The Lino Framework can be used by any :term:`developer` as a toolkit for
-    developing :term:`Lino applications <Lino application>`. The Lino framework
-    as a :term:`software product` is governed by the :term:`Framework Carrier`.
+    developing :term:`Lino applications <Lino application>`. It is governed by
+    the :ref:`lsf` and published under a :term:`free software license`.
 
-    See also :doc:`/lino/what`.
 
   Lino application
 
@@ -31,10 +31,16 @@ About Lino
     An instance of a given :term:`Lino application` running on a given
     :term:`server <Lino server>`.
 
+    See also :doc:`/lino/site`.
+
+    The :term:`site operator` owns all the data on their site. The
+    :term:`application carrier` decides which functionalities are available.
+
     Every :term:`Lino site` has a web :term:`front end` under a domain or
     subdomain name, a set of local settings and configuration files, and
     usually its own database.  Multiple sites can share a same database in
     order to provide different front ends.
+
 
   demo site
 
