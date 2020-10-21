@@ -34,6 +34,12 @@ extensions += ['lino.sphinxcontrib.base']  # for tcname
 # extensions += ['sphinxcontrib.youtube']
 extensions += ['sphinx.ext.inheritance_diagram']
 
+# extensions += ['rinoh.frontend.sphinx'] # https://pypi.org/project/rinohtype/
+# latex_elements = {
+# 'papersize':'a4paper',
+# 'pointsize':'10pt'
+# }
+
 # extensions += ['atelier.sphinxconf.sigal_image']
 
 # sigal_base_url = 'http://sigal.saffre-rumma.net'
@@ -216,13 +222,14 @@ latex_documents = [
 # Documents to append as an appendix to all manuals.
 #latex_appendices = []
 
+
 # If false, no module index is generated.
 #latex_use_modindex = True
 
 # extlinks.update(ticket=('http://trac.lino-framework.org/ticket/%s', '#'))
 # extlinks.update(ticket=('javascript:alert("Sorry, linking to tickets (%s) is not yet implemented!")', '#'))
 # extlinks.update(ticket=('http://bugs.saffre-rumma.net/tickets/Ticket/%s', '#'))
-extlinks.update(ticket=('https://hobbit.saffre-rumma.net/#/api/tickets/AllTickets/%s', '#'))
+extlinks.update(ticket=('https://jane.mylino.net/#/api/tickets/AllTickets/%s', '#'))
 
 html_sidebars = {
     '**': ['languages.html', 'globaltoc.html', 'searchbox.html', 'links.html'],
