@@ -4,15 +4,13 @@
 History
 =======
 
-Lino is the successor for TIM.
-
 The history of Lino starts in 1992 with TIM, a DOS-based framework used to
 write customized database applications for small enterprises.
 TIM was written by Luc Saffre for PAC Systems as copyright holder.
 
-Allthough TIM is almost 25 years old, it continues to return enough money for
+Although TIM is almost 30 years old, it continues to return enough money for
 maintaining it and giving professional support to its users.  TIM users have
-relatively wide-spread profiles, ranging from the independant craftsman who
+relatively wide-spread profiles, ranging from the independent craftsman who
 writes 50 invoices per year to the government agency with 30 users and hundreds
 of documents per day.
 
@@ -60,6 +58,21 @@ In **December 2016** we started the `Lino Avanti <http://avanti.lino-framework.o
 
 In **May 2017** we started to work on `Lino Tera <http://tera.lino-framework.org>`__.
 
-In **June 2018** we started to work on `Lino Presto <http://presto.lino-framework.org>`__`.
+In **June 2018** we started to work on `Lino Presto <http://presto.lino-framework.org>`__.
 
-In **November 2018** Thierry started to help us with the sales work.
+.. In **November 2018** Thierry started to help us with the sales work.
+
+While Avanti and Welfare run well, the Tera and Presto projects had difficult to
+start because of changes among the customers' personnel.
+
+In **June 2020** we sent away Tonis and Hamza after three years of great
+teamwork. We wanted them to share their know-how to other companies.  They
+continue to help occasionally when needed. Read the details in Luc's blog post
+`Lino reaches a new level
+<https://luc.lino-framework.org/blog/2020/0628.html>`__.
+
+In **September 2020** Aris from Greece started to work with my help on `Lino
+Mentori <https://gitlab.com/lino-framework/mentori>`__.
+
+In **October 2020** Hannes from Tartu started working full-time as our system
+administrator.
