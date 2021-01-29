@@ -44,7 +44,11 @@ team, a series of :term:`front ends <front end>`, the technical docs and this
 
     front end
 
-        A :term:`plugin` which defines the web interface for an application.
+        In general, a software interface designed to enable user-friendly
+        interaction with a computer
+
+        More specifically in Lino, a specialized :term:`plugin` responsible to
+        render the web interface of a :term:`Lino site`.
 
         A same database can be exposed on different sites, using the same
         application but different front ends.
